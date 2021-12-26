@@ -1,6 +1,7 @@
 [
   {
     "name": "Indra Narayan Kar",
+	"avatar": "/assets/img/faculty/ink.jpg",
     "position": "Professor",
     "education": "Ph.D., IIT Kanpur, M.Tech., IIT Kanpur, B.E., Bengal Engineering College",
     "research": [
@@ -17,6 +18,7 @@
   },
   {
     "name": "S. Janardhanan",
+	"avatar": "/assets/img/faculty/janas.jpg",
     "position": "Associate Professor",
     "education": "Ph.D. & M.Tech, Systems and Control Engineering, IIT Bombay, B. E, University of Madras",
     "research": [
@@ -30,6 +32,7 @@
   },
   {
     "name": "Shubhendu Bhasin",
+	"avatar": "/assets/img/faculty/sbhasin.jpg",
     "position": "Associate Professor",
     "education": "PhD. and M. S., University of Florida, Gainesville, USA, B. E., NSIT, Delhi",
     "research": [
@@ -47,6 +50,7 @@
   },
   {
     "name": "Shaunak Sen",
+	"avatar": "/assets/img/faculty/ssen.jpg",
     "position": "Associate Professor",
     "education": "Ph.D. Caltech, M.S. Caltech, B.Tech. IIT Kanpur.",
     "research": [
@@ -59,6 +63,7 @@
   },
   {
     "name": "Deepak Patil",
+	"avatar": "/assets/img/faculty/dpatil.jpg",
     "position": "Assistant Professor",
     "education": "Ph.D. IIT Bombay, B.Tech. VJTI Mumbai.",
     "research": [
@@ -73,6 +78,7 @@
   },
   {
     "name": "Subashish Datta",
+	"avatar": "/assets/img/faculty/sdatta.jpg",
     "position": "Assistant Professor",
     "education": "Ph.D. IIT Bombay, B.Tech. Utkal University, Odisha.",
     "research": [
