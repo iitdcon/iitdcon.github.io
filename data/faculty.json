@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Indra Narayan Kar",
+    "position": "Professor",
+    "education": "Ph.D., IIT Kanpur, M.Tech., IIT Kanpur, B.E., Bengal Engineering College",
+    "research": [
+      "Control Systems",
+      "Robust Control",
+      "Mechatronics",
+      "System Identification",
+      "Intelligent Control",
+      "Embedded Systems"
+    ],
+    "room": "Block 2",
+    "email": "ink[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~ink/"
+  },
+  {
+    "name": "S. Janardhanan",
+    "position": "Associate Professor",
+    "education": "Ph.D. & M.Tech, Systems and Control Engineering, IIT Bombay, B. E, University of Madras",
+    "research": [
+      "Discrete-time Systems",
+      "Sliding mode control",
+      "Robust Control"
+    ],
+    "room": "Block 2",
+    "email": "janas[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~janas/"
+  },
+  {
+    "name": "Shubhendu Bhasin",
+    "position": "Associate Professor",
+    "education": "PhD. and M. S., University of Florida, Gainesville, USA, B. E., NSIT, Delhi",
+    "research": [
+      "Nonlinear Control",
+      "Adaptive Control of Uncertain Nonlinear Systems",
+      "Robotics",
+      "Autonomous Systems",
+      "Reinforcement Learning Control",
+      "Approximate Dynamic Programming",
+      "Differential Games"
+    ],
+    "room": "Block 2",
+    "email": "sbhasin[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~sbhasin/"
+  },
+  {
+    "name": "Shaunak Sen",
+    "position": "Associate Professor",
+    "education": "Ph.D. Caltech, M.S. Caltech, B.Tech. IIT Kanpur.",
+    "research": [
+      "Control Systems",
+      "Dynamical Systems"
+    ],
+    "room": "Block 2",
+    "email": "shaunak.sen[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~shaunak/sen/"
+  },
+  {
+    "name": "Deepak Patil",
+    "position": "Assistant Professor",
+    "education": "Ph.D. IIT Bombay, B.Tech. VJTI Mumbai.",
+    "research": [
+      "Optimal Control Theory",
+      "Multi-agent Systems",
+      "Differential Games",
+      "Switched and Hybrid systems"
+    ],
+    "room": "Block 2",
+    "email": "deepakpatil[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~deepakpatil/"
+  },
+  {
+    "name": "Subashish Datta",
+    "position": "Assistant Professor",
+    "education": "Ph.D. IIT Bombay, B.Tech. Utkal University, Odisha.",
+    "research": [
+      "Linear Control Theory",
+      "Descriptor Systems",
+      "Multi-agent Systems",
+      "Graph Theoretic Control",
+      "Robust Control and LMIs"
+    ],
+    "room": "Block 2",
+    "email": "subashish[AT]ee.iitd.ac.in",
+    "homepage": "https://web.iitd.ac.in/~subashish/"
+  }
+]
