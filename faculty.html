@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Home - Brand</title>
+    <title>Faculty | Control and Automation Group</title>
     <meta name="twitter:description" content="">
     <meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
     <meta name="twitter:card" content="summary">
@@ -44,72 +44,45 @@
             </div>
         </div>
     </nav>
-    <section class="portfolio-block cv">
+    <section class="portfolio-block cv" id="app">
         <div class="container" style="padding-right: 10px;">
             <div class="intro" style="padding: 5px;">
                 <h2 class="text-center" style="margin: 11;">Faculty Members</h2>
                 <hr style="margin: 16px 0px;">
             </div>
             <div class="work-experience group">
-                <div class="item">
+                <div class="item" v-for="fac in faculty" :key="fac.name">
                     <div class="row">
-                        <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center"><img class="rounded-circle rounded-circle" src="assets/img/ink.jpg" width="250" height="250"></div>
+                        <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
+							<img class="rounded-circle rounded-circle"
+							v-bind:src="fac.avatar" width="250" height="250">
+						</div>
                         <div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-                            <h3>Prof. Indra Narayan Kar</h3>
-                            <h5>Professor</h5>
+							<h3>Prof. {{fac.name}}</h3>
+							<h5>{{fac.position}}</h5>
                             <hr>
                             <h6><strong>Education</strong> -&nbsp;<br></h6>
-                            <h6>&nbsp;Ph.D., IIT Kanpur, M.Tech., IIT Kanpur, B.E., Bengal Engineering College&nbsp;<br></h6>
+							<h6>{{fac.education}}</h6>
                             <h6><strong>Research Interests -&nbsp;</strong><br></h6>
                             <div class="flex-row justify-content-lg-start align-items-lg-start">
-                                <h4 class="organization">Robust Control</h4>
-                                <h4 class="organization">Mechatronics</h4>
-                                <h4 class="organization">System Identification</h4>
-                                <h4 class="organization">Intelligent Control</h4>
-                                <h4 class="organization">Embedded Systems</h4>
-                                <h4 class="organization">Control Systems</h4>
+                                <h4 class="organization" v-for="item in
+										   fac.research" :key="item">{{item}}</h4>
                             </div>
                             <h6><strong>Contact Details -&nbsp;</strong><br></h6>
                             <div class="d-flex"><i class="fa fa-location-arrow" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-                                <h6>Block 2<br></h6>
+								<h6>{{fac.room}}</h6>
                             </div>
                             <div class="d-flex"><i class="fa fa-envelope" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-                                <h6>ink[AT]ee.iitd.ac.in</h6>
+								<h6>{{fac.email}}</h6>
                             </div>
                             <div class="d-flex"><i class="fa fa-globe" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i><a href=" http://web.iitd.ac.in/~ink/">
-                                    <h6>&nbsp;<a href="http://web.iitd.ac.in/~ink/">http://web.iitd.ac.in/~ink/</a></h6>
+									<h6>&nbsp;<a
+											v-bind:href="fac.homepage">{{fac.homepage}}</a></h6>
                                 </a></div>
                         </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center"><img class="rounded-circle rounded-circle" src="assets/img/janas.jpg" width="250" height="250"></div>
-                        <div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-                            <h3>Prof.&nbsp; S. Janardhanan</h3>
-                            <h5>Associate Professor</h5>
-                            <hr>
-                            <h6><strong>Education</strong> -&nbsp;<br></h6>
-                            <h6>Ph. D. and M. Tech, Systems and Control Engineering, IIT Bombay, B. E, University of Madras<br></h6>
-                            <h6><strong>Research Interests -&nbsp;</strong><br></h6>
-                            <div class="flex-row justify-content-lg-start align-items-lg-start">
-                                <h4 class="organization">Discrete Time Systems</h4>
-                                <h4 class="organization">Sliding Mode Control</h4>
-                                <h4 class="organization">Robust Control</h4>
-                            </div>
-                            <h6><strong>Contact Details -&nbsp;</strong><br></h6>
-                            <div class="d-flex"><i class="fa fa-location-arrow" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-                                <h6>Block 2<br></h6>
-                            </div>
-                            <div class="d-flex"><i class="fa fa-envelope" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-                                <h6>janas[AT]ee.iitd.ac.in</h6>
-                            </div>
-                            <div class="d-flex"><i class="fa fa-globe" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i><a href=" http://web.iitd.ac.in/~janas/">
-                                    <h6>&nbsp;<a href="http://web.iitd.ac.in/~ink/">http://web.iitd.ac.in/~janas/</a></h6>
-                                </a></div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
@@ -119,6 +92,27 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js"></script>
     <script src="assets/js/theme.js"></script>
+	<script	src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
+	<script charset="utf-8">
+		new Vue({
+			el: '#app',
+			data: {
+				faculty: null,
+			},
+			created() {
+				axios
+					.get('/assets/data/faculty.json')
+					.then(response => {
+						this.faculty = response.data;
+					})
+					.catch((e) => {
+						console.error(e)
+
+					})
+			}
+		});
+	</script>
 </body>
 
 </html>
