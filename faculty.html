@@ -1,101 +1,101 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Faculty | Control and Automation Group</title>
-    <meta name="twitter:description" content="">
-    <meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
-    <meta name="twitter:card" content="summary">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="">
-    <meta name="twitter:image" content="assets/img/iitDelLogo.png">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/Features-Clean.css">
-    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/css/pikaday.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/Projects-Horizontal.css">
-</head>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<title>Faculty | Control and Automation Group</title>
+		<meta name="twitter:description" content="">
+		<meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
+		<meta name="twitter:card" content="summary">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="">
+		<meta name="twitter:image" content="assets/img/iitDelLogo.png">
+		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+		<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/Features-Clean.css">
+		<link rel="stylesheet" href="assets/css/Footer-Basic.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/css/pikaday.min.css">
+		<link rel="stylesheet" href="assets/css/main.css">
+		<link rel="stylesheet" href="assets/css/Projects-Horizontal.css">
+	</head>
 
-<body>
-    <nav class="navbar navbar-dark navbar-expand-lg bg-white d-flex align-items-lg-center portfolio-navbar gradient" style="background: linear-gradient(133deg, black 0%, rgb(169,31,31) 0%, #3d2a2a);">
-        <div class="container"><div><a class="navbar-brand logo" href="index.html">Control &amp; Automation Group</a>
-    <p><a href="https://ee.iitd.ac.in/" class ="mainUpperLink">Electrical Engineering </a> | <a href="https://home.iitd.ac.in/" class = "mainUpperLink"> IIT Delhi</a></p>
-</div><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navbarNav-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navbarNav-1">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">People&nbsp;</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="faculty.html">Faculty</a><a class="dropdown-item" href="postdoc.html">Postdoc. Scholars</a><a class="dropdown-item" href="phd.html">Ph.D. Scholars</a><a class="dropdown-item" href="msr.html">M.S. Students</a><a class="dropdown-item" href="mtech.html">M.Tech. Students</a><a class="dropdown-item" href="staff.html">Staff</a><a class="dropdown-item" href="alumni.html">Alumni</a></div>
-                    </li>
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Research&nbsp;</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="areas.html">Research Areas</a><a class="dropdown-item" href="publications.html">Publications</a><a class="dropdown-item" href="projects.html">Projects</a></div>
-                    </li>
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Academics&nbsp;</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="ug.html">UG Courses</a><a class="dropdown-item" href="pg.html">PG Courses</a><a class="dropdown-item" href="phdcourses.html">Ph.D. Courses</a></div>
-                    </li>
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Facilities&nbsp;</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="analog.html">Analog Control Lab</a><a class="dropdown-item" href="digital.html">Digital control Lab</a><a class="dropdown-item" href="comp.html">Computational Lab</a><a class="dropdown-item" href="dycobs.html">DyCoBS Lab</a><a class="dropdown-item" href="enclave.html">Robotics Enclave</a></div>
-                    </li>
-                </ul><a class="btn btn-primary" role="button" style="background: rgb(255,255,255);color: rgb(0,0,0);font-size: 12px;" href="contact.html"><strong>&nbsp;Contact Us</strong></a>
-            </div>
-        </div>
-    </nav>
-    <section class="portfolio-block cv" id="app">
-        <div class="container" style="padding-right: 10px;">
-            <div class="intro" style="padding: 5px;">
-                <h2 class="text-center" style="margin: 11;">Faculty Members</h2>
-                <hr style="margin: 16px 0px;">
-            </div>
-            <div class="work-experience group">
-                <div class="item" v-for="fac in faculty" :key="fac.name">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
-							<img class="rounded-circle rounded-circle"
-							v-bind:src="fac.avatar" width="250" height="250">
+	<body>
+		<nav class="navbar navbar-dark navbar-expand-lg bg-white d-flex align-items-lg-center portfolio-navbar gradient" style="background: linear-gradient(133deg, black 0%, rgb(169,31,31) 0%, #3d2a2a);">
+			<div class="container"><div><a class="navbar-brand logo" href="index.html">Control &amp; Automation Group</a>
+					<p><a href="https://ee.iitd.ac.in/" class ="mainUpperLink">Electrical Engineering </a> | <a href="https://home.iitd.ac.in/" class = "mainUpperLink"> IIT Delhi</a></p>
+				</div><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navbarNav-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+				<div class="collapse navbar-collapse" id="navbarNav-1">
+					<ul class="navbar-nav ms-auto">
+						<li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">People&nbsp;</a>
+							<div class="dropdown-menu"><a class="dropdown-item" href="faculty.html">Faculty</a><a class="dropdown-item" href="postdoc.html">Postdoc. Scholars</a><a class="dropdown-item" href="phd.html">Ph.D. Scholars</a><a class="dropdown-item" href="msr.html">M.S. Students</a><a class="dropdown-item" href="mtech.html">M.Tech. Students</a><a class="dropdown-item" href="staff.html">Staff</a><a class="dropdown-item" href="alumni.html">Alumni</a></div>
+						</li>
+						<li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Research&nbsp;</a>
+							<div class="dropdown-menu"><a class="dropdown-item" href="areas.html">Research Areas</a><a class="dropdown-item" href="publications.html">Publications</a><a class="dropdown-item" href="projects.html">Projects</a></div>
+						</li>
+						<li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Academics&nbsp;</a>
+							<div class="dropdown-menu"><a class="dropdown-item" href="ug.html">UG Courses</a><a class="dropdown-item" href="pg.html">PG Courses</a><a class="dropdown-item" href="phdcourses.html">Ph.D. Courses</a></div>
+						</li>
+						<li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#">Facilities&nbsp;</a>
+							<div class="dropdown-menu"><a class="dropdown-item" href="analog.html">Analog Control Lab</a><a class="dropdown-item" href="digital.html">Digital control Lab</a><a class="dropdown-item" href="comp.html">Computational Lab</a><a class="dropdown-item" href="dycobs.html">DyCoBS Lab</a><a class="dropdown-item" href="enclave.html">Robotics Enclave</a></div>
+						</li>
+					</ul><a class="btn btn-primary" role="button" style="background: rgb(255,255,255);color: rgb(0,0,0);font-size: 12px;" href="contact.html"><strong>&nbsp;Contact Us</strong></a>
+				</div>
+			</div>
+		</nav>
+		<section class="portfolio-block cv" id="app">
+			<div class="container" style="padding-right: 10px;">
+				<div class="intro" style="padding: 5px;">
+					<h2 class="text-center" style="margin: 11;">Faculty Members</h2>
+					<hr style="margin: 16px 0px;">
+				</div>
+				<div class="work-experience group">
+					<div class="item" v-for="fac in faculty" :key="fac.name">
+						<div class="row">
+							<div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
+								<img class="rounded-circle rounded-circle"
+									 v-bind:src="fac.avatar" width="250" height="250">
+							</div>
+							<div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
+								<h3>Prof. {{fac.name}}</h3>
+								<h5>{{fac.position}}</h5>
+								<hr>
+								<h6><strong>Education</strong> -&nbsp;<br></h6>
+								<h6>{{fac.education}}</h6>
+								<h6><strong>Research Interests -&nbsp;</strong><br></h6>
+								<div class="flex-row justify-content-lg-start align-items-lg-start">
+									<h4 class="organization" v-for="item in
+											   fac.research" :key="item">{{item}}</h4>
+								</div>
+								<h6><strong>Contact Details -&nbsp;</strong><br></h6>
+								<div class="d-flex"><i class="fa fa-location-arrow" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
+									<h6>{{fac.room}}</h6>
+								</div>
+								<div class="d-flex"><i class="fa fa-envelope" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
+									<h6>{{fac.email}}</h6>
+								</div>
+								<div class="d-flex"><i class="fa fa-globe" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i><a href=" http://web.iitd.ac.in/~ink/">
+										<h6>&nbsp;<a
+													  v-bind:href="fac.homepage">{{fac.homepage}}</a></h6>
+									</a></div>
+							</div>
 						</div>
-                        <div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-							<h3>Prof. {{fac.name}}</h3>
-							<h5>{{fac.position}}</h5>
-                            <hr>
-                            <h6><strong>Education</strong> -&nbsp;<br></h6>
-							<h6>{{fac.education}}</h6>
-                            <h6><strong>Research Interests -&nbsp;</strong><br></h6>
-                            <div class="flex-row justify-content-lg-start align-items-lg-start">
-                                <h4 class="organization" v-for="item in
-										   fac.research" :key="item">{{item}}</h4>
-                            </div>
-                            <h6><strong>Contact Details -&nbsp;</strong><br></h6>
-                            <div class="d-flex"><i class="fa fa-location-arrow" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-								<h6>{{fac.room}}</h6>
-                            </div>
-                            <div class="d-flex"><i class="fa fa-envelope" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i>
-								<h6>{{fac.email}}</h6>
-                            </div>
-                            <div class="d-flex"><i class="fa fa-globe" style="padding: 2px;padding-right: 36px;padding-left: 30px;"></i><a href=" http://web.iitd.ac.in/~ink/">
-									<h6>&nbsp;<a
-											v-bind:href="fac.homepage">{{fac.homepage}}</a></h6>
-                                </a></div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <footer class="footer-basic">
-        <p class="copyright">Control and Automation Group © 2021</p>
-    </footer>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js"></script>
-    <script src="assets/js/theme.js"></script>
-	<script	src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
-	<script charset="utf-8">
-		new Vue({
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<footer class="footer-basic">
+			<p class="copyright">Control and Automation Group © 2021</p>
+		</footer>
+		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js"></script>
+		<script src="assets/js/theme.js"></script>
+		<script	src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
+		<script charset="utf-8">
+			new Vue({
 			el: '#app',
 			data: {
 				faculty: null,
@@ -112,7 +112,7 @@
 					})
 			}
 		});
-	</script>
-</body>
+		</script>
+	</body>
 
 </html>
