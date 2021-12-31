@@ -123,7 +123,7 @@
 
 {
 	"name": "Mr. Pritesh Patel", 
-	"area" : "Adaptive Fault-Tolerant Control of Uncertain Systems", 
+	"area" : "Identification and Control of Uncertain Switched and Hybrid Systems", 
 	"supervisor" : "Prof. Shubhendu Bhasin", 
 	"joining" : "July, 2018", 
 	"room" : "Block 3, 337", 
@@ -134,12 +134,12 @@
 
 {
 	"name": "Ms. Meera Patel", 
-	"area" : "Formation control of multi-vehicle systems", 
+	"area" : "Distributed control of descriptor multi-agent system", 
 	"supervisor" : "Prof. Subhasish Dutta", 
 	"joining" : "January, 2019", 
 	"room" : "Block 2, 214", 
 	"email": "meera.patel [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/meera.jpg"
+	"avatar" : "assets/img/scholars/meeraNew.jpg"
 },
 
 
