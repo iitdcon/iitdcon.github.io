@@ -58,7 +58,8 @@
 									 v-bind:src="fac.avatar" width="250" height="250">
 							</div>
 							<div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-								<h3>{{fac.name}}</h3>
+								<div v-if="fac.website"><a v-bind:href="fac.website"><h3>{{fac.name}}</h3></a></div>
+								<div v-if="!fac.website"><h3>{{fac.name}}</h3></div>
 								<hr>
 								<h6><strong>Research Area</strong> -&nbsp;<br></h6>
 								<h6>{{fac.area}}</h6>

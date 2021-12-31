@@ -58,7 +58,7 @@
 									 v-bind:src="fac.avatar" width="250" height="250">
 							</div>
 							<div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-								<h3>Prof. {{fac.name}}</h3>
+								<a v-bind:href = "fac.homepage" ><h3>Prof. {{fac.name}}</h3></a>
 								<h5>{{fac.position}}</h5>
 								<hr>
 								<h6><strong>Education</strong> -&nbsp;<br></h6>
