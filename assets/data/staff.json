@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mr. Sunil Kumar",
+    "designation": "Junior Technical Superintendent",
+    "email": "sunil[at]ee.iitd.ac.in",
+    "avatar": "assets/img/staff/snl.jpg"
+  },
+  {
+    "name": "Mr. Virender Singh",
+    "designation": "Junior Lab Assistant",
+    "email": "viru910[at]gmail.com",
+    "avatar": "assets/img/staff/vir.jpg"
+  },
+  {
+    "name": "Mr. Ashutosh Vashistha",
+    "designation": "MTS",
+    "email": "ashuvashistha1[at]gmail.com",
+    "avatar": "assets/img/staff/ashutosh.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mr. Saurabh Inamdar",
+    "area": "Parametric Estimation in Uncertain Systems with Partial State Information",
+    "supervisor": "Prof. S. Janardhanan",
+    "joining": "July 2017",
+    "email": "eez178206[at]ee.iitd.ac.in",
+    "avatar": "assets/img/default.jpg"
+  },
+  {
+    "name": "Mr. Ranjan Dasgupta",
+    "area": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "January 2016",
+    "email": "eez158420[at]ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/ran_das.jpg"
+  }
+]
