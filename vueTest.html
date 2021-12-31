@@ -9,12 +9,12 @@
 		<div id="app" class="app">
 			<p v-if="faculty">There are a total of {{faculty.length}} Faculty members</p>
 			<div>
-				<div v-for="fac in faculty" :key="fac.name" >
+				<div v-for="fac in newDates" :key="fac.name" >
 					<div>
 						<h3>{{fac.name}} - {{fac.position}}</h3>
 						
 						<img v-bind:src="fac.avatar" width="100" /> 
-						<p>{{fac.education}}</p>
+						<p>{{fac.year}}</p>
 						<ol>
 							<li v-for="item in fac.research">{{item}}</li>	
 
@@ -35,12 +35,21 @@
 				el: '#app',
 				data: {
 					faculty: null,
+					newDates :null,
 				},
+
 				created() {
 					axios
-						.get('/data/faculty.json')
+						.get('assets/data/phdAlumni.json')
 						.then(response => {
 							this.faculty = response.data;
+							this.newDates = this.faculty.sort(function(a,b){
+											a = new Date(a.year);
+											b = new Date(b.year);
+											var results = a > b ? -1 : a < b ? 1 : 0;
+								   return results;
+
+							});
 						})
 						.catch((e) => {
 							console.error(e)
