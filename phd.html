@@ -65,7 +65,8 @@
 								<hr>
 								<h6><strong>Research Area</strong> -&nbsp;<br></h6>
 								<h6>{{fac.area}}</h6>
-								<h6><strong>Supervisor -&nbsp;</strong><br></h6>
+								<h6 v-if="fac.supervisor && fac.supervisor.includes(' and ')"><strong>Supervisors -&nbsp;</strong><br></h6>
+								<h6 v-else><strong>Supervisor -&nbsp;</strong><br></h6>
 								<h6>{{fac.supervisor}}</h6>
 								<h6><strong>Joining Year -&nbsp;</strong><br></h6>
 								<h6>{{fac.joining}}</h6>
@@ -100,7 +101,8 @@
 								<hr>
 								<h6><strong>Research Area</strong> -&nbsp;<br></h6>
 								<h6>{{fac.area}}</h6>
-								<h6><strong>Supervisor -&nbsp;</strong><br></h6>
+								<h6 v-if="fac.supervisor && fac.supervisor.includes(' and ')"><strong>Supervisors -&nbsp;</strong><br></h6>
+								<h6 v-else><strong>Supervisor -&nbsp;</strong><br></h6>
 								<h6>{{fac.supervisor}}</h6>
 								<h6><strong>Joining Year -&nbsp;</strong><br></h6>
 								<h6>{{fac.joining}}</h6>

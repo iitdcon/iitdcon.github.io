@@ -63,7 +63,8 @@
 								<hr>
 								<h6><strong>Research Area</strong> -&nbsp;<br></h6>
 								<h6>{{fac.area}}</h6>
-								<h6><strong>Advisor -&nbsp;</strong><br></h6>
+								<h6 v-if="fac.advisor && fac.advisor.includes(' and ')"><strong>Advisors -&nbsp;</strong><br></h6>
+								<h6 v-else><strong>Advisor -&nbsp;</strong><br></h6>
 								<h6>{{fac.advisor}}</h6>
 								<h6><strong>Joining Year -&nbsp;</strong><br></h6>
 								<h6>{{fac.joining}}</h6>
