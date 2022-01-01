@@ -79,6 +79,34 @@
 
 				</div>
 
+				<h3>MS(R) Alumni</h3>
+				<div class="work-experience group">
+					<div class="item" v-for="fac in sortedMSAlumni" :key="fac.name">
+						<div class="row">
+							<div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
+								<img class="rounded-circle rounded-circle"
+									 v-bind:src="fac.avatar" width="250" height="250">
+							</div>
+							<div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
+								<div v-if="fac.website"><a v-bind:href="fac.website"><h3>{{fac.name}}</h3></a></div>
+								<div v-if="!fac.website"><h3>{{fac.name}}</h3></div>
+								<hr>
+								<h6><strong>Thesis</strong> -&nbsp;<br></h6>
+								<h6>{{fac.thesis}}</h6>
+								<h6 v-if="fac.supervisor && fac.supervisor.includes(' and ')"><strong>Supervisors -&nbsp;</strong><br></h6>
+								<h6 v-else><strong>Supervisor -&nbsp;</strong><br></h6>
+								<h6>{{fac.supervisor}}</h6>
+								<h6><strong>Graduating Year -&nbsp;</strong><br></h6>
+								<h6>{{fac.year}}</h6>
+								<h6><strong>Current Affiliation -&nbsp;</strong><br></h6>
+								<h6>{{fac.current}}</h6>
+								
+								
+							</div>
+						</div>
+					</div>
+
+				</div>
 				
 
 			</div>
@@ -99,6 +127,8 @@
 				data: {
 					faculty: null,
 					sortedPhdAlumni :null,
+					ms: null,
+					sortedMSAlumni :null,
 				},
 
 				created() {
@@ -107,6 +137,22 @@
 						.then(response => {
 							this.faculty = response.data;
 							this.sortedPhdAlumni = this.faculty.sort(function(a,b){
+											a = new Date(a.year);
+											b = new Date(b.year);
+											var results = a > b ? -1 : a < b ? 1 : 0;
+								   return results;
+
+							});
+						})
+						.catch((e) => {
+							console.error(e)
+
+						})
+					axios
+						.get('assets/data/msrAlumni.json')
+						.then(response => {
+							this.ms = response.data;
+							this.sortedMSAlumni = this.ms.sort(function(a,b){
 											a = new Date(a.year);
 											b = new Date(b.year);
 											var results = a > b ? -1 : a < b ? 1 : 0;

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ms. Madhu Yadav",
+    "thesis": "Vision based Control for Mobile Robots",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Sumantra Dutta Roy",
+    "year": "2019",
+    "current": "Technical Program Manager, FarEye, India",
+    "avatar": "assets/img/scholars/madhu.jpg"
+  },
+  {
+    "name": "Mr. Shantanu Singh",
+    "thesis": "Adaptive Terminal Sliding Mode for a Class of Nonlinear Uncertain Systems",
+    "supervisor": "Prof. M. Nabi and Prof. S. Janardhanan",
+    "year": "2017",
+    "current": "Ph.D. Scholar, Tel Aviv University, Israel",
+    "avatar": "assets/img/scholars/shantanu.jpg"
+  }
+]
