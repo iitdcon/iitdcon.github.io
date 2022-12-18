@@ -1,5 +1,14 @@
 [
 {
+	"name" : "Dr. Ananya Roy",
+		"thesis" : "Modeling and Design of MEMS Devices", 
+		"supervisor" : "Prof. S. Janardhanan", 
+		"year" : "2022", 
+		"current": " ",  
+		"avatar" : "assets/img/scholars/ananya_roy.jpg"
+},
+
+{
 	"name":"Dr. Arunava Banerjee", 
 		"thesis":"Design of Guidance Laws Based on Time-Energy Efficient Robust Control Strategies", 
 		"supervisor":"Prof. M. Nabi", 
@@ -60,7 +69,8 @@
 	"name":"Dr. Shifali Kalra", 
 		"thesis":"Improved Model Order Reduction Strategies for a Class of Nonlinear Circuits", 
 		"supervisor":"Prof. M. Nabi", 
-		"year":"2020", 
+		"year":"2020",
+		"current":" ",
 		"avatar" : "assets/img/scholars/shifali.png"
 },
 
@@ -96,6 +106,7 @@
 		"thesis":"Analysis and design of time-delayed systems: A Lambert W function approach", 
 		"supervisor":"Prof. S. Janardhanan and Prof. Indra Narayan Kar", 
 		"year":"2019", 
+		"current":" ",
 		"avatar" : "assets/img/scholars/default.jpg"
 },
 
