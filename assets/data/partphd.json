@@ -1,4 +1,5 @@
 [
+   
   {
     "name": "Mr. Saurabh Inamdar",
     "area": "Parametric Estimation in Uncertain Systems with Partial State Information",
@@ -7,6 +8,16 @@
     "email": "eez178206[at]ee.iitd.ac.in",
     "avatar": "assets/img/default.jpg"
   },
+  
+  {
+	"name" : "Mr. Chimmula Kishore", 
+	"area" : "Vision-based Control for Robotic Systems", 
+	"supervisor" : "Prof. Indra Narayan Kar", 
+	"joining" : "July 2016", 
+	"email" : "chimmulakishore [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/kishore.jpg"
+  },
+  
   {
     "name": "Mr. Ranjan Dasgupta",
     "area": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
