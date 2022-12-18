@@ -1,27 +1,4 @@
 [
-
-{
-	"name" : "Ms. Ananya Roy",
-	"area" : "Reduced Order Modelling for Physical Systems", 
-	"supervisor" : "Prof. S. Janardhanan", 
-	"joining" : "July 2015", 
-	"room": "Block 2, 339B", 
-	"email" : "eez158073 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/ananya_roy.jpg"
-},
-
-
-{
-	"name" : "Mr. Chimmula Kishore", 
-	"area" : "Vision-based Control for Robotic Systems", 
-	"supervisor" : "Prof. Indra Narayan Kar", 
-	"joining" : "July 2016", 
-	"room": "Block 2, 209", 
-	"email" : "chimmulakishore [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/kishore.jpg"
-},
-
-
 {
 	"name" : "Mr. Eswara Venkata Kumar", 
 	"area" : "Multi-Agent Systems", 
@@ -331,4 +308,5 @@
 	"email": "rudra.sen [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/rudra.jpg"
 }
+	
 ]
