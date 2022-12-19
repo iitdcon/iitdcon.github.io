@@ -389,5 +389,15 @@
 		"current":"Director, IIT Mandi", 
 		"website":"https://iitmandi.ac.in/institute/director.php", 
 		"avatar" : "assets/img/scholars/default.jpg"
-}	
+},
+	
+{
+	"name":"Prof. Bijnan Bandyopadhyay", 
+		"thesis":"Some new model reduction techniques for multivariable systems ", 
+		"supervisor":"Prof. S. S. Lamba", 
+		"year":"1985", 
+		"current":"Former Institute Chair Professor, Systems and Control Engineering, IIT Bombay", 
+		"website":"https://www.sc.iitb.ac.in/~bijnan/", 
+		"avatar" : "assets/img/scholars/default.jpg"
+},	
 ]
