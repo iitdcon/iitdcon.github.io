@@ -369,5 +369,16 @@
 		"current":"Associate Professor, NIT Tiruchirappalli, Tamilnadu, India", 
 		"website":"https://www.nitt.edu/home/academics/departments/ice/faculty/assoprofs/ramkalyan/", 
 		"avatar" : "assets/img/scholars/a_ramakalyan.jpg"
-}
+};
+	
+
+{
+	"name":"Prof. Laxmidhar Behera", 
+		"thesis":" ", 
+		"supervisor":"Prof. M. Gopal and Prof. S. Chaudhury", 
+		"year":"1997", 
+		"current":"Director, IIT Mandi", 
+		"website":"https://iitmandi.ac.in/institute/director.php", 
+		"avatar" : "assets/img/scholars/default.jpg"
+}	
 ]
