@@ -1,11 +1,29 @@
-[{"name" :" Mr. Vivek Kumar Mishra", 
-"area" :" Networked Control System, Topological Changes in Network.",
+[
+{"name" :" Mr. Vivek Kumar Mishra", 
+"area" :" Networked Control System, Topological Changes in Network",
 "supervisor" :" Prof. Deepak Patil",
 "joining" :" January, 2018",
 "email" :" vivek.kumar.mishra@ee.iitd.ac.in", 
 "avatar" : "assets/img/scholars/vivek.jpg"
 },
-
+{
+  "name": "Mr. Sumanta Ghosh",
+  "area": " ",
+  "supervisor": "Prof. Shubhendu Bhasin",
+  "joining": " ",
+  "email" :" @ee.iitd.ac.in",
+  "avatar": "assets/img/scholars/default.jpg"
+  },
+  
+{
+  "name" :" Mr. Samarth Kapila", 
+"area" :" Network Constraints in Multi-agent Systems",
+"supervisor" :" Prof. Deepak Patil",
+"joining" :"  ",
+"email" :" @ee.iitd.ac.in", 
+"avatar" : "assets/img/scholars/default.jpg"
+},
+  
 {
 "name" :" Mr. Chetan Sharma", 
 "supervisor" :" Prof. Indra Narayan Kar",
@@ -22,6 +40,17 @@
 "email" :" eey207622@ee.iitd.ac.in", 
 "avatar" : "assets/img/scholars/sayar.jpg"
 }
+  
+{
+"name" :" Mr. Sunil Kumar", 
+"area" :" ", 
+"supervisor" :"Prof. S. Janardhanan and Prof. Shubhendu Bhasin", 
+"joining" :" ", 
+"email" :" @ee.iitd.ac.in", 
+"avatar" : "assets/img/scholars/default.jpg"
+}
+
+  
 ]
 
 
