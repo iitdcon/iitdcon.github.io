@@ -371,6 +371,15 @@
 		"avatar" : "assets/img/scholars/a_ramakalyan.jpg"
 };
 	
+{
+	"name":"Prof. Chitralekha Mahanta", 
+		"thesis":"Damped stochastic system driven by colored noise: Analytical and digital simulation studies", 
+		"supervisor":"Prof. M. Gopal and Prof. T.G.Venkatesh (IIT Madras)", 
+		"year":"1999", 
+		"current":"Professor, IIT Guwahati, India", 
+		"website":"https://www.iitg.ac.in/chitra/index.html", 
+		"avatar" : "assets/img/scholars/default.jpg"
+};
 
 {
 	"name":"Prof. Laxmidhar Behera", 
