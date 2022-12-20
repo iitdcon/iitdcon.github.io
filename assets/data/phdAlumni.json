@@ -378,7 +378,7 @@
 		"year":"1999", 
 		"current":"Professor, IIT Guwahati, India", 
 		"website":"https://www.iitg.ac.in/chitra/index.html", 
-		"avatar" : "assets/img/scholars/default.jpg"
+		"avatar" : "assets/img/scholars/cm.jpg"
 },
 
 {
@@ -387,8 +387,8 @@
 		"supervisor":"Prof. R.K.P Bhatt and Prof. Nesar Ahmad", 
 		"year":"1999", 
 		"current":"Department of Engineering, Shahid Chamran University of Ahvaz, Iran", 
-		"website":" ", 
-		"avatar" : "assets/img/scholars/default.jpg"
+		"website":"https://www.researchgate.net/profile/S-Mortazavi", 
+		"avatar" : "assets/img/scholars/ssm.jpg"
 },
 	
 {
@@ -398,7 +398,7 @@
 		"year":"1997", 
 		"current":"Director, IIT Mandi", 
 		"website":"https://iitmandi.ac.in/institute/director.php", 
-		"avatar" : "assets/img/scholars/default.jpg"
+		"avatar" : "assets/img/scholars/ldbehera.jpg"
 },
 	
 {
@@ -408,6 +408,6 @@
 		"year":"1985", 
 		"current":"Former Institute Chair Professor, Systems and Control Engineering, IIT Bombay", 
 		"website":"https://www.sc.iitb.ac.in/~bijnan/", 
-		"avatar" : "assets/img/scholars/default.jpg"
+		"avatar" : "assets/img/scholars/bijnan.jpg"
 }	
 ]
