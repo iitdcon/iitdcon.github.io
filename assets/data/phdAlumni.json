@@ -382,6 +382,16 @@
 },
 
 {
+	"name":"Prof. Seyed Saeedallah Mortazavi", 
+		"thesis":" Design and Tuning of Fuzzy Logic Control Systems", 
+		"supervisor":"Prof. R.K.P Bhatt and Prof. Nesar Ahmad", 
+		"year":"1999", 
+		"current":"Department of Engineering, Shahid Chamran University of Ahvaz, Iran", 
+		"website":" ", 
+		"avatar" : "assets/img/scholars/default.jpg"
+},
+	
+{
 	"name":"Prof. Laxmidhar Behera", 
 		"thesis":" ", 
 		"supervisor":"Prof. M. Gopal and Prof. S. Chaudhury", 
