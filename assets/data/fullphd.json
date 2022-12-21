@@ -300,13 +300,33 @@
 },
 
 {
+	"name": "Mr. Sidhanta Mohanty", 
+	"area" : "Design Principles for Biomolecular Oscillators", 
+	"supervisor" : "Prof. Shaunak Sen", 
+	"joining": "August, 2021",
+	"room": "Block 2, 339B",
+	"email": "sidhanta.mohanty [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/sidhanta.jpg"
+},
+	
+{
+	"name": "Mr. Rudra Prakash", 
+	"area" : "Design of Biomolecular Feedforward Loops", 
+	"supervisor" : "Prof. Shaunak Sen", 
+	"joining": "August, 2021",
+	"room": "Block 2, 339B",
+	"email": "rudra.prakash [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/rudra_p.jpg"
+},
+	
+{
 	"name": "Mr. Rudra Sen", 
 	"area" : "Distributed Control for Multi-vehicle System", 
 	"supervisor" : "Prof. Subashish Datta", 
 	"joining": "August, 2021",
 	"room": "Block 2, 339B",
 	"email": "rudra.sen [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/rudra.jpg"
+	"avatar" : "assets/img/scholars/rudra_s.jpg"
 }
 	
 ]
