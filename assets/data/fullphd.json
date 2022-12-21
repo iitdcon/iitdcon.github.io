@@ -6,7 +6,7 @@
 	"joining" : "January, 2017", 
 	"room": "Block 2, 214", 
 	"email" : "eez168497 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/default.jpg"
+	"avatar" : "assets/img/phd_eswar.jpg"
 },
 
 
@@ -226,7 +226,7 @@
 	"joining": "September, 2020", 
 	"room": "Block 2, 209", 
 	"email": " [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/default.jpg"
+	"avatar" : "assets/img/phd_chayan.jpg"
 },
 
 
@@ -265,8 +265,8 @@
 
 {
 	"name": "Mr. Puneet Panchal", 
-	"area" : "Robust Control for Spacecrafts", 
-	"supervisor" : "Prof. Subashish Datta and Prof. Erkan Kayacan (University of Queensland, Australia)", 
+	"area" : "Development of advanced model-based control tools for peer-to-peer trading management in low voltage distribution networks", 
+	"supervisor" : "Prof. Subashish Datta, Prof. Rahul Sharma and Wayes Tushar(University of Queensland, Australia)", 
 	"joining": "September, 2020", 
 	"room": "Block 2, 339B", 
 	"email": "qiz208583 [at] uqidar.iitd.ac.in", 
