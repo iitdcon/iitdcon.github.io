@@ -191,6 +191,7 @@
 	"area": "Safe Data-Driven Adaptive Model Predictive Control",
 	"supervisor" : "Prof. Shubhendu Bhasin", 
 	"joining": "September, 2020", 
+	"room" : "Block 3, 337",
 	"email": "anchita.dey [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/anchita_dey.jpg"
 },
@@ -200,7 +201,8 @@
 	"name": "Ms. Akansha Rautela", 
 	"area" : "Multi-agent systems", 
 	"supervisor" : "Prof. Indra Narayan Kar and Prof. Deepak U. Patil", 
-	"joining": "September, 2020", 
+	"joining": "September, 2020",
+	"room" : "Block 2, 209",
 	"email": "eez208414 [at] iitd.ac.in", 
 	"avatar" : "assets/img/scholars/akansha_rautela.jpg"
 },
@@ -219,8 +221,11 @@
 
 {
 	"name": "Mr. Chayan Kumar Paul", 
+	"area" : " #### ", 
 	"supervisor" : "Prof. Indra Narayan Kar", 
 	"joining": "September, 2020", 
+	"room": "Block 2, 209", 
+	"email": " [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/default.jpg"
 },
 
@@ -252,6 +257,7 @@
 	"area" : "Data-driven Adaptive Control", 
 	"supervisor" : "Prof. Shubhendu Bhasin", 
 	"joining": "September, 2020", 
+	"room" : "Block 3, 337",
 	"email": "poulomee.ghosh [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/poulomee.jpg"
 },
@@ -273,6 +279,7 @@
 	"area" : "Safe Reinforcement Learning-based Control", 
 	"supervisor" : "Prof. Shubhendu Bhasin", 
 	"joining": "September, 2020", 
+	"room" : "Block 3, 337",
 	"email": "soutrik.bandyopadhyay [at] ee.iitd.ac.in",
 	"website" : "https://soutrikband.in", 
 	"avatar" : "assets/img/scholars/soutrik.jpg"
@@ -294,7 +301,7 @@
 	"area" : "Sliding Mode Control in Vehicular Control and Navigation", 
 	"supervisor" : "Prof. S. Janardhanan", 
 	"joining": "January, 2021", 
-	"room": "339B", 
+	"room": "Block 2, 339B",
 	"email": "eez208642 [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/chaithra.jpg"
 },
