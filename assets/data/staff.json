@@ -3,7 +3,7 @@
     "name": "Mr. Sunil Kumar",
     "designation": "Junior Technical Superintendent",
     "email": "sunil[at]ee.iitd.ac.in",
-    "avatar": "assets/img/staff/snl.jpg"
+    "avatar": "assets/img/staff/staff_sunil.jpg"
   },
   
 
@@ -11,14 +11,14 @@
     "name": "Mr. Kailash Rana",
     "designation": "Senior Lab Assistant",
     "email": "kailashrana@ee.iitd.ac.in",
-    "avatar": "assets/img/staff/default.jpg"
+    "avatar": "assets/img/staff/staff_kailash.jpg"
   },
   
   {
     "name": "Mr. Virender Singh",
     "designation": "MTS",
     "email": "viru910[at]gmail.com",
-    "avatar": "assets/img/staff/vir.jpg"
+    "avatar": "assets/img/staff/staff_virender.jpg"
   }
   
 ]
