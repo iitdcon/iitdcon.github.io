@@ -22,7 +22,8 @@
 		"thesis":"Advanced Robust Strategies for Attitude Control of Spacecraft", 
 		"supervisor":"Prof. M. Nabi", 
 		"year":"2021", 
-		"current":"Postdoctoral Fellow, Linköping University", 
+		"current":"Postdoctoral Fellow, Linköping University, Sweden",
+		"website":"https://liu.se/en/employee/syeam39", 	
 		"avatar" : "assets/img/scholars/syed_amrr.jpg"
 },
 
@@ -31,7 +32,7 @@
 		"thesis":"Analysis of Oscillatory Behaviour in Coupled Dynamical Systems", 
 		"supervisor":"Prof. Shaunak Sen and Dr. Kushal Shah (VuNet Systems)", 
 		"year":"2021", 
-		"current":"Postdoctoral fellow, Theoretical Physics (Low Energy Physics division), The Institute of Mathematical Sciences, Chennai, India", 
+		"current":"Postdoctoral fellow, The Institute of Mathematical Sciences, Chennai, India", 
 		"avatar" : "assets/img/scholars/Soumyadip.jpg"
 },
 
@@ -40,7 +41,7 @@
 		"thesis":"Adaptive Model Predictive Control for Uncertain LTI Systems with State and Input Constraints", 
 		"supervisor":"Prof. Shubhendu Bhasin", 
 		"year":"2021", 
-		"current":"Postdoctoral Research Fellow, Division of Automatic Control, Linköping University, Sweden", 
+		"current":"Postdoctoral Research Fellow, Linköping University, Sweden", 
 		"website":"https://liu.se/en/employee/abhdh77", 
 		"avatar" : "assets/img/scholars/abhishek_dhar.jpg"
 },
@@ -60,7 +61,7 @@
 		"thesis":"Control Strategies for Active Magnetic Bearing System", 
 		"supervisor":"Prof. M. Nabi", 
 		"year":"2021", 
-		"current":"Assistant Professor, Electrical & Electronics Engineering, Sarala Birla University, Ranchi, India", 
+		"current":"Senior Engineer, FEV Group, India", 
 		"avatar" : "assets/img/scholars/sudipta.jpg"
 },
 
@@ -70,7 +71,7 @@
 		"thesis":"Improved Model Order Reduction Strategies for a Class of Nonlinear Circuits", 
 		"supervisor":"Prof. M. Nabi", 
 		"year":"2020",
-		"current":" ",
+		"current":"Postdoctoral Researcher, IIT(BHU), Varanasi",
 		"avatar" : "assets/img/scholars/shifali.png"
 },
 
@@ -327,7 +328,7 @@
 		"thesis":"Stabilization and Synchronisation of Nonlinear Systems in Contraction Theory Framework", 
 		"supervisor":"Prof. Indra Narayan Kar", 
 		"year":"2011", 
-		"current":"Assistant Professor, Electrical Engineering, NIT Hamirpur, India", 
+		"current":"Associate Professor, Electrical Engineering, NIT Hamirpur, India", 
 		"website":"https://portfolios.nith.ac.in/index.php?/nith/dr-bharat-bhushan-sharma-", 
 		"avatar" : "assets/img/scholars/bbs.jpg"
 },
@@ -343,11 +344,11 @@
 },
 
 {
-	"name":"Dr. Gopinath S.", 
+	"name":"Dr. Gopinath Selvaraj", 
 		"thesis":"Iterative Learning Control of Nonlinear Systems", 
 		"supervisor":"Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt", 
 		"year":"2007", 
-		"current":"Architect, Robert Bosch Engineering and Business Solutions Ltd", 
+		"current":"Senior Technical Manager, Tata Elxsi, India", 
 		"avatar" : "assets/img/scholars/gopinath_s.jpg"
 },
 
@@ -406,7 +407,7 @@
 		"thesis":"Some new model reduction techniques for multivariable systems ", 
 		"supervisor":"Prof. S. S. Lamba", 
 		"year":"1985", 
-		"current":"Former Institute Chair Professor, Systems and Control Engineering, IIT Bombay", 
+		"current":"Former Professor, Systems and Control Engineering, IIT Bombay", 
 		"website":"https://www.sc.iitb.ac.in/~bijnan/", 
 		"avatar" : "assets/img/scholars/bijnan.jpg"
 }	
