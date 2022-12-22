@@ -1,35 +1,26 @@
 [
   {
-    "name": "Mashuq-un Nabi",
+    "name": "Mashuq un Nabi",
 	"avatar": "/assets/img/faculty/mnabi.jpg"
   },
   {
-    "name": "Y",
+    "name": "Madan Goapl",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   },
   {
-    "name": "Y",
+    "name": "R.K.P. Bhatt",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   },
   {
-    "name": "Y",
+    "name": "S.S. Lamba",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   },
   {
-    "name": "Y",
+    "name": "A.N. Jha",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
-  },
-  {
-    "name": "Y"
-  },
-  {
-    "name": "Y"
-  },
-  {
-    "name": "Z"
   }
 ]
