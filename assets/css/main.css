@@ -7,3 +7,15 @@
   color: inherit;
 }
 
+#logoMain{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#logoImage > img{
+  width: 75px;
+  padding-right: 10px;
+}
