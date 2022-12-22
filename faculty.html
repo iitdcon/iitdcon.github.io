@@ -94,6 +94,32 @@
 
 				</div>
 			</div>
+			<hr style="margin: 16px 0px;">
+			<div class="container" style="padding-right: 10px;">
+				<div class="intro" style="padding: 5px;">
+					<h2 class="text-center" style="margin: 11;">Previous Faculty Members</h2>
+					<hr style="margin: 16px 0px;">
+				</div>
+				<div class="work-experience group">
+					<div class="row">
+					  <div class="col-md-4" style="padding:10px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center" v-for="fac in pastFac" :key="fac.name">
+						<img v-if="fac.avatar" class="rounded-circle" v-bind:src="fac.avatar" width="200" height="200" style="padding-bottom:20px">
+						<img v-else class="rounded-circle" src="assets/img/scholars/default.jpg" width="200" height="200" style="padding-bottom:20px">
+						<h3>
+						  Prof. {{fac.name}}
+						</h3>
+						<h6 v-if="fac.duration">
+						  {{fac.duration}}
+						</h6>
+						<div v-if="fac.current">
+						  {{fac.current}}
+						</div>
+					  </div>
+					</div>
+				</div>
+
+				</div>
+			</div>
 		</section>
 		<footer class="footer-basic">
 			<p class="copyright">Control and Automation Group © 2022</p>
@@ -108,12 +134,22 @@
 			el: '#app',
 			data: {
 				faculty: null,
+				pastFac: null,
 			},
 			created() {
 				axios
 					.get('/assets/data/faculty.json')
 					.then(response => {
 						this.faculty = response.data;
+					})
+					.catch((e) => {
+						console.error(e)
+
+					})
+				axios
+					.get('assets/data/pastFaculty.json')
+					.then(response => {
+						this.pastFac = response.data;
 					})
 					.catch((e) => {
 						console.error(e)
