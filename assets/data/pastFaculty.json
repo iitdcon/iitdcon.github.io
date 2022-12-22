@@ -4,7 +4,7 @@
 	"avatar": "/assets/img/faculty/mnabi.jpg"
   },
   {
-    "name": "Madan Goapl",
+    "name": "Madan Gopal",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   },
@@ -14,17 +14,17 @@
     "current": "Professor at MIT and Cambridge"
   },
   {
-    "name": "S.S. Lamba",
-    "duration": "July 5 1000 - July 1, 1999",
-    "current": "Professor at MIT and Cambridge"
-  },
-  {
     "name": "A.N. Jha",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   },
-{
+ {
     "name": "Nesar Ahmad",
+    "duration": "July 5 1000 - July 1, 1999",
+    "current": "Professor at MIT and Cambridge"
+  },
+	  {
+    "name": "S.S. Lamba",
     "duration": "July 5 1000 - July 1, 1999",
     "current": "Professor at MIT and Cambridge"
   }
