@@ -335,6 +335,16 @@
 	"room": "Block 2, 339B",
 	"email": "rudra.sen [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/rudra_s.jpg"
+},
+	
+{
+	"name": "Mr. Riddhi Mohan Bora", 
+	"area" : "Analysis of Nonlinear Dynamical System in Contraction Framework and its Application", 
+	"supervisor" : "Prof. Subashish Datta", 
+	"joining": "July, 2022",
+	"room": "Block 2, 214",
+	"email": "eez228208 [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/riddhi.jpeg"
 }
 	
 ]
