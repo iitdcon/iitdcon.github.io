@@ -6,23 +6,88 @@ is dynamically updated on the client-side using the [[https://vuejs.org][Vue.js]
 a CDN. To update the website, one just has to update the corresponding JSON file
 in 'assets/data/' folder. *DO NOT* update the html files directly.
 
-* JSON data schema
+* Example JSON data schema
 ** faculty.json (For faculty.html page)
+#+begin_src json
+  {
+    "name": "Indra Narayan Kar",
+	"avatar": "/assets/img/faculty/ink.jpg",
+    "position": "Professor and Head of the Department",
+    "education": "Ph.D. and M.Tech. IIT Kanpur, B.E. Bengal Engineering College",
+    "research": [
+      "Robotics",
+      "Time-delay systems",
+      "Mechatronics",
+      "Robust-Optimal Control Theory and its Applications",
+      "Control and security of cyber-physical systems",
+      "Distributed optimization and applications",
+      "Incremental stability and Contraction analysis of nonlinear systems"
+    ],
+    "room": "Room No. 322, Block 2",
+    "email": "ink[AT]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~ink/"
+  },
 
+#+end_src
 ** fullphd.json (For phd.html page)
+#+begin_src json
+{
+	"name" : "Mr. Eswara Venkata Kumar",
+	"area" : "Multi-Agent Systems",
+	"supervisor" : "Prof. Deepak Patil",
+	"joining" : "January, 2017",
+	"room": "Block 2, 214",
+	"email" : "eez168497 [at] ee.iitd.ac.in",
+	"avatar" : "assets/img/scholars/phd_eswar.jpg"
+    "website": "https://www.google.com"
+},
 
+
+#+end_src
 ** msr.json (For msr.html page)
+#+begin_src json
+{
+"name" :" Mr. Sunil Kumar",
+"area" :" Trajectory Tracking of Robotic Manipulators",
+"supervisor" :"Prof. S. Janardhanan and Prof. Shubhendu Bhasin",
+"joining" :"July, 2021 ",
+"email" :" eey217524@ee.iitd.ac.in",
+"avatar" : "assets/img/staff/staff_sunil.jpg"
+},
+#+end_src
 ** msrAlumni.json (For alumni.html page)
+#+begin_src json
+  {
+    "name": "Mr. Sourodip Chowdhury",
+    "thesis": "Ground Contact Sensors Calibration for an IoT Enabled Soil Moisture Measurement Platform",
+    "supervisor": "Prof. Shaunak Sen and Prof. S. Janardhanan",
+    "year": "2022",
+    "current": "Software Engineer, Rakuten Mobile Inc., Japan",
+    "avatar": "assets/img/scholars/Sourdeep.jpeg"
+  },
+
+#+end_src
 ** partphd.json (For phd.html page)
+#+begin_src json
+{
+    	"name": "Mr. Ranjan Dasgupta",
+    	"area": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
+    	"supervisor": "Prof. Shubhendu Bhasin",
+    	"joining": "January 2016",
+    	"email": "eez158420[at]ee.iitd.ac.in",
+    	"avatar": "assets/img/scholars/ran_das.jpg"
+ },
+
+#+end_src
 ** pastFaculty.json (For faculty.html page)
-** pgcourses.json
-** phdAlumni.json
-** postDocAlumni.json
-** postdoc.json
-** projects.json
-** publications.json
-** staff.json
-** ugcourses.json
+** pgcourses.json (For pgcourses.html page)
+** phdAlumni.json (For alumni.html page)
+** postDocAlumni.json (For alumni.html page)
+** postdoc.json (For postdoc.html page)
+** projects.json (For projects.html page)
+** publications.json (For publications.html page)
+** staff.json (For staff.html page)
+** ugcourses.json (For ugcourses.html page)
 
 * Project Structure
 
