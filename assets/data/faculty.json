@@ -21,21 +21,21 @@
     "name": "S. Janardhanan",
 	"avatar": "/assets/img/faculty/janas.jpg",
     "position": "Associate Professor",
-    "education": "Ph.D. & M.Tech IIT Bombay, B.E., University of Madras",
+    "education": "Ph.D. & M.Tech IIT Bombay, B.E. University of Madras",
     "research": [
       "Discrete-time Systems",
       "Sliding mode control",
       "Robust Control"
     ],
-    "room": "Block 2",
+    "room": "Room No. 335, Block 2",
     "email": "janas[AT]ee.iitd.ac.in",
     "homepage": "http://web.iitd.ac.in/~janas/"
   },
   {
     "name": "Shubhendu Bhasin",
 	"avatar": "/assets/img/faculty/sbhasin.jpg",
-    "position": "Associate Professor",
-    "education": "PhD. and M. S., University of Florida, Gainesville, USA, B. E., NSIT, Delhi",
+    "position": "Professor",
+    "education": "PhD. and M. S. University of Florida, Gainesville, USA, B. E. NSIT, Delhi",
     "research": [
       "Nonlinear Control",
       "Adaptive Control of Uncertain Nonlinear Systems",
@@ -52,13 +52,15 @@
   {
     "name": "Shaunak Sen",
 	"avatar": "/assets/img/faculty/ssen.jpg",
-    "position": "Associate Professor",
-    "education": "Ph.D. Caltech, M.S. Caltech, B.Tech. IIT Kanpur.",
+    "position": "Professor",
+    "education": "Ph.D. and M.S. Caltech, B.Tech. IIT Kanpur.",
     "research": [
       "Control Systems",
+      "Mathematical Methods of Control & Dynamical Systems",
+      "Design of Biomolecular Circuits",
       "Dynamical Systems"
     ],
-    "room": "Block 2",
+    "room": "Room No. 217, Block 2",
     "email": "shaunak.sen[AT]ee.iitd.ac.in",
     "homepage": "http://web.iitd.ac.in/~shaunak/sen/"
   },
@@ -73,7 +75,7 @@
       "Differential Games",
       "Switched and Hybrid systems"
     ],
-    "room": "Block 2",
+    "room": "Room No. 402B, Block 2",
     "email": "deepakpatil[AT]ee.iitd.ac.in",
     "homepage": "http://web.iitd.ac.in/~deepakpatil/"
   },
@@ -89,7 +91,7 @@
       "Graph Theoretic Control",
       "Robust Control and LMIs"
     ],
-    "room": "Block 2",
+    "room": "Room No. 246, Block 2",
     "email": "subashish[AT]ee.iitd.ac.in",
     "homepage": "https://web.iitd.ac.in/~subashish/"
   }
