@@ -6,11 +6,13 @@
 {
     "name": "R.K.P. Bhatt",
     "duration": "July 5 1000 - July 1, 1999",
+    "avatar": "/assets/img/faculty/rkp.jpg",
     "current": "Professor at MIT and Cambridge"
   },	
   {
     "name": "Madan Gopal",
     "duration": "July 5 1000 - July 1, 1999",
+    "avatar": "/assets/img/faculty/mgopal.jpg",
     "current": "Professor at MIT and Cambridge"
   },
   {
@@ -21,6 +23,7 @@
  {
     "name": "Nesar Ahmad",
     "duration": "July 5 1000 - July 1, 1999",
+    "avatar": "/assets/img/faculty/naser.jpg"
     "current": "Professor at MIT and Cambridge"
   },
 	  {
