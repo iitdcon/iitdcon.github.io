@@ -2,17 +2,18 @@
   {
     "name": "Indra Narayan Kar",
 	"avatar": "/assets/img/faculty/ink.jpg",
-    "position": "Professor",
-    "education": "Ph.D., IIT Kanpur, M.Tech., IIT Kanpur, B.E., Bengal Engineering College",
+    "position": "Professor and Head of the Department",
+    "education": "Ph.D.and M.Tech. IIT Kanpur, B.E. Bengal Engineering College",
     "research": [
-      "Control Systems",
-      "Robust Control",
+      "Robotics",
+      "Time-delay systems",
       "Mechatronics",
-      "System Identification",
-      "Intelligent Control",
-      "Embedded Systems"
+      "Robust-Optimal Control Theory and its Applications",
+      "Control and security of cyber-physical systems",
+      "Distributed optimization and applications",
+      "Incremental stability and Contraction analysis of nonlinear systems"
     ],
-    "room": "Block 2",
+    "room": "Room No. 322, Block 2",
     "email": "ink[AT]ee.iitd.ac.in",
     "homepage": "http://web.iitd.ac.in/~ink/"
   },
@@ -20,7 +21,7 @@
     "name": "S. Janardhanan",
 	"avatar": "/assets/img/faculty/janas.jpg",
     "position": "Associate Professor",
-    "education": "Ph.D. & M.Tech, Systems and Control Engineering, IIT Bombay, B. E, University of Madras",
+    "education": "Ph.D. & M.Tech IIT Bombay, B.E., University of Madras",
     "research": [
       "Discrete-time Systems",
       "Sliding mode control",
