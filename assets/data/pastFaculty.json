@@ -5,25 +5,20 @@
   },
 {
     "name": "R.K.P. Bhatt",
-    "duration": "July 5 1000 - July 1, 1999",
     "avatar": "/assets/img/faculty/rkp.jpg"
   },	
   {
     "name": "Madan Gopal",
-    "duration": "July 5 1000 - July 1, 1999",
     "avatar": "/assets/img/faculty/mgopal.jpg"
   },
   {
-    "name": "A.N. Jha",
-    "duration": "July 5 1000 - July 1, 1999"
+    "name": "A.N. Jha"
   },
  {
     "name": "Nesar Ahmad",
-    "duration": "July 5 1000 - July 1, 1999",
     "avatar": "/assets/img/faculty/naser.jpg"
   },
-	  {
-    "name": "S.S. Lamba",
-    "duration": "July 5 1000 - July 1, 1999"
+{
+    "name": "S.S. Lamba"
   }
 ]
