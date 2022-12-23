@@ -80,9 +80,45 @@ in 'assets/data/' folder. *DO NOT* update the html files directly.
 
 #+end_src
 ** pastFaculty.json (For faculty.html page)
+#+begin_src json
+ {
+    "name": "Nesar Ahmad",
+    "current": "Professor at MIT and Cambridge"
+  },
+#+end_src
 ** pgcourses.json (For pgcourses.html page)
+#+begin_src json
+    {
+        "id": "ELL700",
+        "name": "Linear Systems Theory ",
+        "credit": "(3-0-0)",
+        "description": "Review of matrix algebra, state variable modelling of continuous and discrete time systems, linearization of state equations, solution of state equations of linear time-invariant and timevarying systems, Controllability and observability of dynamical systems, Minimal realization of linear systems and canonical forms, Lyapunov's stability theory for linear dynamical systems, State Feedback controllers, Observer and Controller design.",
+        "core": "yes"
+    },
+#+end_src
 ** phdAlumni.json (For alumni.html page)
+#+begin_src json
+{
+	"name":"Dr. Syed Muhammad Amrr",
+    "thesis":"Advanced Robust Strategies for Attitude Control of Spacecraft",
+    "supervisor":"Prof. M. Nabi",
+    "year":"2021",
+    "current":"Postdoctoral Fellow, Linköping University, Sweden",
+    "website":"https://liu.se/en/employee/syeam39",
+    "avatar" : "assets/img/scholars/syed_amrr.jpg"
+},
+#+end_src
 ** postDocAlumni.json (For alumni.html page)
+#+begin_src json
+  {
+    "name": "Dr. Anirudh Nath",
+    "thesis": "",
+    "supervisor" : " Prof. Shubhendu Bhasin",
+    "year": "2022",
+    "current": "",
+    "avatar": "assets/img/scholars/anirudh.jpg"
+  }
+#+end_src
 ** postdoc.json (For postdoc.html page)
 ** projects.json (For projects.html page)
 ** publications.json (For publications.html page)
@@ -99,6 +135,9 @@ in 'assets/data/' folder. *DO NOT* update the html files directly.
   | *.html      | Various pages of the website                    |
   | README.org  | This README file written in Org mode            |
   |-------------+-------------------------------------------------|
+* Some key points
+- =year= key is important in the alumni json files as this key is used to sort
+  the entries at client-side
 
 * Maintainers and Contributors
  - Apurba Das: Data collection, Data entry, Editing
