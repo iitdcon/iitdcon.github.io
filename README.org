@@ -11,9 +11,8 @@ in 'assets/data/' folder. *DO NOT* update the html files directly.
 
 ** fullphd.json (For phd.html page)
 
-** msr.json
-** msrAlumni.json
-** mtech.json
+** msr.json (For msr.html page)
+** msrAlumni.json (For alumni.html page)
 ** partphd.json (For phd.html page)
 ** pastFaculty.json (For faculty.html page)
 ** pgcourses.json
