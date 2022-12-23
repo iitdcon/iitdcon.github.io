@@ -120,11 +120,38 @@ in 'assets/data/' folder. *DO NOT* update the html files directly.
   }
 #+end_src
 ** postdoc.json (For postdoc.html page)
+#+begin_src json
+{
+    "name"    : " Dr. Neha Kailash Nawandar",
+    "area"    : " IoT applications, precision agriculture, edge computing",
+    "advisor" : " Prof. Shaunak Sen",
+    "joining" : " November, 2021",
+    "room"    : " Block 2, 339B",
+    "email"   : " nnawandar@ee.iitd.ac.in ",
+    "avatar"  : "assets/img/scholars/NehaKN.jpg"
+}
+#+end_src
 ** projects.json (For projects.html page)
+#+begin_src json
+{
+    "name": "Project Name",
+    "pi": "Name of the PI",
+    "funding": "Funding Agency"
+},
+#+end_src
 ** publications.json (For publications.html page)
 ** staff.json (For staff.html page)
+#+begin_src json
+  {
+    "name": "Mr. Sunil Kumar",
+    "designation": "Junior Technical Superintendent",
+    "email": "sunil[at]ee.iitd.ac.in",
+    "avatar": "assets/img/staff/staff_sunil.jpg"
+  },
+#+end_src
 ** ugcourses.json (For ugcourses.html page)
 
+Same as pgcourses.json
 * Project Structure
 
   |-------------+-------------------------------------------------|
