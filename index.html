@@ -120,7 +120,7 @@
             </div>
         </div>
     </section>
-    <section class="projects-horizontal">
+    <section class="projects-horizontal" id="app">
         <div class="container">
             <div class="intro">
                 <h2 class="text-center">People</h2>
@@ -132,7 +132,7 @@
                         <div class="col-md-12 col-lg-5"><a
 																class="d-xl-flex justify-content-xl-end"
 																href="faculty.html">
-                                <h1 class="text-center text-sm-start justify-content-center">6</h1>
+                                <h1 class="text-center text-sm-start justify-content-center">{{faculty}}</h1>
                             </a></div>
                         <div class="col">
                             <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Faculty Members</h1>
@@ -144,7 +144,7 @@
                         <div class="col-md-12 col-lg-5"><a
 																class="d-xl-flex justify-content-xl-end"
 																href="postdoc.html" style="color: var(--bs-red);">
-                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start">5</h1>
+                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start">{{postdoc}}</h1>
                             </a></div>
                         <div class="col">
                             <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Post-Doctoral Scholars</h1>
@@ -156,7 +156,7 @@
                         <div class="col-md-12 col-lg-5"><a
 																class="d-xl-flex justify-content-xl-end"
 																href="phd.html" style="color: var(--bs-green);">
-                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start">30+</h1>
+                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start">{{fullphd+partphd}}</h1>
                             </a></div>
                         <div class="col">
                             <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Ph.D. Scholars</h1>
@@ -165,18 +165,18 @@
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="#" style="color: var(--bs-orange);">
-                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-orange);">70+</h1>
+                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="msr.html" style="color: var(--bs-orange);">
+                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-orange);">{{msr}}</h1>
                             </a></div>
                         <div class="col text-center">
-                            <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Master's Students</h1>
+                            <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">P.G. Students</h1>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="#" style="color: var(--bs-purple);">
-                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-purple);">3</h1>
+                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="staff.html" style="color: var(--bs-purple);">
+                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-purple);">{{staff}}</h1>
                             </a></div>
                         <div class="col">
                             <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Technical Staff</h1>
@@ -185,8 +185,8 @@
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="#" style="color: var(--bs-pink);">
-                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-pink);">80+</h1>
+                        <div class="col-md-12 col-lg-5"><a class="d-xl-flex justify-content-xl-end" href="alumni.html" style="color: var(--bs-pink);">
+                                <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="color: var(--bs-pink);">{{phdAlumni+msrAlumni+postDocAlumni}}+</h1>
                             </a></div>
                         <div class="col">
                             <h1 class="text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start name">Alumni</h1>
@@ -201,7 +201,109 @@
     </footer>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
     <script src="assets/js/theme.js"></script>
+    <script charset="utf-8">
+        new Vue({
+        el: '#app',
+        data: {
+            faculty: null,
+            postdoc: null,
+            fullphd: null,
+            partphd: null,
+            msr: null,
+            staff: null,
+            msrAlumni: null,
+            phdAlumni: null,
+            postDocAlumni: null,
+
+        },
+        created() {
+            axios
+                .get('/assets/data/faculty.json')
+                .then(response => {
+                    this.faculty = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/postDocAlumni.json')
+                .then(response => {
+                    this.postDocAlumni = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/phdAlumni.json')
+                .then(response => {
+                    this.phdAlumni = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/msrAlumni.json')
+                .then(response => {
+                    this.msrAlumni = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/postdoc.json')
+                .then(response => {
+                    this.postdoc = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/msr.json')
+                .then(response => {
+                    this.msr = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/staff.json')
+                .then(response => {
+                    this.staff = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/partphd.json')
+                .then(response => {
+                    this.partphd = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+            axios
+                .get('/assets/data/fullphd.json')
+                .then(response => {
+                    this.fullphd = response.data.length;
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+        }
+    });
+    </script>
 </body>
 
 </html>
