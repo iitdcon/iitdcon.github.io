@@ -1,0 +1,43 @@
+#+TITLE: Control Group Website
+
+This is the repository containing the website of [[https://iitdcon.github.io/index.html][Control Group]] of the [[https://ee.iitd.ac.in][Department
+of Electrical Engineering]], [[https://home.iitd.ac.in][Indian Institute of Technology, Delhi]]. The website
+is dynamically updated on the client-side using the [[https://vuejs.org][Vue.js]] framework loaded via
+a CDN. To update the website, one just has to update the corresponding JSON file
+in 'assets/data/' folder. *DO NOT* update the html files directly.
+
+* JSON data schema
+** faculty.json (For faculty.html page)
+
+** fullphd.json (For phd.html page)
+
+** msr.json
+** msrAlumni.json
+** mtech.json
+** partphd.json (For phd.html page)
+** pastFaculty.json (For faculty.html page)
+** pgcourses.json
+** phdAlumni.json
+** postDocAlumni.json
+** postdoc.json
+** projects.json
+** publications.json
+** staff.json
+** ugcourses.json
+
+* Project Structure
+
+  |-------------+-------------------------------------------------|
+  | File/Folder | Description                                     |
+  |-------------+-------------------------------------------------|
+  | assets      | Relevant assets for the website                 |
+  | assets/data | JSON data for the relevant pages in the website |
+  | *.html      | Various pages of the website                    |
+  | README.org  | This README file written in Org mode            |
+  |-------------+-------------------------------------------------|
+
+* Maintainers and Contributors
+ - Apurba Das: Data collection, Data entry, Editing
+ - Soutrik Bandyopadhyay: Coding in HTML, Vue.js, CSS, Bootstrap Design
+ - Neetish Patel: Data entry, Data collation, Editing
+ - Dr. Abhilash Patel: Guidance, Technical support
