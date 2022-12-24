@@ -16,7 +16,14 @@
 	"email" : "chimmulakishore [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/kishore.jpg"
  },
-	
+	{
+	"name" : "Mr. Atul Katiyar", 
+	"area" : "Adaptive Observers for Uncertain Systems", 
+	"supervisor" : "Prof. Shubhendu Bhasin", 
+	"joining" : "July, 2017", 
+	"email" : "eez178416 [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/atul_katiyar.jpg"
+},
  {
 	"name": "Mr. Saurabh Inamdar",
 	"area": "Parametric Estimation in Uncertain Systems with Partial State Information",
