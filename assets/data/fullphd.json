@@ -53,18 +53,6 @@
 	"avatar" : "assets/img/scholars/midhun.jpg"
 },
 
-
-{
-	"name" : "Mr. Atul Katiyar", 
-	"area" : "Adaptive Observers for Uncertain Systems", 
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining" : "July, 2017", 
-	"room": "Block 2, 209", 
-	"email" : "eez178416 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/atul_katiyar.jpg"
-},
-
-
 {
 	"name": "Mr. Apurba Das", 
 	"area" : "Modeling and Control of Soft Robotic Manipulators", 
