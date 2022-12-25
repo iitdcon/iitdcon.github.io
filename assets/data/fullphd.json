@@ -295,16 +295,6 @@
 	"email": "eez208642 [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/chaithra.jpg"
 },
-
-{
-	"name": "Mr. Sidhanta Mohanty", 
-	"area" : "Design Principles for Biomolecular Oscillators", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "August, 2021",
-	"room": "Block 2, 339B",
-	"email": "sidhanta.mohanty [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/sidhanta.jpg"
-},
 	
 {
 	"name": "Mr. Rudra Prakash", 
@@ -325,7 +315,16 @@
 	"email": "rudra.sen [at] ee.iitd.ac.in", 
 	"avatar" : "assets/img/scholars/rudra_s.jpg"
 },
-	
+{
+	"name": "Mr. Sidhanta Mohanty", 
+	"area" : "Design Principles for Biomolecular Oscillators", 
+	"supervisor" : "Prof. Shaunak Sen", 
+	"joining": "August, 2021",
+	"room": "Block 2, 339B",
+	"email": "sidhanta.mohanty [at] ee.iitd.ac.in", 
+	"avatar" : "assets/img/scholars/sidhanta.jpg"
+},
+
 {
 	"name": "Mr. Riddhi Mohan Bora", 
 	"area" : "Analysis of Nonlinear Dynamical System in Contraction Framework and its Application", 
