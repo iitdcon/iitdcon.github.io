@@ -60,7 +60,7 @@
 	"joining" : "January, 2018", 
 	"room" : "Block 2, 339B", 
 	"email": "apurba.das [at] ee.iitd.ac.in", 
-	"website" : "https://sites.google.com/view/das-apurba/home", 
+	"website" : "https://sites.google.com/view/das-apurba", 
 	"avatar" : "assets/img/scholars/apurba_das.jpg"
 },
 
@@ -159,7 +159,7 @@
 	"joining": "January, 2020", 
 	"room": "Block 2, 339B", 
 	"email": "atul.sharma [at] ee.iitd.ac.in", 
-	"website" : "https://sites.google.com/view/sharmaatul/home", 
+	"website" : "https://sites.google.com/view/sharmaatul", 
 	"avatar" : "assets/img/scholars/atul_sharma.jpg"
 	
 },
@@ -189,7 +189,7 @@
 {
 	"name": "Ms. Akansha Rautela", 
 	"area" : "Multi-agent systems", 
-	"supervisor" : "Prof. Indra Narayan Kar and Prof. Deepak U. Patil", 
+	"supervisor" : "Prof. Indra Narayan Kar and Prof. Deepak Patil", 
 	"joining": "September, 2020",
 	"room" : "Block 2, 209",
 	"email": "eez208414 [at] iitd.ac.in", 
