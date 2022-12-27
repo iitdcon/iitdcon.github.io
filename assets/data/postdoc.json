@@ -1,15 +1,5 @@
 [
 {
-"name"    : " Dr. Anirudh Nath", 
-"area"    : " Battery Management Systems, Electric Vehicle", 
-"advisor" : " Prof. Shubhendu Bhasin", 
-"joining" : " September, 2019", 
-"room"    : " Block 2, 209", 
-"email"   : " anirudhnath@ee.iitd.ac.in",
-"avatar"  : "assets/img/scholars/anirudh.jpg"
-},
-
-{
 "name"    : " Dr. Neha Kailash Nawandar", 
 "area"    : " IoT applications, precision agriculture, edge computing", 
 "advisor" : " Prof. Shaunak Sen", 
