@@ -133,6 +133,15 @@
                   </strong> -&nbsp;
                   {{fac.room}}
 								<h6>
+								<h6 v-if="fac.incharge">
+                  <strong>Faculty Incharge
+                  </strong> -&nbsp;
+                  {{fac.incharge}}
+								<h6>
+								<h6 v-if="fac.contact">
+                  <strong>Lab Contact No.</strong> -&nbsp;
+                  {{fac.contact}}
+								<h6>
                 <h6 v-if="fac.description" style="text-align:justify">
                   {{fac.description}}
                 </h6>
