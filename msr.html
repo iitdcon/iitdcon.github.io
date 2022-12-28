@@ -196,7 +196,14 @@
 						<h3 style="padding-top:20px">
 						  {{fac.name}}
 						</h3>
-					  </div>
+						<div v-if="fac.email">
+								<div class="d-flex">
+                  <i class="fa fa-envelope" style="padding-right:10px">
+                  </i>
+									<h6>{{fac.email}}
+                  </h6>
+								</div>
+						</div>
 					</div>
 				</div>
 
