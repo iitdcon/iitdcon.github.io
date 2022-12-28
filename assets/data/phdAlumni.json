@@ -1,374 +1,409 @@
 [
-  {
-    "name": "Dr. Ananya Roy",
-    "thesis": "Modeling and Design of MEMS Devices",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2022",
-    "current": " ",
-    "avatar": "assets/img/scholars/ananya_roy.jpg"
-  },
-  {
-    "name": "Dr. Arunava Banerjee",
-    "thesis": "Design of Guidance Laws Based on Time-Energy Efficient Robust Control Strategies",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2021",
-    "current": "Postdoctoral Fellow, University of Alberta",
-    "avatar": "assets/img/scholars/arunava.jpg"
-  },
-  {
-    "name": "Dr. Syed Muhammad Amrr",
-    "thesis": "Advanced Robust Strategies for Attitude Control of Spacecraft",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2021",
-    "current": "Postdoctoral Fellow, Linköping University, Sweden",
-    "website": "https://liu.se/en/employee/syeam39",
-    "avatar": "assets/img/scholars/syed_amrr.jpg"
-  },
-  {
-    "name": "Dr. Soumyadip Banerjee",
-    "thesis": "Analysis of Oscillatory Behaviour in Coupled Dynamical Systems",
-    "supervisor": "Prof. Shaunak Sen and Dr. Kushal Shah (VuNet Systems)",
-    "year": "2021",
-    "current": "Postdoctoral fellow, The Institute of Mathematical Sciences, Chennai, India",
-    "avatar": "assets/img/scholars/Soumyadip.jpg"
-  },
-  {
-    "name": "Dr. Abhishek Dhar",
-    "thesis": "Adaptive Model Predictive Control for Uncertain LTI Systems with State and Input Constraints",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "year": "2021",
-    "current": "Postdoctoral Research Fellow, Linköping University, Sweden",
-    "website": "https://liu.se/en/employee/abhdh77",
-    "avatar": "assets/img/scholars/abhishek_dhar.jpg"
-  },
-  {
-    "name": "Dr. Abhilash Patel",
-    "thesis": "Biomolecular Feedforward Loops: Pulse Dynamics, Design Constraints, and Robustness.",
-    "supervisor": "Prof. Shaunak Sen",
-    "year": "2021",
-    "current": "Assistant Professor, Department of Electrical Engineering, IIT Kanpur",
-    "website": "https://home.iitk.ac.in/~apatel/",
-    "avatar": "assets/img/scholars/abhilash_patel.jpg"
-  },
-  {
-    "name": "Dr. Sudipta Saha",
-    "thesis": "Control Strategies for Active Magnetic Bearing System",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2021",
-    "current": "Senior Engineer, FEV Group, India",
-    "avatar": "assets/img/scholars/sudipta.jpg"
-  },
-  {
-    "name": "Dr. Shifali Kalra",
-    "thesis": "Improved Model Order Reduction Strategies for a Class of Nonlinear Circuits",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2020",
-    "current": "Postdoctoral Researcher, IIT(BHU), Varanasi",
-    "avatar": "assets/img/scholars/shifali.png"
-  },
-  {
-    "name": "Dr. Shyam Krishan Joshi",
-    "thesis": "Synchronization of Coupled Benchmark Oscillators: Theory and Experiments",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. Shaunak Sen",
-    "year": "2020",
-    "current": " Postdoctoral Researcher, University of Naples Federico II, Italy",
-    "avatar": "assets/img/scholars/shyam.jpg"
-  },
-  {
-    "name": "Dr. Venkat Bokka",
-    "thesis": "Characterization of Amplitude-Timescale Covariations in Biomolecular Systems",
-    "supervisor": "Prof. Shaunak Sen",
-    "year": "2019",
-    "current": "Manager (Education & Training), IHFC, India",
-    "avatar": "assets/img/scholars/venkat.jpg"
-  },
-  {
-    "name": "Dr. Joyjit Mukherjee",
-    "thesis": "Maneuvering Of Serpentine Robots: An Adaptive Robust Control Approach",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee (ME, IIT Delhi)",
-    "year": "2019",
-    "current": "Assistant Professor, BITS Pilani, Hyderabad Campus, India",
-    "website": "https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile",
-    "avatar": "assets/img/scholars/joy.jpg"
-  },
-  {
-    "name": "Dr. Niraj Choudhary",
-    "thesis": "Analysis and design of time-delayed systems: A Lambert W function approach",
-    "supervisor": "Prof. S. Janardhanan and Prof. Indra Narayan Kar",
-    "year": "2019",
-    "current": " ",
-    "avatar": "assets/img/scholars/nrj1.jpg"
-  },
-  {
-    "name": "Dr. Ashish Kumar Jain",
-    "thesis": "Control of Uncertain Nonlinear Systems with Unknown Time Delay",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "year": "2019",
-    "current": "Assistant Professor, M. J. P. Rohilkhand University, India",
-    "website": "https://mjprudor.ac.in/rms/profile.aspx?rmsid=+RvUYnQa0mwZKL5IyKJADWw1OfQ2cmEmy9UvbJRZhU8=",
-    "avatar": "assets/img/scholars/ashish.jpg"
-  },
-  {
-    "name": "Dr. Abhishek Dey",
-    "thesis": "Modeling and Identification of Biomolecular Systems",
-    "supervisor": "Prof. Shaunak Sen",
-    "year": "2019",
-    "current": "Assistant Professor, NIT Rourkela, India",
-    "website": "https://website.nitrkl.ac.in/FProfile.aspx?e=deyab",
-    "avatar": "assets/img/scholars/abhishek_dey.jpg"
-  },
-  {
-    "name": "Dr. Satnesh Singh",
-    "thesis": "Discrete-time Stochastic Sliding Mode Control using Functional Observation",
-    "supervisor": "Prof. S. Janardhanan",
-    "year": "2019",
-    "current": "Research Professor, Electronic & Electrical Engineering, Kyungpook National University, South Korea",
-    "avatar": "assets/img/scholars/satnesh.jpg"
-  },
-  {
-    "name": "Dr. Sumit Kumar Jha",
-    "thesis": "Filter-based Adaptive Optimal Control designs for Uncertain Linear time Invariant Systems",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "year": "2019",
-    "current": "Assistant Professor, NIT Allahabad, India",
-    "website": "http://mnnit.ac.in/profile/sumit-k",
-    "avatar": "assets/img/scholars/sumit.jpg"
-  },
-  {
-    "name": "Dr. Sayan Basu Roy",
-    "thesis": "Relaxing Persistence of Excitation for Parameter Convergence in Adaptive Control: An Initial Excitation Based Approach",
-    "supervisor": "Prof. Shubhendu Bhasin and Prof. Indra Narayan Kar",
-    "year": "2019",
-    "current": "Assistant Professor, IIIT Delhi, India",
-    "website": "https://www.iiitd.ac.in/sayan",
-    "avatar": "assets/img/scholars/sayan.jpg"
-  },
-  {
-    "name": "Dr. Madan Mohan Rayguru",
-    "thesis": "Contraction based Stabilization and Tracking of singularly perturbed systems",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2018",
-    "current": "Assistant Professor, Delhi Technological University, India",
-    "website": "http://www.dtu.ac.in/Web/Departments/Electrical/faculty/mmrayguru.php",
-    "avatar": "assets/img/scholars/madan.jpg"
-  },
-  {
-    "name": "Dr. Spandan Roy",
-    "thesis": "Adaptive-Robust Control of a Class of Uncertain Euler-Lagrange Systems",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2018",
-    "current": "Assistant Professor, IIIT Hyderabad, India",
-    "website": "https://www.iiit.ac.in/people/faculty/Spandan/",
-    "avatar": "assets/img/scholars/spandan.jpg"
-  },
-  {
-    "name": "Dr. Gagan Deep Meena",
-    "thesis": "On Discretization of Continuous-time Dynamical Systems",
-    "supervisor": "Prof. S. Janardhanan",
-    "year": "2018",
-    "current": "Assistant Professor, NIT Patna, India",
-    "website": "http://www.nitp.ac.in/php/faculty_profile.php?id=gagandeep.ee@nitp.ac.in",
-    "avatar": "assets/img/scholars/gagan.jpg"
-  },
-  {
-    "name": "Dr. Nalin Kumar Sharma",
-    "thesis": "Discrete-time Higher Order Sliding Mode: The Concept and The Control",
-    "supervisor": "Prof. S. Janardhanan",
-    "year": "2018",
-    "current": "Assistant Professor, Dhirubhai Ambani Institute of Information and Communication Technology, India",
-    "website": "https://sites.google.com/view/nalinkumarsharma/",
-    "avatar": "assets/img/scholars/nalin.jpg"
-  },
-  {
-    "name": "Dr. Niladri S. Tripathy",
-    "thesis": "Nonlinear Control of Cyber-physical systems",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. Kolin Paul (CSE, IIT Delhi)",
-    "year": "2017",
-    "current": "Assistant Professor, IIT Jodhpur, India",
-    "website": "iitj.ac.in/department/facultyprofile.php?str=niladri@iitj.ac.in&dept=ee",
-    "avatar": "assets/img/scholars/niladri.jpg"
-  },
-  {
-    "name": "Dr. Soumic Sarkar",
-    "thesis": "Formation Topologies and Cooperative Control of Multi-agent Systems",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2016",
-    "current": " Algorithm Specialist, TARDID Technologies Pvt. Ltd, India",
-    "avatar": "assets/img/scholars/soumic.jpg"
-  },
-  {
-    "name": "Dr. Koena Mukharjee",
-    "thesis": "Robust region reaching and tracking control of an autonomous underwater vehicle",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt",
-    "year": "2016",
-    "current": "Assistant Professor, Dept. of Electronics & Instrumentation Engineering, NIT Silchar, India",
-    "avatar": "assets/img/scholars/knm.jpg"
-  },
-  {
-    "name": "Dr. Pyare Mohan Tiwari",
-    "thesis": "Nonlinear Motion Control Using Variable Structure Control",
-    "supervisor": "Prof. S. Janardhanan and Prof. M. Nabi",
-    "year": "2016",
-    "current": "Professor, Electrical Engineering, AMITY University, Noida, India",
-    "website": "http://auup.amity.edu/faculty-detail.aspx?facultyID=8646",
-    "avatar": "assets/img/scholars/pmt.jpg"
-  },
-  {
-    "name": "Dr. Neeli Satyanarayana",
-    "thesis": "Multirate Output Functional Observer Design and its Control Applications",
-    "supervisor": "Prof. S. Janardhanan",
-    "year": "2014",
-    "current": "Assistant Professor, Electrical Engineering, MNIT Jaipur, India",
-    "website": "https://mnit.ac.in/dept_ee/profile?fid=R62J",
-    "avatar": "assets/img/scholars/neeli.jpg"
-  },
-  {
-    "name": "Dr. Pankaj Mukhija",
-    "thesis": "Stability of Time-delay Systems with Bounded Nonlinearity",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt",
-    "year": "2013",
-    "current": "Assistant Professor, EEE, NIT Delhi, India",
-    "website": "https://nitdelhi.ac.in/?page_id=13670/?action=profile&id=11",
-    "avatar": "assets/img/scholars/mkh.jpg"
-  },
-  {
-    "name": "Dr. Majeed Mohamed",
-    "thesis": "Parameter Estimation and Contraction based Controller Design of Aircraft System",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2013",
-    "current": "Senior Principal Scientist, National Aeronautics Laboratory, India",
-    "website": "https://nal.irins.org/profile/67657",
-    "avatar": "assets/img/scholars/majeed.jpg"
-  },
-  {
-    "name": "Dr. M. Abid Bazaz",
-    "thesis": "Structure Preserving and Parametric Reduced Order Modeling Strategies for System Simulation",
-    "supervisor": "Prof. M. Nabi and Prof. S. Janardhanan",
-    "year": "2013",
-    "current": "Professor, Electrical Engg, NIT Srinagar, India",
-    "website": "https://www.abidbazaz.com/",
-    "avatar": "assets/img/scholars/ab.jpg"
-  },
-  {
-    "name": "Dr. Shahkar A. Nahvi",
-    "thesis": "Reduced Order Modelling and Fast Simulation Strategies for Nonlinear Dynamic Systems",
-    "supervisor": "Prof. M. Nabi and Prof. S. Janardhanan",
-    "year": "2013",
-    "current": "Assistant Professor, Electrical Engineering, IUST J&K, India",
-    "website": "https://iust.ac.in/Index/Faculty.aspx?DeptCode=DIC",
-    "avatar": "assets/img/scholars/sha.jpg"
-  },
-  {
-    "name": "Dr. Seema S. Sharma",
-    "thesis": "On the Identification of Grasping Parameters in Robot",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. S. Mukherjee (ME, IIT Delhi)",
-    "year": "2013",
-    "avatar": "assets/img/scholars/default.jpg"
-  },
-  {
-    "name": "Dr. Paramita Guha",
-    "thesis": "Reduced Order Modeling & Control of Distributed Parameter Systems",
-    "supervisor": "Prof. M. Nabi",
-    "year": "2012",
-    "current": "Sr. Scientist, CSIR-CSIO Chandigarh, India",
-    "website": "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1035",
-    "avatar": "assets/img/scholars/pguha.jpeg"
-  },
-  {
-    "name": "Dr. Hitesh B. Shah",
-    "thesis": "Novel Strategies in Reinforcement Learning for the Design of Robust Control",
-    "supervisor": "Prof. M. Gopal",
-    "year": "2011",
-    "current": "Professor, G H Patel College of Engineering & Technology, Anand, Gujarat, India",
-    "website": "https://www.gcet.ac.in/staffdetails.php?fid=VDA0NA==",
-    "avatar": "assets/img/scholars/hitesh_shah.jpg"
-  },
-  {
-    "name": "Dr. Mahendra Kumar",
-    "thesis": "Modeling, Control and Fault Diagnosis of Air Conditioning Systems",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2011",
-    "current": "Indian Railways, India",
-    "avatar": "assets/img/scholars/default.jpg"
-  },
-  {
-    "name": "Dr. Bharat Bhushan Sharma",
-    "thesis": "Stabilization and Synchronisation of Nonlinear Systems in Contraction Theory Framework",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "year": "2011",
-    "current": "Associate Professor, Electrical Engineering, NIT Hamirpur, India",
-    "website": "https://portfolios.nith.ac.in/index.php?/nith/dr-bharat-bhushan-sharma-",
-    "avatar": "assets/img/scholars/bbs.jpg"
-  },
-  {
-    "name": "Prof. Dipak M. Adhyaru",
-    "thesis": "Robust Optimal Control Framework for Nonlinear Systems",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. M. Gopal",
-    "year": "2010",
-    "current": "Professor, Electronics & Instrumentation Engineering, Nirma University, India",
-    "website": "https://technology.nirmauni.ac.in/author/dipak/",
-    "avatar": "assets/img/scholars/dpk.jpg"
-  },
-  {
-    "name": "Dr. Gopinath Selvaraj",
-    "thesis": "Iterative Learning Control of Nonlinear Systems",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt",
-    "year": "2007",
-    "current": "Senior Technical Manager, Tata Elxsi, India",
-    "avatar": "assets/img/scholars/gopinath_s.jpg"
-  },
-  {
-    "name": "Prof. Shubhi Purwar",
-    "thesis": "Intelligent Control of Nonlinear Systems",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. A. N. Jha",
-    "year": "2006",
-    "current": "Professor, Electrical Engineering, MNNIT Allahbad, India",
-    "website": "http://www.mnnit.ac.in/profile/shubhi",
-    "avatar": "assets/img/scholars/sbp.jpg"
-  },
-  {
-    "name": "Dr. A. Ramakalyan",
-    "thesis": "Dynamic non-coop. games & robust control for a class of nonlinear systems",
-    "supervisor": "Prof. M. Gopal",
-    "year": "2000",
-    "current": "Associate Professor, NIT Tiruchirappalli, Tamilnadu, India",
-    "website": "https://www.nitt.edu/home/academics/departments/ice/faculty/assoprofs/ramkalyan/",
-    "avatar": "assets/img/scholars/a_ramakalyan.jpg"
-  },
-  {
-    "name": "Prof. Chitralekha Mahanta",
-    "thesis": "Damped stochastic system driven by colored noise: Analytical and digital simulation studies",
-    "supervisor": "Prof. M. Gopal and Prof. T.G.Venkatesh (IIT Madras)",
-    "year": "1999",
-    "current": "Professor, IIT Guwahati, India",
-    "website": "https://www.iitg.ac.in/chitra/index.html",
-    "avatar": "assets/img/scholars/cm.jpg"
-  },
-  {
-    "name": "Prof. Seyed Saeedallah Mortazavi",
-    "thesis": " Design and Tuning of Fuzzy Logic Control Systems",
-    "supervisor": "Prof. R.K.P Bhatt and Prof. Nesar Ahmad",
-    "year": "1999",
-    "current": "Department of Engineering, Shahid Chamran University of Ahvaz, Iran",
-    "website": "https://www.researchgate.net/profile/S-Mortazavi",
-    "avatar": "assets/img/scholars/ssm.jpg"
-  },
-  {
-    "name": "Prof. Laxmidhar Behera",
-    "thesis": " ",
-    "supervisor": "Prof. M. Gopal and Prof. S. Chaudhury",
-    "year": "1997",
-    "current": "Director, IIT Mandi",
-    "website": "https://iitmandi.ac.in/institute/director.php",
-    "avatar": "assets/img/scholars/ldbehera.jpg"
-  },
-  {
-    "name": "Prof. Bijnan Bandyopadhyay",
-    "thesis": "Some new model reduction techniques for multivariable systems ",
-    "supervisor": "Prof. S. S. Lamba",
-    "year": "1985",
-    "current": "Former Professor, Systems and Control Engineering, IIT Bombay",
-    "website": "https://www.sc.iitb.ac.in/~bijnan/",
-    "avatar": "assets/img/scholars/bijnan.jpg"
-  }
+{
+	"name" : "Dr. Ananya Roy",
+		"thesis" : "Modeling and Design of MEMS Devices", 
+		"supervisor" : "Prof. M. Nabi", 
+		"year" : "2022", 
+		"current": " ",  
+		"avatar" : "assets/img/scholars/ananya_roy.jpg"
+},
+
+{
+	"name":"Dr. Arunava Banerjee", 
+		"thesis":"Design of Guidance Laws Based on Time-Energy Efficient Robust Control Strategies", 
+		"supervisor":"Prof. M. Nabi", 
+		"year":"2021", 
+		"current":"Postdoctoral Fellow, University of Alberta", 
+		"avatar" : "assets/img/scholars/arunava.jpg"
+},
+
+{
+	"name":"Dr. Syed Muhammad Amrr", 
+		"thesis":"Advanced Robust Strategies for Attitude Control of Spacecraft", 
+		"supervisor":"Prof. M. Nabi", 
+		"year":"2021", 
+		"current":"Postdoctoral Fellow, Linköping University, Sweden",
+		"website":"https://liu.se/en/employee/syeam39", 	
+		"avatar" : "assets/img/scholars/syed_amrr.jpg"
+},
+
+{
+	"name":"Dr. Soumyadip Banerjee", 
+		"thesis":"Analysis of Oscillatory Behaviour in Coupled Dynamical Systems", 
+		"supervisor":"Prof. Shaunak Sen and Dr. Kushal Shah (VuNet Systems)", 
+		"year":"2021", 
+		"current":"Postdoctoral fellow, The Institute of Mathematical Sciences, Chennai, India", 
+		"avatar" : "assets/img/scholars/Soumyadip.jpg"
+},
+
+{
+	"name":"Dr. Abhishek Dhar", 
+		"thesis":"Adaptive Model Predictive Control for Uncertain LTI Systems with State and Input Constraints", 
+		"supervisor":"Prof. Shubhendu Bhasin", 
+		"year":"2021", 
+		"current":"Postdoctoral Research Fellow, Linköping University, Sweden", 
+		"website":"https://liu.se/en/employee/abhdh77", 
+		"avatar" : "assets/img/scholars/abhishek_dhar.jpg"
+},
+
+{
+	"name":"Dr. Abhilash Patel", 
+		"thesis":"Biomolecular Feedforward Loops: Pulse Dynamics, Design Constraints, and Robustness.", 
+		"supervisor":"Prof. Shaunak Sen", 
+		"year":"2021", 
+		"current":"Assistant Professor, Department of Electrical Engineering, IIT Kanpur", 
+		"website":"https://home.iitk.ac.in/~apatel/", 
+		"avatar" : "assets/img/scholars/abhilash_patel.jpg"
+},
+
+{
+	"name":"Dr. Sudipta Saha", 
+		"thesis":"Control Strategies for Active Magnetic Bearing System", 
+		"supervisor":"Prof. M. Nabi", 
+		"year":"2021", 
+		"current":"Senior Engineer, FEV Group, India", 
+		"avatar" : "assets/img/scholars/sudipta.jpg"
+},
+
+
+{
+	"name":"Dr. Shifali Kalra", 
+		"thesis":"Improved Model Order Reduction Strategies for a Class of Nonlinear Circuits", 
+		"supervisor":"Prof. M. Nabi", 
+		"year":"2020",
+		"current":"Postdoctoral Researcher, IIT(BHU), Varanasi",
+		"avatar" : "assets/img/scholars/shifali.png"
+},
+
+{
+	"name":"Dr. Shyam Krishan Joshi", 
+		"thesis":"Synchronization of Coupled Benchmark Oscillators: Theory and Experiments", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. Shaunak Sen", 
+		"year":"2020", 
+		"current":" Postdoctoral Researcher, University of Naples Federico II, Italy", 
+		"avatar" : "assets/img/scholars/shyam.jpg"
+},
+
+{
+	"name":"Dr. Venkat Bokka", 
+		"thesis":"Characterization of Amplitude-Timescale Covariations in Biomolecular Systems", 
+		"supervisor":"Prof. Shaunak Sen", 
+		"year":"2019", 
+		"current":"Manager (Education & Training), IHFC, India", 
+		"avatar" : "assets/img/scholars/venkat.jpg"
+},
+
+{
+	"name":"Dr. Joyjit Mukherjee", 
+		"thesis":"Maneuvering Of Serpentine Robots: An Adaptive Robust Control Approach", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee (ME, IIT Delhi)", 
+		"year":"2019", 
+		"current":"Assistant Professor, BITS Pilani, Hyderabad Campus, India", 
+		"website":"https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile", 
+		"avatar" : "assets/img/scholars/joy.jpg"
+},
+
+{
+	"name":"Dr. Niraj Choudhary", 
+		"thesis":"Analysis and design of time-delayed systems: A Lambert W function approach", 
+		"supervisor":"Prof. S. Janardhanan and Prof. Indra Narayan Kar", 
+		"year":"2019", 
+		"current":" ",
+		"avatar" : "assets/img/scholars/nrj1.jpg"
+},
+
+{
+	"name":"Dr. Ashish Kumar Jain", 
+		"thesis":"Control of Uncertain Nonlinear Systems with Unknown Time Delay", 
+		"supervisor":"Prof. Shubhendu Bhasin", 
+		"year":"2019", 
+		"current":"Assistant Professor, M. J. P. Rohilkhand University, India", 
+		"website":"https://mjprudor.ac.in/rms/profile.aspx?rmsid=+RvUYnQa0mwZKL5IyKJADWw1OfQ2cmEmy9UvbJRZhU8=", 
+		"avatar" : "assets/img/scholars/ashish.jpg"
+},
+
+{
+	"name":"Dr. Abhishek Dey", 
+		"thesis":"Modeling and Identification of Biomolecular Systems", 
+		"supervisor":"Prof. Shaunak Sen", 
+		"year":"2019", 
+		"current":"Assistant Professor, NIT Rourkela, India", 
+		"website":"https://website.nitrkl.ac.in/FProfile.aspx?e=deyab", 
+		"avatar" : "assets/img/scholars/abhishek_dey.jpg"
+},
+
+{
+	"name":"Dr. Satnesh Singh", 
+		"thesis":"Discrete-time Stochastic Sliding Mode Control using Functional Observation", 
+		"supervisor":"Prof. S. Janardhanan", 
+		"year":"2019", 
+		"current":"Research Professor, Electronic & Electrical Engineering, Kyungpook National University, South Korea", 
+		"avatar" : "assets/img/scholars/satnesh.jpg"
+},
+
+{
+	"name":"Dr. Sumit Kumar Jha", 
+		"thesis":"Filter-based Adaptive Optimal Control designs for Uncertain Linear time Invariant Systems", 
+		"supervisor":"Prof. Shubhendu Bhasin", 
+		"year":"2019", 
+		"current":"Assistant Professor, NIT Allahabad, India", 
+		"website":"http://mnnit.ac.in/profile/sumit-k", 
+		"avatar" : "assets/img/scholars/sumit.jpg"
+},
+
+{
+	"name":"Dr. Sayan Basu Roy", 
+		"thesis":"Relaxing Persistence of Excitation for Parameter Convergence in Adaptive Control: An Initial Excitation Based Approach", 
+		"supervisor":"Prof. Shubhendu Bhasin and Prof. Indra Narayan Kar", 
+		"year":"2019", 
+		"current":"Assistant Professor, IIIT Delhi, India", 
+		"website":"https://www.iiitd.ac.in/sayan", 
+		"avatar" : "assets/img/scholars/sayan.jpg"
+},
+
+{
+	"name":"Dr. Madan Mohan Rayguru", 
+		"thesis":"Contraction based Stabilization and Tracking of singularly perturbed systems", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2018", 
+		"current":"Assistant Professor, Delhi Technological University, India", 
+		"website":"http://www.dtu.ac.in/Web/Departments/Electrical/faculty/mmrayguru.php", 
+		"avatar" : "assets/img/scholars/madan.jpg"
+},
+
+{
+	"name":"Dr. Spandan Roy", 
+		"thesis":"Adaptive-Robust Control of a Class of Uncertain Euler-Lagrange Systems", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2018", 
+		"current":"Assistant Professor, IIIT Hyderabad, India", 
+		"website": "https://www.iiit.ac.in/people/faculty/Spandan/", 
+		"avatar" : "assets/img/scholars/spandan.jpg"
+},
+
+{
+	"name":"Dr. Gagan Deep Meena", 
+		"thesis":"On Discretization of Continuous-time Dynamical Systems", 
+		"supervisor":"Prof. S. Janardhanan", 
+		"year":"2018", 
+		"current":"Assistant Professor, NIT Patna, India", 
+		"website":"http://www.nitp.ac.in/php/faculty_profile.php?id=gagandeep.ee@nitp.ac.in", 
+		"avatar" : "assets/img/scholars/gagan.jpg"
+},
+
+{
+	"name":"Dr. Nalin Kumar Sharma", 
+		"thesis":"Discrete-time Higher Order Sliding Mode: The Concept and The Control", 
+		"supervisor":"Prof. S. Janardhanan", 
+		"year":"2018", 
+		"current":"Assistant Professor, Dhirubhai Ambani Institute of Information and Communication Technology, India", 
+		"website":"https://sites.google.com/view/nalinkumarsharma/",
+		"avatar" : "assets/img/scholars/nalin.jpg"
+},
+
+{
+	"name":"Dr. Niladri S. Tripathy", 
+		"thesis":"Nonlinear Control of Cyber-physical systems", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. Kolin Paul (CSE, IIT Delhi)", 
+		"year":"2017", 
+		"current":"Assistant Professor, IIT Jodhpur, India", 
+		"website":"iitj.ac.in/department/facultyprofile.php?str=niladri@iitj.ac.in&dept=ee", 
+		"avatar" : "assets/img/scholars/niladri.jpg"
+},
+
+{
+	"name":"Dr. Soumic Sarkar", 
+		"thesis":"Formation Topologies and Cooperative Control of Multi-agent Systems", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2016", 
+		"current":" Algorithm Specialist, TARDID Technologies Pvt. Ltd, India", 
+		"avatar" : "assets/img/scholars/soumic.jpg"
+},
+
+{
+	"name":"Dr. Koena Mukharjee", 
+		"thesis":"Robust region reaching and tracking control of an autonomous underwater vehicle", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt", 
+		"year":"2016", 
+		"current":"Assistant Professor, Dept. of Electronics & Instrumentation Engineering, NIT Silchar, India", 
+		"avatar" : "assets/img/scholars/knm.jpg"
+},
+
+{
+	"name":"Dr. Pyare Mohan Tiwari", 
+		"thesis":"Nonlinear Motion Control Using Variable Structure Control", 
+		"supervisor":"Prof. S. Janardhanan and Prof. M. Nabi", 
+		"year":"2016", 
+		"current":"Professor, Electrical Engineering, AMITY University, Noida, India", 
+		"website":"http://auup.amity.edu/faculty-detail.aspx?facultyID=8646", 
+		"avatar" : "assets/img/scholars/pmt.jpg"
+},
+
+{
+	"name":"Dr. Neeli Satyanarayana", 
+		"thesis":"Multirate Output Functional Observer Design and its Control Applications", 
+		"supervisor":"Prof. S. Janardhanan", 
+		"year":"2014", 
+		"current":"Assistant Professor, Electrical Engineering, MNIT Jaipur, India", 
+		"website":"https://mnit.ac.in/dept_ee/profile?fid=R62J", 
+		"avatar" : "assets/img/scholars/neeli.jpg"
+},
+
+{
+	"name":"Dr. Pankaj Mukhija", 
+		"thesis":"Stability of Time-delay Systems with Bounded Nonlinearity", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt", 
+		"year":"2013", 
+		"current":"Assistant Professor, EEE, NIT Delhi, India", 
+		"website":"https://nitdelhi.ac.in/?page_id=13670/?action=profile&id=11", 
+		"avatar" : "assets/img/scholars/mkh.jpg"
+},
+
+{
+	"name":"Dr. Majeed Mohamed", 
+		"thesis":"Parameter Estimation and Contraction based Controller Design of Aircraft System", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2013", 
+		"current":"Senior Principal Scientist, National Aeronautics Laboratory, India", 
+		"website":"https://nal.irins.org/profile/67657", 
+		"avatar" : "assets/img/scholars/majeed.jpg"
+},
+
+{
+	"name":"Dr. M. Abid Bazaz", 
+		"thesis":"Structure Preserving and Parametric Reduced Order Modeling Strategies for System Simulation", 
+		"supervisor":"Prof. M. Nabi and Prof. S. Janardhanan", 
+		"year":"2013", 
+		"current":"Professor, Electrical Engg, NIT Srinagar, India", 
+		"website":"https://www.abidbazaz.com/", 
+		"avatar" : "assets/img/scholars/ab.jpg"
+},
+
+{
+	"name":"Dr. Shahkar A. Nahvi", 
+		"thesis":"Reduced Order Modelling and Fast Simulation Strategies for Nonlinear Dynamic Systems", 
+		"supervisor":"Prof. M. Nabi and Prof. S. Janardhanan", 
+		"year":"2013", 
+		"current":"Assistant Professor, Electrical Engineering, IUST J&K, India", 
+		"website":"https://iust.ac.in/Index/Faculty.aspx?DeptCode=DIC", 
+		"avatar" : "assets/img/scholars/sha.jpg"
+},
+
+{
+	"name":"Dr. Paramita Guha", 
+		"thesis":"Reduced Order Modeling & Control of Distributed Parameter Systems", 
+		"supervisor":"Prof. M. Nabi", 
+		"year":"2012", 
+		"current":"Sr. Scientist, CSIR-CSIO Chandigarh, India", 
+		"website":"https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1035", 
+		"avatar" : "assets/img/scholars/pguha.jpeg"
+},
+
+{
+	"name":"Dr. Hitesh B. Shah", 
+		"thesis":"Novel Strategies in Reinforcement Learning for the Design of Robust Control", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"2011", 
+		"current":"Professor, G H Patel College of Engineering & Technology, Anand, Gujarat, India", 
+		"website":"https://www.gcet.ac.in/staffdetails.php?fid=VDA0NA==", 
+		"avatar" : "assets/img/scholars/hitesh_shah.jpg"
+},
+
+{
+	"name":"Dr. Mahendra Kumar", 
+		"thesis":"Modeling, Control and Fault Diagnosis of Air Conditioning Systems", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2011", 
+		"current":"Indian Railways, India", 
+		"avatar" : "assets/img/scholars/default.jpg"
+},
+
+{
+	"name":"Dr. Bharat Bhushan Sharma", 
+		"thesis":"Stabilization and Synchronisation of Nonlinear Systems in Contraction Theory Framework", 
+		"supervisor":"Prof. Indra Narayan Kar", 
+		"year":"2011", 
+		"current":"Associate Professor, Electrical Engineering, NIT Hamirpur, India", 
+		"website":"https://portfolios.nith.ac.in/index.php?/nith/dr-bharat-bhushan-sharma-", 
+		"avatar" : "assets/img/scholars/bbs.jpg"
+},
+
+{
+	"name":"Prof. Dipak M. Adhyaru", 
+		"thesis":"Robust Optimal Control Framework for Nonlinear Systems", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. M. Gopal", 
+		"year":"2010", 
+		"current":"Professor, Electronics & Instrumentation Engineering, Nirma University, India", 
+		"website":"https://technology.nirmauni.ac.in/author/dipak/", 
+		"avatar" : "assets/img/scholars/dpk.jpg"
+},
+
+{
+	"name":"Dr. Gopinath Selvaraj", 
+		"thesis":"Iterative Learning Control of Nonlinear Systems", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt", 
+		"year":"2007", 
+		"current":"Senior Technical Manager, Tata Elxsi, India", 
+		"avatar" : "assets/img/scholars/gopinath_s.jpg"
+},
+
+{
+	"name":"Prof. Shubhi Purwar", 
+		"thesis":"Intelligent Control of Nonlinear Systems", 
+		"supervisor":"Prof. Indra Narayan Kar and Prof. A. N. Jha", 
+		"year":"2006", 
+		"current":"Professor, Electrical Engineering, MNNIT Allahbad, India", 
+		"website":"http://www.mnnit.ac.in/profile/shubhi", 
+		"avatar" : "assets/img/scholars/sbp.jpg"
+},
+
+{
+	"name":"Dr. A. Ramakalyan", 
+		"thesis":"Dynamic non-coop. games & robust control for a class of nonlinear systems", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"2000", 
+		"current":"Associate Professor, NIT Tiruchirappalli, Tamilnadu, India", 
+		"website":"https://www.nitt.edu/home/academics/departments/ice/faculty/assoprofs/ramkalyan/", 
+		"avatar" : "assets/img/scholars/a_ramakalyan.jpg"
+},
+	
+{
+	"name":"Prof. Chitralekha Mahanta", 
+		"thesis":"Damped stochastic system driven by colored noise: Analytical and digital simulation studies", 
+		"supervisor":"Prof. M. Gopal and Prof. T.G.Venkatesh (IIT Madras)", 
+		"year":"1999", 
+		"current":"Professor, IIT Guwahati, India", 
+		"website":"https://www.iitg.ac.in/chitra/index.html", 
+		"avatar" : "assets/img/scholars/cm.jpg"
+},
+
+{
+	"name":"Prof. Seyed Saeedallah Mortazavi", 
+		"thesis":" Design and Tuning of Fuzzy Logic Control Systems", 
+		"supervisor":"Prof. R.K.P Bhatt and Prof. Nesar Ahmad", 
+		"year":"1999", 
+		"current":"Department of Engineering, Shahid Chamran University of Ahvaz, Iran", 
+		"website":"https://www.researchgate.net/profile/S-Mortazavi", 
+		"avatar" : "assets/img/scholars/ssm.jpg"
+},
+	
+{
+	"name":"Prof. Laxmidhar Behera", 
+		"thesis":" ", 
+		"supervisor":"Prof. M. Gopal and Prof. S. Chaudhury", 
+		"year":"1997", 
+		"current":"Director, IIT Mandi", 
+		"website":"https://iitmandi.ac.in/institute/director.php", 
+		"avatar" : "assets/img/scholars/ldbehera.jpg"
+},
+	
+{
+	"name":"Prof. Bijnan Bandyopadhyay", 
+		"thesis":"Some new model reduction techniques for multivariable systems ", 
+		"supervisor":"Prof. S. S. Lamba", 
+		"year":"1985", 
+		"current":"Former Professor, Systems and Control Engineering, IIT Bombay", 
+		"website":"https://www.sc.iitb.ac.in/~bijnan/", 
+		"avatar" : "assets/img/scholars/bijnan.jpg"
+}	
 ]
