@@ -3,32 +3,42 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title>Control and Automation Group, IIT Delhi</title>
+		<title>Control and Automation Group, IIT Delhi
+		</title>
 	</head>
 	<body>
 		<div id="app" class="app">
-			<p v-if="faculty">There are a total of {{faculty.length}} Faculty members</p>
+		  <p v-if="faculty">There are a total of {{faculty.length}} Faculty members
+		  </p>
 			<div>
 				<div v-for="fac in newDates" :key="fac.name" >
 					<div>
-						<h3>{{fac.name}} - {{fac.position}}</h3>
+					  <h3>{{fac.name}} - {{fac.position}}
+					  </h3>
 						
 						<img v-bind:src="fac.avatar" width="100" /> 
-						<p>{{fac.year}}</p>
+						<p>{{fac.year}}
+						</p>
 						<ol>
-							<li v-for="item in fac.research">{{item}}</li>	
+						  <li v-for="item in fac.research">{{item}}
+						  </li>
 
 						</ol>
-						<p>{{fac.room}}</p>
-						<p>{{fac.email}}</p>
-						<a v-bind:href="fac.homepage">{{fac.homepage}}</a>
+						<p>{{fac.room}}
+						</p>
+						<p>{{fac.email}}
+						</p>
+						<a v-bind:href="fac.homepage">{{fac.homepage}}
+						</a>
 					</div>
 					
 				</div>
 			</div>
 		</div>
-		<script	src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
+		<script	src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js">
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js">
+		</script>
 
 		<script charset="utf-8">
 			new Vue({
@@ -46,7 +56,8 @@
 							this.newDates = this.faculty.sort(function(a,b){
 											a = new Date(a.year);
 											b = new Date(b.year);
-											var results = a > b ? -1 : a < b ? 1 : 0;
+								var results = a > b ? -1 : a
+								< b ? 1 : 0;
 								   return results;
 
 							});
