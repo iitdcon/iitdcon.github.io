@@ -190,14 +190,11 @@
 				<div class="work-experience group">
 					<div class="row">
 					  <div class="col-md-4" style="padding:10px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center" v-for="fac in pastFac" :key="fac.name">
-						<img v-if="fac.avatar" class="rounded-circle" v-bind:src="fac.avatar" width="200" height="200" style="padding-bottom:20px">
-						<img v-else class="rounded-circle" src="assets/img/scholars/default.jpg" width="200" height="200" style="padding-bottom:20px">
-						<h3>
+						<img v-if="fac.avatar" class="rounded-circle" v-bind:src="fac.avatar" width="200" height="200" >
+						<img v-else class="rounded-circle" src="assets/img/scholars/default.jpg" width="200" height="200" >
+						<h3 style="padding-top:20px">
 						  Prof. {{fac.name}}
 						</h3>
-						<!-- <h6 v-if="fac.duration">
-							 {{fac.duration}}
-							 </h6> -->
 						<div v-if="fac.current">
 						  {{fac.current}}
 						</div>
