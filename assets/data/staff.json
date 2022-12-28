@@ -5,20 +5,16 @@
     "email": "sunil[at]ee.iitd.ac.in",
     "avatar": "assets/img/staff/staff_sunil.jpg"
   },
-  
-
   {
     "name": "Mr. Kailash Rana",
     "designation": "Senior Lab Assistant",
     "email": "kailashrana@ee.iitd.ac.in",
     "avatar": "assets/img/staff/staff_kailash.jpg"
   },
-  
   {
     "name": "Mr. Virender Singh",
     "designation": "MTS",
     "email": "viru910[at]gmail.com",
     "avatar": "assets/img/staff/virender.jpeg"
   }
-  
 ]

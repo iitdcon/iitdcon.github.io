@@ -1,54 +1,50 @@
 [
-{"name" :" Mr. Vivek Kumar Mishra", 
-"area" :" Networked Control System, Topological Changes in Network",
-"supervisor" :" Prof. Deepak Patil",
-"joining" :" January, 2018",
-"email" :" vivek.kumar.mishra@ee.iitd.ac.in", 
-"avatar" : "assets/img/scholars/vivek.jpg"
-},
-  
-{
-  "name": "Mr. Sumanta Ghosh",
-  "area": " ",
-  "supervisor": "Prof. Shubhendu Bhasin",
-  "joining": " 2019",
-  "email" :" eey197566@ee.iitd.ac.in",
-  "avatar": "assets/img/scholars/default.jpg"
+  {
+    "name": " Mr. Vivek Kumar Mishra",
+    "area": " Networked Control System, Topological Changes in Network",
+    "supervisor": " Prof. Deepak Patil",
+    "joining": " January, 2018",
+    "email": " vivek.kumar.mishra@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/vivek.jpg"
   },
-  
-{
-  "name" :" Mr. Samarth Kapila", 
-"area" :" Network Constraints in Multi-agent Systems",
-"supervisor" :" Prof. Deepak Patil",
-"joining" :"  2020",
-"email" :" eey207541@ee.iitd.ac.in", 
-"avatar" : "assets/img/scholars/default.jpg"
-},
-  
-{
-"name" :" Mr. Chetan Sharma", 
-"area" :" Linear System Identification of Autonomous Nonlinear Control Affine Systems using Koopman Operator",
-"supervisor" :" Prof. Indra Narayan Kar",
-"joining" :" January, 2021", 
-"email" :" eey207614@ee.iitd.ac.in", 
-"avatar" : "assets/img/scholars/chetan.jpg"
-},
-
-{
-"name" :" Mr. Sayar Das", 
-"area" :" Data driven methods for disturbance decoupling", 
-"supervisor" :" Prof. Deepak Patil", 
-"joining" :" January, 2021", 
-"email" :" eey207622@ee.iitd.ac.in", 
-"avatar" : "assets/img/scholars/sayar.jpg"
-},
-  
-{
-"name" :" Mr. Sunil Kumar", 
-"area" :" Trajectory Tracking of Robotic Manipulators", 
-"supervisor" :"Prof. S. Janardhanan and Prof. Shubhendu Bhasin", 
-"joining" :"July, 2021 ", 
-"email" :" eey217524@ee.iitd.ac.in", 
-"avatar" : "assets/img/staff/staff_sunil.jpg"
-}
+  {
+    "name": "Mr. Sumanta Ghosh",
+    "area": " ",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": " 2019",
+    "email": " eey197566@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/default.jpg"
+  },
+  {
+    "name": " Mr. Samarth Kapila",
+    "area": " Network Constraints in Multi-agent Systems",
+    "supervisor": " Prof. Deepak Patil",
+    "joining": "  2020",
+    "email": " eey207541@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/default.jpg"
+  },
+  {
+    "name": " Mr. Chetan Sharma",
+    "area": " Linear System Identification of Autonomous Nonlinear Control Affine Systems using Koopman Operator",
+    "supervisor": " Prof. Indra Narayan Kar",
+    "joining": " January, 2021",
+    "email": " eey207614@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/chetan.jpg"
+  },
+  {
+    "name": " Mr. Sayar Das",
+    "area": " Data driven methods for disturbance decoupling",
+    "supervisor": " Prof. Deepak Patil",
+    "joining": " January, 2021",
+    "email": " eey207622@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/sayar.jpg"
+  },
+  {
+    "name": " Mr. Sunil Kumar",
+    "area": " Trajectory Tracking of Robotic Manipulators",
+    "supervisor": "Prof. S. Janardhanan and Prof. Shubhendu Bhasin",
+    "joining": "July, 2021 ",
+    "email": " eey217524@ee.iitd.ac.in",
+    "avatar": "assets/img/staff/staff_sunil.jpg"
+  }
 ]

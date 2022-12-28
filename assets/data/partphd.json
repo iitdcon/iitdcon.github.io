@@ -1,46 +1,42 @@
 [
-{
-    	"name": "Mr. Ranjan Dasgupta",
-    	"area": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
-    	"supervisor": "Prof. Shubhendu Bhasin",
-    	"joining": "January 2016",
-    	"email": "eez158420[at]ee.iitd.ac.in",
-    	"avatar": "assets/img/scholars/ran_das.jpg"
- },
-	
- {
-	"name" : "Mr. Chimmula Kishore", 
-	"area" : "Vision-based Control for Robotic Systems", 
-	"supervisor" : "Prof. Indra Narayan Kar", 
-	"joining" : "July 2016", 
-	"email" : "chimmulakishore [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/kishore.jpg"
- },
-	{
-	"name" : "Mr. Atul Katiyar", 
-	"area" : "Adaptive Observers for Uncertain Systems", 
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining" : "July, 2017", 
-	"email" : "eez178416 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/atul_katiyar.jpg"
-},
- {
-	"name": "Mr. Saurabh Inamdar",
-	"area": "Parametric Estimation in Uncertain Systems with Partial State Information",
-	"supervisor": "Prof. S. Janardhanan",
-	"joining": "July 2017",
-	"email": "eez178206[at]ee.iitd.ac.in",
-	"avatar": "assets/img/scholars/phd_sourav.jpg"
- },
- 
- {
-	"name": "Mr. Gurjyot Singh Shergill",
-	"area": "Use of Computer Vision for Estimating Crop Health and Growth Metrics",
-	"supervisor": "Prof. S. Janardhanan and  Prof. Shaunak Sen",
-	"joining": "Jan 2021",
-	"email": " [at]ee.iitd.ac.in",
-	"avatar": "assets/img/scholars/Gurjyot.jpg"
- }
-
-	
+  {
+    "name": "Mr. Ranjan Dasgupta",
+    "area": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "January 2016",
+    "email": "eez158420[at]ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/ran_das.jpg"
+  },
+  {
+    "name": "Mr. Chimmula Kishore",
+    "area": "Vision-based Control for Robotic Systems",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "joining": "July 2016",
+    "email": "chimmulakishore [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/kishore.jpg"
+  },
+  {
+    "name": "Mr. Atul Katiyar",
+    "area": "Adaptive Observers for Uncertain Systems",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "July, 2017",
+    "email": "eez178416 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/atul_katiyar.jpg"
+  },
+  {
+    "name": "Mr. Saurabh Inamdar",
+    "area": "Parametric Estimation in Uncertain Systems with Partial State Information",
+    "supervisor": "Prof. S. Janardhanan",
+    "joining": "July 2017",
+    "email": "eez178206[at]ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/phd_sourav.jpg"
+  },
+  {
+    "name": "Mr. Gurjyot Singh Shergill",
+    "area": "Use of Computer Vision for Estimating Crop Health and Growth Metrics",
+    "supervisor": "Prof. S. Janardhanan and  Prof. Shaunak Sen",
+    "joining": "Jan 2021",
+    "email": " [at]ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/Gurjyot.jpg"
+  }
 ]

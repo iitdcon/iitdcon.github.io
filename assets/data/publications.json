@@ -1,14 +1,14 @@
 [
-    {
-        "id": "ELL700",
-        "name": "Linear Systems Theory ",
-        "credit": "(3-0-0)",
-        "description": "Review of matrix algebra, state variable modelling of continuous and discrete time systems, linearization of state equations, solution of state equations of linear time-invariant and timevarying systems, Controllability and observability of dynamical systems, Minimal realization of linear systems and canonical forms, Lyapunov's stability theory for linear dynamical systems, State Feedback controllers, Observer and Controller design."
-    },
-    {
-        "id": "ELL701",
-        "name": "Mathematical Methods in Control ",
-        "credit": "(3-0-0)",
-        "description": "Linear Spaces - Vectors and Matrices, Transformations, Norms - Vector and Matrix norms, Matrix factorization, Eigenvalues and Eigenvectors and Applications, Singular Value Decomposition and its Applications, Projections, Least Square Solutions. Probability, Random Variables, Probability distribution and density functions, Joint density and Conditional distribution, Functions of random variables, Moments, characteristic functions, sequence of random variables, Correlation matrices and their properties, Random processes and their properties, Response of Linear systems to stochastic inputs, PSD theorem."
-    }
-  ]
+  {
+    "id": "ELL700",
+    "name": "Linear Systems Theory ",
+    "credit": "(3-0-0)",
+    "description": "Review of matrix algebra, state variable modelling of continuous and discrete time systems, linearization of state equations, solution of state equations of linear time-invariant and timevarying systems, Controllability and observability of dynamical systems, Minimal realization of linear systems and canonical forms, Lyapunov's stability theory for linear dynamical systems, State Feedback controllers, Observer and Controller design."
+  },
+  {
+    "id": "ELL701",
+    "name": "Mathematical Methods in Control ",
+    "credit": "(3-0-0)",
+    "description": "Linear Spaces - Vectors and Matrices, Transformations, Norms - Vector and Matrix norms, Matrix factorization, Eigenvalues and Eigenvectors and Applications, Singular Value Decomposition and its Applications, Projections, Least Square Solutions. Probability, Random Variables, Probability distribution and density functions, Joint density and Conditional distribution, Functions of random variables, Moments, characteristic functions, sequence of random variables, Correlation matrices and their properties, Random processes and their properties, Response of Linear systems to stochastic inputs, PSD theorem."
+  }
+]

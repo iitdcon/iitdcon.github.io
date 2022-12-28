@@ -1,338 +1,286 @@
 [
-{
-	"name" : "Mr. Eswara Venkata Kumar", 
-	"area" : "Multi-Agent Systems", 
-	"supervisor" : "Prof. Deepak Patil", 
-	"joining" : "January, 2017", 
-	"room": "Block 2, 214", 
-	"email" : "eez168497 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/phd_eswar.jpg"
-},
-
-
-{
-	"name" : "Mr. Keerthi Chacko", 
-	"area" : "Nonlinear Model Predictive Control", 
-	"supervisor" : "Prof. S. Janardhanan and Prof. Indra Narayan Kar", 
-	"joining" : "January, 2017", 
-	"room": "Block 2, 209", 
-	"email" : "keerthi.chacko [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/keerthi.jpg"
-},
-
-
-{
-	"name" : "Ms. Rajasree Sarkar", 
-	"area" : "Optimal Control of Resource-Constrained System", 
-	"supervisor" : "Prof. Deepak Patil and Prof. Indra Narayan Kar", 
-	"joining" : "January, 2017", 
-	"room": "Block 2, 214", 
-	"email" : "eez168485 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/rajasree.jpg"
-},
-
-
-{
-	"name" : "Mr. Sujeet Kumar", 
-	"area" : "Secure Control of Cyber-Physical Systems, Cooperative Control", 
-	"supervisor" : "Prof. Indra Narayan Kar", 
-	"joining" : "January, 2017", 
-	"room": "Block 2, 209", 
-	"email" : "eez168486 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/sujeet1.jpg"
-},
-
-
-{
-	"name" : "Mr. Midhun T. Augustine", 
-	"area" : "Switched Systems and Optimal Control", 
-	"supervisor" : "Prof. Deepak Patil", 
-	"joining" : "July, 2017", 
-	"room": "Block 2, 214", 
-	"email" : "eez178175 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/midhun.jpg"
-},
-
-{
-	"name": "Mr. Apurba Das", 
-	"area" : "Modeling and Control of Soft Robotic Manipulators", 
-	"supervisor" : "Prof. Shubhendu Bhasin and Prof. Deepak Patil", 
-	"joining" : "January, 2018", 
-	"room" : "Block 2, 339B", 
-	"email": "apurba.das [at] ee.iitd.ac.in", 
-	"website" : "https://sites.google.com/view/das-apurba", 
-	"avatar" : "assets/img/scholars/apurba_das.jpg"
-},
-
-
-{
-	"name": "Mr. Bhabani Shankar Dey", 
-	"area" : "Incremental Stability based Design and Analysis of Nonlinear System", 
-	"supervisor" : "Prof. Indra Narayan Kar", 
-	"joining" : "July, 2018", 
-	"room" : "Block 2, 209", 
-	"email": "eez188133 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/bbn.jpg"
-},
-
-
-{
-	"name": "Ms. Pranjali Shukla", 
-	"area" : "Model free adaptive control", 
-	"supervisor" : "Prof. S. Janardhanan", 
-	"joining" : "July, 2018", 
-	"room" : "Block 2, 209", 
-	"email": "eez188132 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/pranjali.jpg"
-},
-
-
-{
-	"name": "Mr. Pritesh Patel", 
-	"area" : "Identification and Control of Uncertain Switched and Hybrid Systems", 
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining" : "July, 2018", 
-	"room" : "Block 3, 337", 
-	"email": "eez188135 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/pritesh.jpg",
-	"website" : "https://www.linkedin.com/in/pritesh-patel-299b7a54"
-},
-
-
-{
-	"name": "Ms. Meera Patel", 
-	"area" : "Distributed control of descriptor multi-agent system", 
-	"supervisor" : "Prof. Subhasish Dutta", 
-	"joining" : "January, 2019", 
-	"room" : "Block 2, 214", 
-	"email": "meera.patel [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/meeraNew.jpg"
-},
-
-
-{
-	"name": "Mr. Krishan Kumar Gola", 
-	"area" : "Estimation in Biomolecular Systems", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "July, 2019", 
-	"room": "Block 2, 242", 
-	"email": "eez198354 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/gola.jpg"
-},
-
-
-{
-	"name": "Mr. Sanjeev Kumar Pandey", 
-	"area" : "Synchronization of nonlinear oscillators", 
-	"supervisor" : "Prof. Shaunak Sen and Prof. Indra Narayan Kar", 
-	"joining": "July, 2019", 
-	"room": "Block 2, 214", 
-	"email": "sanjeev [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/sanjeev.jpg"
-},
-
-{
-	"name": "Mr. Shivanagouda Biradar", 
-	"area" : "Network Topology Reconstruction", 
-	"supervisor" : "Prof. Deepak Patil", 
-	"joining": "July, 2019", 
-	"room": "Block 2, 214", 
-	"email": "eez198372 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/shivan.jpg"
-},
-
-{
-	"name": "Ms. Apra Gupta", 
-	"area" : "Multispectral Imaging and Sensing", 
-	"supervisor" : "Prof. S. Janardhanan and Prof. Shaunak Sen", 
-	"joining": "January 2020", 
-	"room": "Block 2, 214", 
-	"email": "apra.gupta [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/apra.jpeg"
-},
-
-
-{
-	"name": "Mr. Atul Sharma", 
-	"area" : "Sliding Mode in Distributed Parameter Systems", 
-	"supervisor" : "Prof. S. Janardhanan", 
-	"joining": "January, 2020", 
-	"room": "Block 2, 339B", 
-	"email": "atul.sharma [at] ee.iitd.ac.in", 
-	"website" : "https://sites.google.com/view/sharmaatul", 
-	"avatar" : "assets/img/scholars/atul_sharma.jpg"
-	
-},
-
-{
-	"name": "Mr. Surendhar. S", 
-	"area" : "Adaptive coverage control for mobile sensor networks", 
-	"supervisor" : "Prof. Shubhendu Bhasin and Prof. Sayan Basu Roy (IIIT Delhi)", 
-	"joining": "January, 2020", 
-	"room": "Block 3, 337", 
-	"email": "surendhar.s [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/surendhar.jpg"
-},
-
-
-{
-	"name": "Ms. Anchita Dey", 
-	"area": "Safe Data-Driven Adaptive Model Predictive Control",
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining": "September, 2020", 
-	"room" : "Block 3, 337",
-	"email": "anchita.dey [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/anchita_dey.jpg"
-},
-
-
-{
-	"name": "Ms. Akansha Rautela", 
-	"area" : "Multi-agent systems", 
-	"supervisor" : "Prof. Indra Narayan Kar and Prof. Deepak Patil", 
-	"joining": "September, 2020",
-	"room" : "Block 2, 209",
-	"email": "eez208414 [at] iitd.ac.in", 
-	"avatar" : "assets/img/scholars/akansha_rautela.jpg"
-},
-
-
-{
-	"name": "Ms. Bhargavi Chaudhary", 
-	"area" : "Control of positive systems and applications.", 
-	"supervisor" : "Prof. Indra Narayan Kar and Prof. Subhasish Dutta", 
-	"joining": "September, 2020", 
-	"room": "Block 2, 214", 
-	"email": "eez208419 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/bhargaviNew.jpg"
-},
-
-
-{
-	"name": "Mr. Chayan Kumar Paul", 
-	"area" : " Safe Human-Robot Collaboration using Admittance Control ", 
-	"supervisor" : "Prof. Indra Narayan Kar", 
-	"joining": "September, 2020", 
-	"room": "Block 2, 209", 
-	"email": " [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/chayan1.jpeg"
-},
-
-
-{
-	"name": "Ms. Gunjan Chorasiya", 
-	"area" : "Robustness to Temperature in Biomolecular Circuits", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "September, 2020", 
-	"room": "Block 2, 242", 
-	"email": "gunjan.chorasiya [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/gunjan.jpg"
-},
-
-
-{
-	"name": "Mr. Neetish Patel", 
-	"area" : "Nonlinear control of robotic systems and applications.", 
-	"supervisor" : "Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee (ME, IIT Delhi)", 
-	"joining": "September 2020", 
-	"room": "Block 2, 209", 
-	"email": "neetish.patel [at] ee.iitd.ac.in",
-	"website" : "https://sites.google.com/view/neetishpatel", 
-	"avatar" : "assets/img/scholars/neetish.jpg"
-},
-
-
-{
-	"name": "Ms. Poulomee Ghosh", 
-	"area" : "Data-driven Adaptive Control", 
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining": "September, 2020", 
-	"room" : "Block 3, 337",
-	"email": "poulomee.ghosh [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/poulomee.jpg"
-},
-
-
-{
-	"name": "Mr. Puneet Panchal", 
-	"area" : "Development of advanced model-based control tools for peer-to-peer trading management in low voltage distribution networks", 
-	"supervisor" : "Prof. Subashish Datta, Prof. Rahul Sharma (UQ, Australia) and Wayes Tushar (UQ, Australia)", 
-	"joining": "September, 2020", 
-	"room": "Block 2, 339B", 
-	"email": "qiz208583 [at] uqidar.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/puneet.jpg"
-},
-
-
-{
-	"name": "Mr. Soutrik Bandyopadhyay", 
-	"area" : "Safe Reinforcement Learning-based Control", 
-	"supervisor" : "Prof. Shubhendu Bhasin", 
-	"joining": "September, 2020", 
-	"room" : "Block 3, 337",
-	"email": "soutrik.bandyopadhyay [at] ee.iitd.ac.in",
-	"website" : "https://soutrikband.in", 
-	"avatar" : "assets/img/scholars/soutrik.jpg"
-},
-
-
-{
-	"name": "Mr. Vinod Kumar", 
-	"area" : "Designing Sensitivity to Temperature in Biomolecular circuits", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "September, 2020", 
-	"room": "Block 2, 242", 
-	"email": "vinod.kumar [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/Vinod.jpg"
-},
-
-{
-	"name": "Ms. Chaithra Radhakrishnan", 
-	"area" : "Sliding Mode Control in Vehicular Control and Navigation", 
-	"supervisor" : "Prof. S. Janardhanan", 
-	"joining": "January, 2021", 
-	"room": "Block 2, 339B",
-	"email": "eez208642 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/chaithra.jpg"
-},
-	
-{
-	"name": "Mr. Rudra Prakash", 
-	"area" : "Design of Biomolecular Feedforward Loops", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "August, 2021",
-	"room": "Block 2, 339B",
-	"email": "rudra.prakash [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/rudra_p.jpg"
-},
-	
-{
-	"name": "Mr. Rudra Sen", 
-	"area" : "Distributed Control for Multi-vehicle System", 
-	"supervisor" : "Prof. Subashish Datta", 
-	"joining": "August, 2021",
-	"room": "Block 2, 339B",
-	"email": "rudra.sen [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/rudra_s.jpg"
-},
-{
-	"name": "Mr. Sidhanta Mohanty", 
-	"area" : "Design Principles for Biomolecular Oscillators", 
-	"supervisor" : "Prof. Shaunak Sen", 
-	"joining": "August, 2021",
-	"room": "Block 2, 339B",
-	"email": "sidhanta.mohanty [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/sidhanta.jpg"
-},
-
-{
-	"name": "Mr. Riddhi Mohan Bora", 
-	"area" : "Analysis of Nonlinear Dynamical System in Contraction Framework and its Application", 
-	"supervisor" : "Prof. Indra Narayan Kar",
-	"joining": "July, 2022",
-	"room": "Block 2, 214",
-	"email": "eez228208 [at] ee.iitd.ac.in", 
-	"avatar" : "assets/img/scholars/riddhi.jpeg"
-}
-	
+  {
+    "name": "Mr. Eswara Venkata Kumar",
+    "area": "Multi-Agent Systems",
+    "supervisor": "Prof. Deepak Patil",
+    "joining": "January, 2017",
+    "room": "Block 2, 214",
+    "email": "eez168497 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/phd_eswar.jpg"
+  },
+  {
+    "name": "Mr. Keerthi Chacko",
+    "area": "Nonlinear Model Predictive Control",
+    "supervisor": "Prof. S. Janardhanan and Prof. Indra Narayan Kar",
+    "joining": "January, 2017",
+    "room": "Block 2, 209",
+    "email": "keerthi.chacko [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/keerthi.jpg"
+  },
+  {
+    "name": "Ms. Rajasree Sarkar",
+    "area": "Optimal Control of Resource-Constrained System",
+    "supervisor": "Prof. Deepak Patil and Prof. Indra Narayan Kar",
+    "joining": "January, 2017",
+    "room": "Block 2, 214",
+    "email": "eez168485 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/rajasree.jpg"
+  },
+  {
+    "name": "Mr. Sujeet Kumar",
+    "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "joining": "January, 2017",
+    "room": "Block 2, 209",
+    "email": "eez168486 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/sujeet1.jpg"
+  },
+  {
+    "name": "Mr. Midhun T. Augustine",
+    "area": "Switched Systems and Optimal Control",
+    "supervisor": "Prof. Deepak Patil",
+    "joining": "July, 2017",
+    "room": "Block 2, 214",
+    "email": "eez178175 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/midhun.jpg"
+  },
+  {
+    "name": "Mr. Apurba Das",
+    "area": "Modeling and Control of Soft Robotic Manipulators",
+    "supervisor": "Prof. Shubhendu Bhasin and Prof. Deepak Patil",
+    "joining": "January, 2018",
+    "room": "Block 2, 339B",
+    "email": "apurba.das [at] ee.iitd.ac.in",
+    "website": "https://sites.google.com/view/das-apurba",
+    "avatar": "assets/img/scholars/apurba_das.jpg"
+  },
+  {
+    "name": "Mr. Bhabani Shankar Dey",
+    "area": "Incremental Stability based Design and Analysis of Nonlinear System",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "joining": "July, 2018",
+    "room": "Block 2, 209",
+    "email": "eez188133 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/bbn.jpg"
+  },
+  {
+    "name": "Ms. Pranjali Shukla",
+    "area": "Model free adaptive control",
+    "supervisor": "Prof. S. Janardhanan",
+    "joining": "July, 2018",
+    "room": "Block 2, 209",
+    "email": "eez188132 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/pranjali.jpg"
+  },
+  {
+    "name": "Mr. Pritesh Patel",
+    "area": "Identification and Control of Uncertain Switched and Hybrid Systems",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "July, 2018",
+    "room": "Block 3, 337",
+    "email": "eez188135 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/pritesh.jpg",
+    "website": "https://www.linkedin.com/in/pritesh-patel-299b7a54"
+  },
+  {
+    "name": "Ms. Meera Patel",
+    "area": "Distributed control of descriptor multi-agent system",
+    "supervisor": "Prof. Subhasish Dutta",
+    "joining": "January, 2019",
+    "room": "Block 2, 214",
+    "email": "meera.patel [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/meeraNew.jpg"
+  },
+  {
+    "name": "Mr. Krishan Kumar Gola",
+    "area": "Estimation in Biomolecular Systems",
+    "supervisor": "Prof. Shaunak Sen",
+    "joining": "July, 2019",
+    "room": "Block 2, 242",
+    "email": "eez198354 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/gola.jpg"
+  },
+  {
+    "name": "Mr. Sanjeev Kumar Pandey",
+    "area": "Synchronization of nonlinear oscillators",
+    "supervisor": "Prof. Shaunak Sen and Prof. Indra Narayan Kar",
+    "joining": "July, 2019",
+    "room": "Block 2, 214",
+    "email": "sanjeev [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/sanjeev.jpg"
+  },
+  {
+    "name": "Mr. Shivanagouda Biradar",
+    "area": "Network Topology Reconstruction",
+    "supervisor": "Prof. Deepak Patil",
+    "joining": "July, 2019",
+    "room": "Block 2, 214",
+    "email": "eez198372 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/shivan.jpg"
+  },
+  {
+    "name": "Ms. Apra Gupta",
+    "area": "Multispectral Imaging and Sensing",
+    "supervisor": "Prof. S. Janardhanan and Prof. Shaunak Sen",
+    "joining": "January 2020",
+    "room": "Block 2, 214",
+    "email": "apra.gupta [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/apra.jpeg"
+  },
+  {
+    "name": "Mr. Atul Sharma",
+    "area": "Sliding Mode in Distributed Parameter Systems",
+    "supervisor": "Prof. S. Janardhanan",
+    "joining": "January, 2020",
+    "room": "Block 2, 339B",
+    "email": "atul.sharma [at] ee.iitd.ac.in",
+    "website": "https://sites.google.com/view/sharmaatul",
+    "avatar": "assets/img/scholars/atul_sharma.jpg"
+  },
+  {
+    "name": "Mr. Surendhar. S",
+    "area": "Adaptive coverage control for mobile sensor networks",
+    "supervisor": "Prof. Shubhendu Bhasin and Prof. Sayan Basu Roy (IIIT Delhi)",
+    "joining": "January, 2020",
+    "room": "Block 3, 337",
+    "email": "surendhar.s [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/surendhar.jpg"
+  },
+  {
+    "name": "Ms. Anchita Dey",
+    "area": "Safe Data-Driven Adaptive Model Predictive Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "September, 2020",
+    "room": "Block 3, 337",
+    "email": "anchita.dey [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/anchita_dey.jpg"
+  },
+  {
+    "name": "Ms. Akansha Rautela",
+    "area": "Multi-agent systems",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Deepak Patil",
+    "joining": "September, 2020",
+    "room": "Block 2, 209",
+    "email": "eez208414 [at] iitd.ac.in",
+    "avatar": "assets/img/scholars/akansha_rautela.jpg"
+  },
+  {
+    "name": "Ms. Bhargavi Chaudhary",
+    "area": "Control of positive systems and applications.",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Subhasish Dutta",
+    "joining": "September, 2020",
+    "room": "Block 2, 214",
+    "email": "eez208419 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/bhargaviNew.jpg"
+  },
+  {
+    "name": "Mr. Chayan Kumar Paul",
+    "area": " Safe Human-Robot Collaboration using Admittance Control ",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "joining": "September, 2020",
+    "room": "Block 2, 209",
+    "email": " [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/chayan1.jpeg"
+  },
+  {
+    "name": "Ms. Gunjan Chorasiya",
+    "area": "Robustness to Temperature in Biomolecular Circuits",
+    "supervisor": "Prof. Shaunak Sen",
+    "joining": "September, 2020",
+    "room": "Block 2, 242",
+    "email": "gunjan.chorasiya [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/gunjan.jpg"
+  },
+  {
+    "name": "Mr. Neetish Patel",
+    "area": "Nonlinear control of robotic systems and applications.",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee (ME, IIT Delhi)",
+    "joining": "September 2020",
+    "room": "Block 2, 209",
+    "email": "neetish.patel [at] ee.iitd.ac.in",
+    "website": "https://sites.google.com/view/neetishpatel",
+    "avatar": "assets/img/scholars/neetish.jpg"
+  },
+  {
+    "name": "Ms. Poulomee Ghosh",
+    "area": "Data-driven Adaptive Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "September, 2020",
+    "room": "Block 3, 337",
+    "email": "poulomee.ghosh [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/poulomee.jpg"
+  },
+  {
+    "name": "Mr. Puneet Panchal",
+    "area": "Development of advanced model-based control tools for peer-to-peer trading management in low voltage distribution networks",
+    "supervisor": "Prof. Subashish Datta, Prof. Rahul Sharma (UQ, Australia) and Wayes Tushar (UQ, Australia)",
+    "joining": "September, 2020",
+    "room": "Block 2, 339B",
+    "email": "qiz208583 [at] uqidar.iitd.ac.in",
+    "avatar": "assets/img/scholars/puneet.jpg"
+  },
+  {
+    "name": "Mr. Soutrik Bandyopadhyay",
+    "area": "Safe Reinforcement Learning-based Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "joining": "September, 2020",
+    "room": "Block 3, 337",
+    "email": "soutrik.bandyopadhyay [at] ee.iitd.ac.in",
+    "website": "https://soutrikband.in",
+    "avatar": "assets/img/scholars/soutrik.jpg"
+  },
+  {
+    "name": "Mr. Vinod Kumar",
+    "area": "Designing Sensitivity to Temperature in Biomolecular circuits",
+    "supervisor": "Prof. Shaunak Sen",
+    "joining": "September, 2020",
+    "room": "Block 2, 242",
+    "email": "vinod.kumar [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/Vinod.jpg"
+  },
+  {
+    "name": "Ms. Chaithra Radhakrishnan",
+    "area": "Sliding Mode Control in Vehicular Control and Navigation",
+    "supervisor": "Prof. S. Janardhanan",
+    "joining": "January, 2021",
+    "room": "Block 2, 339B",
+    "email": "eez208642 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/chaithra.jpg"
+  },
+  {
+    "name": "Mr. Rudra Prakash",
+    "area": "Design of Biomolecular Feedforward Loops",
+    "supervisor": "Prof. Shaunak Sen",
+    "joining": "August, 2021",
+    "room": "Block 2, 339B",
+    "email": "rudra.prakash [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/rudra_p.jpg"
+  },
+  {
+    "name": "Mr. Rudra Sen",
+    "area": "Distributed Control for Multi-vehicle System",
+    "supervisor": "Prof. Subashish Datta",
+    "joining": "August, 2021",
+    "room": "Block 2, 339B",
+    "email": "rudra.sen [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/rudra_s.jpg"
+  },
+  {
+    "name": "Mr. Sidhanta Mohanty",
+    "area": "Design Principles for Biomolecular Oscillators",
+    "supervisor": "Prof. Shaunak Sen",
+    "joining": "August, 2021",
+    "room": "Block 2, 339B",
+    "email": "sidhanta.mohanty [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/sidhanta.jpg"
+  },
+  {
+    "name": "Mr. Riddhi Mohan Bora",
+    "area": "Analysis of Nonlinear Dynamical System in Contraction Framework and its Application",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "joining": "July, 2022",
+    "room": "Block 2, 214",
+    "email": "eez228208 [at] ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/riddhi.jpeg"
+  }
 ]

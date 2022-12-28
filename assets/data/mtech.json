@@ -1,25 +1,22 @@
 [
-{
-"name" :" Mr. Gaurav Sharma",
-"joining" :"July 2022 ",
-"email" :" eea222006@ee.iitd.ac.in",
-"website" :"https://linkedin.com/in/gaurav-sharma-952143147",
-"avatar" : "assets/img/scholars/gauravmtech.jpeg"
-},
-
-{
-"name" :" Mr. Rudresh Singh",
-"joining" :"July 2022 ",
-"email" :" eea222007@ee.iitd.ac.in",
-"website" :"https://linkedin.com/in/rudresh-singh-0541011b7",
-"avatar" : "assets/img/scholars/rudreshmtech.jpeg"
-},
-
-{
-"name" :" Mr. Saurabh Nagpure",
-"joining" :"July 2022 ",
-"email" :" eea222009@ee.iitd.ac.in",
-"avatar" : "assets/img/scholars/saurabhmtech.jpeg"
-}
-
+  {
+    "name": " Mr. Gaurav Sharma",
+    "joining": "July 2022 ",
+    "email": " eea222006@ee.iitd.ac.in",
+    "website": "https://linkedin.com/in/gaurav-sharma-952143147",
+    "avatar": "assets/img/scholars/gauravmtech.jpeg"
+  },
+  {
+    "name": " Mr. Rudresh Singh",
+    "joining": "July 2022 ",
+    "email": " eea222007@ee.iitd.ac.in",
+    "website": "https://linkedin.com/in/rudresh-singh-0541011b7",
+    "avatar": "assets/img/scholars/rudreshmtech.jpeg"
+  },
+  {
+    "name": " Mr. Saurabh Nagpure",
+    "joining": "July 2022 ",
+    "email": " eea222009@ee.iitd.ac.in",
+    "avatar": "assets/img/scholars/saurabhmtech.jpeg"
+  }
 ]

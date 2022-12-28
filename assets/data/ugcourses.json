@@ -1,30 +1,30 @@
 [
-    {
-        "id": "ELL225 ",
-        "name": "Control Engineering",
-        "credit": "(3-1-0)",
-        "description": "Introduction to the control problem, Control System Components: Sensors, Actuators, Computational blocks. Mathematical representation of systems, state variable model, linearization, transfer function model. Transfer function and state variable models of suitable mechanical, electrical, thermal and pneumatic systems. Closed loop systems, Block diagram and signal flow analysis, Basic Characteristics of feedback control systems: stability, steady-state accuracy, transient accuracy, disturbance rejection, sensitivity analysis and robustness. Basic modes of feedback control: Proportional, Integral, Derivative. Concept of stability, Stability criteria: Routh stability criterion, Mikhailov's criterion, Kharitonov theorem. Time response of 2nd order system, steady state error analysis. Performance specifications in the time domain. Root locus method of design. Nyquist stability criterion. Frequency response analysis: Nyquist plots, Bode plots, Nichols Charts, Performance specifications in frequency domain, Frequency domain methods of design. Lead lag compensation.",
-        "core": "yes"
-    },
-    {
-        "id": "ELL301",
-        "name": "Electrical and Electronics Instrumentation ",
-        "credit": "(3-0-0)",
-        "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
-        "core": "no"
-    },
-    {
-        "id": "ELL333",
-        "name": "Multivariable control ",
-        "credit": "(3-0-0)",
-        "description": "Review of control system fundamentals and basic linear algebra. Introduction to linear dynamical systems and properties. State-space representation and canonical realizations. Relation between state-space and transfer function representations. Similarity transformation. Diagonalization. Jordan canonical form. Matrix exponential and its properties. Solution of state equations. Cayley-Hamilton Theorem, Stability: BIBO and internal. Linearization of nonlinear systems. Controllability and Observability. Minimal realization. State feedback and observer design. Linear Quadratic Regulator.",
-        "core": "no"
-    },
-    {
-        "id": "ELL406 ",
-        "name": "Robotics and Automation ",
-        "credit": "(3-0-0)",
-        "description": "Introduction to robotics. Basic components of robotic systems. Coordinate Transformation, D-H parameters. Forward and inverse kinematics. Velocity kinematics and Jacobian, Singularity analysis, Robot Dynamics : Holonomic and Non-Holonomic Systems. Trajectory planning. Robot control: linear and nonlinear. Actuators and Sensors. Vision based Robotic Control. Mobile Robots : Modeling and Control.",
-        "core": "no"
-    }
+  {
+    "id": "ELL225 ",
+    "name": "Control Engineering",
+    "credit": "(3-1-0)",
+    "description": "Introduction to the control problem, Control System Components: Sensors, Actuators, Computational blocks. Mathematical representation of systems, state variable model, linearization, transfer function model. Transfer function and state variable models of suitable mechanical, electrical, thermal and pneumatic systems. Closed loop systems, Block diagram and signal flow analysis, Basic Characteristics of feedback control systems: stability, steady-state accuracy, transient accuracy, disturbance rejection, sensitivity analysis and robustness. Basic modes of feedback control: Proportional, Integral, Derivative. Concept of stability, Stability criteria: Routh stability criterion, Mikhailov's criterion, Kharitonov theorem. Time response of 2nd order system, steady state error analysis. Performance specifications in the time domain. Root locus method of design. Nyquist stability criterion. Frequency response analysis: Nyquist plots, Bode plots, Nichols Charts, Performance specifications in frequency domain, Frequency domain methods of design. Lead lag compensation.",
+    "core": "yes"
+  },
+  {
+    "id": "ELL301",
+    "name": "Electrical and Electronics Instrumentation ",
+    "credit": "(3-0-0)",
+    "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+    "core": "no"
+  },
+  {
+    "id": "ELL333",
+    "name": "Multivariable control ",
+    "credit": "(3-0-0)",
+    "description": "Review of control system fundamentals and basic linear algebra. Introduction to linear dynamical systems and properties. State-space representation and canonical realizations. Relation between state-space and transfer function representations. Similarity transformation. Diagonalization. Jordan canonical form. Matrix exponential and its properties. Solution of state equations. Cayley-Hamilton Theorem, Stability: BIBO and internal. Linearization of nonlinear systems. Controllability and Observability. Minimal realization. State feedback and observer design. Linear Quadratic Regulator.",
+    "core": "no"
+  },
+  {
+    "id": "ELL406 ",
+    "name": "Robotics and Automation ",
+    "credit": "(3-0-0)",
+    "description": "Introduction to robotics. Basic components of robotic systems. Coordinate Transformation, D-H parameters. Forward and inverse kinematics. Velocity kinematics and Jacobian, Singularity analysis, Robot Dynamics : Holonomic and Non-Holonomic Systems. Trajectory planning. Robot control: linear and nonlinear. Actuators and Sensors. Vision based Robotic Control. Mobile Robots : Modeling and Control.",
+    "core": "no"
+  }
 ]

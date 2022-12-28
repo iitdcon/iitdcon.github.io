@@ -1,25 +1,25 @@
 [
   {
     "name": "Mashuq un Nabi",
-	"avatar": "/assets/img/faculty/mnabi.jpg"
+    "avatar": "/assets/img/faculty/mnabi.jpg"
   },
-{
+  {
     "name": "Santanu Kapat",
-	"avatar": "/assets/img/faculty/skapat.jpg"
+    "avatar": "/assets/img/faculty/skapat.jpg"
   },
-{
+  {
     "name": "R.K.P. Bhatt",
     "avatar": "/assets/img/faculty/rkp.jpg"
-  },	
+  },
   {
     "name": "Madan Gopal",
     "avatar": "/assets/img/faculty/mgopal.jpg"
   },
- {
+  {
     "name": "Nesar Ahmad",
     "avatar": "/assets/img/faculty/naser.jpg"
   },
-{
+  {
     "name": "S.S. Lamba"
   }
 ]
