@@ -270,7 +270,7 @@
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
 					 <div class="work-experience group">
-					 <div class="item" v-for="fac in sortedPostDoc" :key="fac.name">
+					 <div class="item" v-for="fac in postdoc" :key="fac.name">
 					 <div class="row">
 					 <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
 					 <img class="rounded-circle rounded-circle"
@@ -288,13 +288,6 @@
                          </h3>
                        </div>
 					 <hr>
-					 <h6>
-                       <strong>Thesis
-                       </strong> -&nbsp;
-                       <br>
-                     </h6>
-					 <h6>{{fac.thesis}}
-                     </h6>
 					 <h6 v-if="fac.supervisor && fac.supervisor.includes(' and ')">
                        <strong>Supervisors -&nbsp;
                        </strong>
@@ -307,21 +300,16 @@
                      </h6>
 					 <h6>{{fac.supervisor}}
                      </h6>
-					 <h6>
-                       <strong>Graduating Year -&nbsp;
+					 <h6 v-if="fac.year">
+                       <strong>Duration -&nbsp;
                        </strong>
-                       <br>
+                       <br>{{fac.year}}
                      </h6>
-					 <h6>{{fac.year}}
-                     </h6>
-					 <h6>
+					 <h6 v-if="fac.current">
                        <strong>Current Affiliation -&nbsp;
                        </strong>
-                       <br>
+                       <br>{{fac.current}}
                      </h6>
-					 <h6>{{fac.current}}
-                     </h6>
-
 
 					 </div>
 					 </div>
@@ -430,7 +418,6 @@
 				 ms: null,
 				 sortedMSAlumni:null,
 				 postdoc: null,
-				 sortedPostDoc:null,
 			 },
 
 			 created() {
@@ -455,14 +442,6 @@
 					 .get('assets/data/postDocAlumni.json')
 					 .then(response => {
 						 this.postdoc = response.data;
-						 this.sortedPostDoc = this.postdoc.sort(function(a,b){
-							 a = new Date(a.year);
-							 b = new Date(b.year);
-							 var results = a > b ? -1 : a
-                             < b ? 1 : 0;
-							 return results;
-
-						 });
 					 })
 					 .catch((e) => {
 						 console.error(e)
