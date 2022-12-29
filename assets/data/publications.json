@@ -1,14 +1,34 @@
 [
   {
-    "id": "ELL700",
-    "name": "Linear Systems Theory ",
-    "credit": "(3-0-0)",
-    "description": "Review of matrix algebra, state variable modelling of continuous and discrete time systems, linearization of state equations, solution of state equations of linear time-invariant and timevarying systems, Controllability and observability of dynamical systems, Minimal realization of linear systems and canonical forms, Lyapunov's stability theory for linear dynamical systems, State Feedback controllers, Observer and Controller design."
+    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
+    "year": "2022",
+    "type": "Journal"
   },
   {
-    "id": "ELL701",
-    "name": "Mathematical Methods in Control ",
-    "credit": "(3-0-0)",
-    "description": "Linear Spaces - Vectors and Matrices, Transformations, Norms - Vector and Matrix norms, Matrix factorization, Eigenvalues and Eigenvectors and Applications, Singular Value Decomposition and its Applications, Projections, Least Square Solutions. Probability, Random Variables, Probability distribution and density functions, Joint density and Conditional distribution, Functions of random variables, Moments, characteristic functions, sequence of random variables, Correlation matrices and their properties, Random processes and their properties, Response of Linear systems to stochastic inputs, PSD theorem."
+    "citation": "Saha, Tanay, Swanand Khare, and Subashish Datta. \"Structured real radius of controllability for higher order LTI systems.\" In 2019 27th Mediterranean Conference on Control and Automation (MED), pp. 350-355. IEEE, 2019.",
+    "year": "2019",
+    "type": "Conference"
+  },
+  {
+    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
+    "year": "2022",
+    "type": "Journal",
+    "doi":"https://www.google.com"
+  },
+  {
+    "citation": "1200Book",
+    "year": "1200",
+    "type": "Book"
+  },
+  {
+    "citation": "1969 book",
+    "year": "1969",
+    "type": "Book"
+  },
+  {
+    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
+    "year": "2022",
+    "type": "Journal"
   }
+
 ]

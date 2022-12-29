@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-		<title>UG Courses | Control and Automation Group
+		<title>Publications | Control and Automation Group
     </title>
 		<meta name="twitter:description" content="">
 		<meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
@@ -109,100 +109,76 @@
 		</nav>
 
 		<section class="portfolio-block cv" id="app">
-			<div class="container" style="padding-right: 10px;">
-				<div class="intro" style="padding: 5px;">
-					<h2 class="text-center" style="margin: 11;">Under-Graduate Courses
-          </h2>
-					<hr style="margin: 16px 0px;">
-				</div>
-				<h3 class="text-center" style="color:#6e2525">
-          <b>Program Core Courses
-          </b>
-        </h3>
-				<div class="work-experience group">
-					<div class="item" v-for="fac in faculty" v-if="fac.core && fac.core.includes('yes')" :key="fac.id">
-						<div class="row">
-							<div class= "col-md-3 col-lg-3 text-center"
-								 style="display:flex; align-items:center;
-								 justify-content: center">
-								<i class="fa fa-book" style="font-size:48px;color:#6e2525;">
-                </i>
-
-							</div>
-							<div class="col-md-9 col-lg-9 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-								<h3 style="color:#6e2525;">{{fac.id}}
-                </h3>
-								<h3>{{fac.name}}
-                </h3>
-								<h3>{{fac.credit}}
-                </h3>
-								<hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
-								<h6>
-                  <strong>Course Contents
-                  </strong> -&nbsp;
-                  <br>
-                </h6>
-								<h6 style="text-align:justify">{{fac.description}}
-                </h6>
-							</div>
-						</div>
-					</div>
-
-				</div>
-				<hr>
-				<div class="row" style="padding-top:10px">
+			<div class="container" >
+        <h2 class="text-center" style="margin: 11;">Publications</h2>
+        <hr style="margin: 16px 0px;">
+        <div class="publicationType">
           <h3 class="text-center" style="color:#6e2525">
-            <b>Program Elective Courses
-            </b>
+            <b>Journals</b>
           </h3>
+          <ol>
+            <li v-for="journ in journals">
+              <div class="publicationItem">
+                {{journ.citation}}
+                <a v-if="journ.doi" v-bind:href="journ.doi">
+                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                </a>
+              </div>
+            </li>
+          </ol>
+          <hr>
         </div>
-				<div class="work-experience group">
-					<div class="item" v-for="fac in faculty" v-if="fac.core && fac.core.includes('no')" :key="fac.id">
-						<div class="row">
-							<div class= "col-md-3 col-lg-3 text-center"
-								 style="display:flex; align-items:center;
-								 justify-content: center">
-								<i class="fa fa-book" style="font-size:48px;color:#6e2525;">
-                </i>
-
-							</div>
-							<div class="col-md-9 col-lg-9 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-								<h3 style="color:#6e2525;">{{fac.id}}
-                </h3>
-								<h3>{{fac.name}}
-                </h3>
-								<h3>{{fac.credit}}
-                </h3>
-								<hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
-								<h6>
-                  <strong>Course Contents
-                  </strong> -&nbsp;
-                  <br>
-                </h6>
-								<h6 style="text-align:justify">{{fac.description}}
-                </h6>
-							</div>
-						</div>
-					</div>
-
-				</div>
-				<!-- <h3>Program Elective Courses</h3> -->
-				<!-- <div class="work-experience group"> -->
-				<!-- 	<div class="item" v-for="fac in faculty" v-if="fac.core && -->
-				<!-- 												   fac.core.includes('no')" -->
-				<!-- 		 :key="fac.id"> -->
-				<!-- 		<div class="row" > -->
-				<!-- 			<div class="col-md-12 col-lg-12 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;"> -->
-				<!-- 				<h3>[{{fac.id}}] {{fac.name}} {{fac.credit}}</h3> -->
-				<!-- 				<hr> -->
-				<!-- 				<h6><strong>Course Contents</strong> -&nbsp;<br></h6> -->
-				<!-- 				<h6 style="text-align:justify">{{fac.description}}</h6> -->
-				<!-- 			</div> -->
-				<!-- 		</div> -->
-				<!-- 	</div> -->
-
-				<!-- </div> -->
-			</div>
+			<div class="container" >
+        <div class="publicationType">
+          <h3 class="text-center" style="color:#6e2525">
+            <b>Conferences</b>
+          </h3>
+          <ol>
+            <li v-for="journ in conferences">
+              <div class="publicationItem">
+                {{journ.citation}}
+                <a v-if="journ.doi" v-bind:href="journ.doi">
+                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                </a>
+              </div>
+            </li>
+          </ol>
+          <hr>
+        </div>
+			<div class="container" >
+        <div class="publicationType">
+          <h3 class="text-center" style="color:#6e2525">
+            <b>Book Chapters</b>
+          </h3>
+          <ol>
+            <li v-for="journ in books">
+              <div class="publicationItem">
+                {{journ.citation}}
+                <a v-if="journ.doi" v-bind:href="journ.doi">
+                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                </a>
+              </div>
+            </li>
+          </ol>
+          <hr>
+        </div>
+			<div class="container" >
+        <div class="publicationType">
+          <h3 class="text-center" style="color:#6e2525">
+            <b>Patents</b>
+          </h3>
+          <ol>
+            <li v-for="journ in patents">
+              <div class="publicationItem">
+                {{journ.citation}}
+                <a v-if="journ.doi" v-bind:href="journ.doi">
+                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                </a>
+              </div>
+            </li>
+          </ol>
+          <hr>
+        </div>
 		</section>
 		<footer class="footer-basic">
 			<p class="copyright">Control and Automation Group © 2022
@@ -222,13 +198,41 @@
 			new Vue({
 			el: '#app',
 			data: {
-				faculty: null,
+				journals: [],
+				conferences: [],
+				books: [],
+				patents: [],
 			},
 			created() {
 				axios
-					.get('/assets/data/ugcourses.json')
+					.get('/assets/data/publications.json')
 					.then(response => {
-						this.faculty = response.data;
+						rawdata = response.data;
+            data = rawdata.sort(function(a,b){
+                          a = new Date(a.year);
+                          b = new Date(b.year);
+                          var results = a > b ? -1 : a
+                                        < b ? 1 : 0;
+                          return results;
+
+                        });
+
+            for(let i=0;i<data.length;i++){
+              let pubType = data[i].type;
+              console.log(pubType);
+              if(pubType.includes("jour") || pubType.includes("Jour")){
+                this.journals.push(data[i]);
+              }
+              if(pubType.includes("conf") || pubType.includes("Conf")){
+                this.conferences.push(data[i]);
+              }
+              if(pubType.includes("boo") || pubType.includes("Boo")){
+                this.books.push(data[i]);
+              }
+              if(pubType.includes("pat") || pubType.includes("Pat")){
+                this.patents.push(data[i]);
+              }
+            }
 					})
 					.catch((e) => {
 						console.error(e)

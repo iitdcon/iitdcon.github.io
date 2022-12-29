@@ -19,3 +19,34 @@
   width: 75px;
   padding-right: 10px;
 }
+
+ol {
+    counter-reset: list;
+}
+ol > li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: left ;
+    padding-bottom: 20px;
+}
+ol > li:before {
+    content: "[" counter(list) "]  ";
+    counter-increment: list;
+    font-size: 24px;
+    padding-right: 20px;
+    color:#6e2525;
+}
+
+.publicationItem{
+  display: flex;
+  flex-direction: column;
+}
+
+button.doi{
+  max-width: 50px;
+  font-size: 9pt;
+  padding-right: 40px;
+  margin-top: 5px;
+
+}
