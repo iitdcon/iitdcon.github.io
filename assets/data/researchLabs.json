@@ -1,4 +1,11 @@
 [
-  {},
+   {
+    "name": "Advanced Systems Lab",
+    "avatar": "/assets/img/labimg/06.jpg",
+    "room": "209, Block 2",
+    "incharge":"Prof. Deepak Patil",
+    "contact":"",
+    "Research Area": "This is the description for the control lab "
+  },
   {}
 ]
