@@ -395,6 +395,15 @@
 		"website":"https://www.researchgate.net/profile/S-Mortazavi", 
 		"avatar" : "assets/img/scholars/ssm.jpg"
 },
+{
+	"name":"Prof. Akhilesh Swarup", 
+		"thesis":"Linear Control Strategies for Robot Tracking Applications", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"1992", 
+		"current":"Professor, NIT Kurukshetra, India", 
+		"website":"https://nitkkr.ac.in/?author=150", 
+		"avatar" : "assets/img/scholars/aswarup.jpg"
+},
 	
 {
 	"name":"Prof. Laxmidhar Behera", 
