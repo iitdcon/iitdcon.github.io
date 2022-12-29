@@ -2,10 +2,31 @@
    {
     "name": "Advanced Systems Lab",
     "avatar": "/assets/img/labimg/06.jpg",
-    "room": "209, Block 2",
+    "room": "Block 2, 209",
     "incharge":"Prof. Deepak Patil",
     "contact":"",
     "Research Area": "This is the description for the control lab "
   },
-  {}
+  {"name": "Control, Optimization & Design of Systems Lab",
+    "avatar": "/assets/img/labimg/06.jpg",
+    "room": "Block 2, 339B",
+    "incharge":"Prof. S Janardhanan",
+    "contact":"",
+    "Research Area": "This is the description for the control lab "
+  },
+   
+  {"name": "Dynamics & Control of Biomoculer Systems Lab",
+    "avatar": "/assets/img/labimg/06.jpg",
+    "room": "Block 2, 242",
+    "incharge":"Prof. Shaunak Sen",
+    "contact":"",
+    "Research Area": "This is the description for the control lab "
+  },
+     {"name": "Dynamics & Control of Biomoculer Systems Lab",
+    "avatar": "/assets/img/labimg/06.jpg",
+    "room": "Block 2, 242",
+    "incharge":"Prof. Shaunak Sen",
+    "contact":"",
+    "Research Area": "This is the description for the control lab "
+  }
 ]
