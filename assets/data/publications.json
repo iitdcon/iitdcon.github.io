@@ -1,34 +1,1280 @@
 [
-  {
-    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
-    "year": "2022",
-    "type": "Journal"
-  },
-  {
-    "citation": "Saha, Tanay, Swanand Khare, and Subashish Datta. \"Structured real radius of controllability for higher order LTI systems.\" In 2019 27th Mediterranean Conference on Control and Automation (MED), pp. 350-355. IEEE, 2019.",
-    "year": "2019",
-    "type": "Conference"
-  },
-  {
-    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
-    "year": "2022",
-    "type": "Journal",
-    "doi":"https://www.google.com"
-  },
-  {
-    "citation": "1200Book",
-    "year": "1200",
-    "type": "Book"
-  },
-  {
-    "citation": "1969 book",
-    "year": "1969",
-    "type": "Book"
-  },
-  {
-    "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
-    "year": "2022",
-    "type": "Journal"
-  }
-
+    {
+        "year": 2022,
+        "citation": "R. Sarkar, D. Patil, and I. N. Kar, \u201cTime-fuel efficient intermittent feedback control of LTI Systems,\u201d IEEE Control Systems Letters, vol. 6, pp. 1513\u20131518, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "R. Sarkar, D. Patil, A. K. Mulla, and I. N. Kar, \u201cFinite-time consensus tracking of multi-agent systems using time-fuel optimal pursuit evasion,\u201d IEEE Control Systems Letters, vol. 6, pp. 962\u2013967, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "K. Chacko, J. Sivaramakrishnan, and I. N. Kar, \u201cComputationally efficient nonlinear MPC for Discrete System with disturbances,\u201d International Journal of Control, Automation and Systems, vol. 20, no. 6, pp. 1951\u20131960, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "M. M. Rayguru, B. S. Dey, and I. N. Kar, \u201cOutput feedback for contraction of nonlinear singularly perturbed systems,\u201d Int. J. Control, vol. 95, no. 8, pp. 2199\u20132210, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "M. M. Rayguru, B. S. Dey, and I. N. Kar, \u201cOutput feedback for contraction of nonlinear singularly perturbed systems,\u201d Int. J. Control, vol. 95, no. 8, pp. 2199\u20132210, 2022, doi: 10.1080/00207179.2021.1902567.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "S. K. Joshi, S. Sen, and I. N. Kar, \u201cSynchronization of coupled benchmark oscillators: analysis and experiments,\u201d Int. J. Dyn. Control, vol. 10, no. 2, pp. 577\u2013597, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Choudhary, N., Janardhanan, S. and I.N. Kar, \"Lambert W function approach to analysis and stabilization of time-delay systems,\" Control Strategy for Time-Delay Systems: Part I: Concepts and Theories\", pp. 315\u2013346, 2021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "M. M. Rayguru, S. Roy, and I. N. Kar, \u201cTime-scale redesign-based saturated controller synthesis for a class of MIMO Nonlinear Systems,\u201d IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 51, no. 8, pp. 4681\u20134692, 2021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "A. Banerjee, J. Mukherjee, M. un Nabi, and I. N. Kar, \u201cAn artificial delay based robust guidance strategy for an interceptor with input saturation,\u201d ISA Trans., vol. 109, pp. 34\u201348, 2021, doi: 10.1016/j.isatra.2020.09.013.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "R. Sarkar, J. Mukherjee, D. Patil, and I. N. Kar, \u201cRe-entry trajectory tracking of reusable launch vehicle using artificial delay based robust guidance law,\u201d Adv. Sp. Res., vol. 67, no. 1, pp. 557\u2013570, 2021, doi: 10.1016/j.asr.2020.10.006.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cEstimation based enhanced maximum energy extraction scheme for DFIG-wind turbine systems,\u201d Sustain. Energy, Grids Networks, vol. 26, p. 100419, 2021, doi: 10.1016/j.segan.2020.100419.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "R. Sarkar, D. Patil, A. K. Mulla, and I. N. Kar, \u201cFinite-Time Consensus Tracking of Multi-Agent Systems Using Time-Fuel Optimal Pursuit Evasion,\u201d IEEE Control Syst. Lett., vol. 6, pp. 962\u2013967, 2022, doi: 10.1109/LCSYS.2021.3087675.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "J. Mukherjee, S. Roy, I. N. Kar, and S. Mukherjee, \u201cManeuvering control of planar snake robot: An adaptive robust approach with artificial time delay,\u201d Int. J. Robust Nonlinear Control, vol. 31, no. 9, pp. 3982\u20133999, 2021, doi: 10.1002/rnc.5430.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "V. Gupta, R. Kumar, S. Agarwal, I. N. Kar, and J. P. Khatait, \u201cDesign and Development of a Mobile Platform Mimicking Skating With Continuous Contact,\u201d J. Auton. Veh. Syst., vol. 1, no. 2, pp. 1\u201310, 2021, doi: 10.1115/1.4050195.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "S. K. Joshi, S. Sen, and I. N. Kar, \u201cSynchronization of master-slave oscillators: Analysis and experimental results,\u201d IFAC-PapersOnLine, vol. 53, no. 1, pp. 226\u2013231, 2020, doi: 10.1016/j.ifacol.2020.06.039.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "S. Kumar and I. N. Kar, \u201cVirtual network based resilient control of linear multi-agent systems,\u201d IFAC-PapersOnLine, vol. 53, no. 1, pp. 488\u2013493, 2020, doi: 10.1016/j.ifacol.2020.06.082.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "S. Basu Roy, S. Bhasin, and I. N. Kar, \u201cComposite Adaptive Control of Uncertain Euler-Lagrange Systems with Parameter Convergence without PE Condition,\u201d Asian J. Control, vol. 22, no. 1, pp. 1\u201310, 2020, doi: 10.1002/asjc.1877.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "N. S. Tripathy, I. N. Kar, M. Chamanbaz, and R. Bouffanais, \u201cRobust stabilization of a class of nonlinear systems via aperiodic sensing and actuation,\u201d IEEE Access, vol. 8, pp. 157403\u2013157417, 2020, doi: 10.1109/ACCESS.2020.3018733.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "N. Choudhary, J. Sivaramakrishnan, and I. N. Kar, \u201cSliding mode control of uncertain fractional order systems with delay,\u201d Int. J. Control, vol. 93, no. 4, pp. 934\u2013943, 2020, doi: 10.1080/00207179.2018.1562222.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "J. Mukherjee, S. Roy, I. N. Kar, and S. Mukherjee, \u201cA double-layered artificial delay-based approach for maneuvering control of planar snake robots,\u201d J. Dyn. Syst. Meas. Control. Trans. ASME, vol. 141, no. 4, 2019, doi: 10.1115/1.4042033.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cContraction Theory Approach to Disturbance Observer Based Filtered Backstepping Design,\u201d J. Dyn. Syst. Meas. Control. Trans. ASME, vol. 141, no. 8, pp. 1\u20137, 2019, doi: 10.1115/1.4043102.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cHigh Gain Observer-Based Saturated Controller for Feedback Linearizable System,\u201d IEEE Trans. Circuits Syst. II Express Briefs, vol. 67, no. 1, pp. 122\u2013126, 2020, doi: 10.1109/TCSII.2019.2902300.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "K. Mukherjee, I. N. Kar, and R. K. P. Bhatt, \u201cOcean Waves: A Disturbance Observer approach for an Autonomous Underwater Vehicle,\u201d Ocean. 2019 - Marseille, Ocean. Marseille 2019, vol. 2019-June, 2019, doi: 10.1109/OCEANSE.2019.8867514.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "M. M. Rayguru, S. Roy, and I. N. Kar, \u201cTime-Scale Redesign-Based Saturated Controller Synthesis for a Class of MIMO Nonlinear Systems,\u201d IEEE Trans. Syst. Man, Cybern. Syst., vol. 51, no. 8, pp. 4681\u20134692, 2021, doi: 10.1109/TSMC.2019.2945841.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cModeling and impact of gear train backlash on performance of DFIG wind turbine system,\u201d Electr. Power Syst. Res., vol. 163, no. July, pp. 356\u2013364, 2018, doi: 10.1016/j.epsr.2018.07.006.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cDesign of Contractive Output Feedback Controllers For Filtered Backstepping,\u201d IFAC-PapersOnLine, vol. 51, no. 1, pp. 30\u201335, 2018, doi: 10.1016/j.ifacol.2018.05.006.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "S. Roy, S. Nandy, I. N. Kar, R. Ray, and S. N. Shome, \u201cRobust control of nonholonomic wheeled mobile robot with past information: Theory and experiment,\u201d Proc. Inst. Mech. Eng. Part I J. Syst. Control Eng., vol. 231, no. 3, pp. 178\u2013188, 2017, doi: 10.1177/0959651817691641.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "N. K. Sharma and J. Sivaramakrishnan, \u201cStochastic Discrete-Time Higher Order Sliding Mode,\u201d Discret. High. Order Sliding Mode, vol. 66, no. 4, pp. 83\u201394, 2019, doi: 10.1007/978-3-030-00172-8_6.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "S. Roy, A. Patel, and I. N. Kar, \u201cAnalysis and Design of a Wide-Area Damping Controller for Inter-Area Oscillation with Artificially Induced Time Delay,\u201d IEEE Trans. Smart Grid, vol. 10, no. 4, pp. 3654\u20133663, 2019, doi: 10.1109/TSG.2018.2833498.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "G. P. Prajapat, P. Bhui, N. Senroy, and I. N. Kar, \u201cModelling and estimation of gear train backlash present in wind turbine driven DFIG system,\u201d IET Gener. Transm. Distrib., vol. 12, no. 14, pp. 3527\u20133535, 2018, doi: 10.1049/iet-gtd.2017.1377.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cStability enhancement of DFIG-based wind turbine system through linear quadratic regulator,\u201d IET Gener. Transm. Distrib., vol. 12, no. 6, pp. 1331\u20131338, 2018, doi: 10.1049/iet-gtd.2017.0776.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cA singular perturbation approach to saturated controller design with application to bounded stabilization of wing rock phenomenon,\u201d Nonlinear Dyn., vol. 93, no. 4, pp. 2263\u20132272, 2018, doi: 10.1007/s11071-018-4323-x.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy and I. N. Kar, \u201cAdaptive sliding mode control of a class of nonlinear systems with artificial delay,\u201d J. Franklin Inst., vol. 354, no. 18, pp. 8156\u20138179, 2017, doi: 10.1016/j.jfranklin.2017.10.010.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "M. Mohamed and I. N. Kar, \u201cStochastic contraction based online estimation of second order wiener system,\u201d ISA Trans., vol. 69, pp. 131\u2013139, 2017, doi: 10.1016/j.isatra.2017.05.004.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy, I. N. Kar, J. Lee, N. G. Tsagarakis, and D. G. Caldwell, \u201cAdaptive-Robust Control of a Class of EL Systems with Parametric Variations Using Artificially Delayed Input and Position Feedback,\u201d IEEE Trans. Control Syst. Technol., vol. 27, no. 2, pp. 603\u2013615, 2019, doi: 10.1109/TCST.2017.2772210.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy, S. B. Roy, and I. N. Kar, \u201cAdaptive-Robust control of Euler-Lagrange systems with linearly parametrizable uncertainty bound,\u201d IEEE Trans. Control Syst. Technol., vol. 26, no. 5, pp. 1842\u20131850, 2018, doi: 10.1109/TCST.2017.2739107.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "J. Mukherjee, S. Mukherjee, and I. N. Kar, \u201cSliding Mode Control of Planar Snake Robot with Uncertainty Using Virtual Holonomic Constraints,\u201d IEEE Robot. Autom. Lett., vol. 2, no. 2, pp. 1077\u20131084, 2017, doi: 10.1109/LRA.2017.2657892.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy, S. Member, I. N. Kar, S. Member, J. Lee, and M. Jin, \u201cAdaptive-Robust Time-Delay Control for a Class of Uncertain Euler \u2013 Lagrange Systems,\u201d vol. 64, no. 9, pp. 7109\u20137119, 2017.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. B. Roy, S. Bhasin, and I. N. Kar, \u201cCombined MRAC for unknown MIMO LTI systems with parameter convergence,\u201d IEEE Trans. Automat. Contr., vol. 63, no. 1, pp. 283\u2013290, 2018, doi: 10.1109/TAC.2017.2725955.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cContraction-based stabilisation of nonlinear singularly perturbed systems and application to high gain feedback,\u201d Int. J. Control, vol. 90, no. 8, pp. 1778\u20131792, 2017, doi: 10.1080/00207179.2016.1221139.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "N. Choudhary, J. Sivaramakrishnan, and I. N. Kar, \u201cAnalysis of multidimensional time delay systems using Lambert W function,\u201d J. Dyn. Syst. Meas. Control. Trans. ASME, vol. 139, no. 11, pp. 1\u20136, 2017, doi: 10.1115/1.4036874.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "N. S. Gayathri, N. Senroy, and I. N. Kar, \u201cSmoothing of wind power using flywheel energy storage system,\u201d IET Renew. Power Gener., vol. 11, no. 3, pp. 289\u2013298, 2017, doi: 10.1049/iet-rpg.2016.0076.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. B. Roy, S. Bhasin, and I. N. Kar, \u201cRobust gradient-based adaptive control of nonlinearly parametrized plants,\u201d IEEE Control Syst. Lett., vol. 1, no. 2, pp. 352\u2013357, 2017, doi: 10.1109/LCSYS.2017.2715068.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cStabilization of Uncertain Discrete-Time Linear System with Limited Communication,\u201d IEEE Trans. Automat. Contr., vol. 62, no. 9, pp. 4727\u20134733, 2017, doi: 10.1109/TAC.2016.2626967.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cSuboptimal robust stabilization of discrete-time mismatched nonlinear system,\u201d IEEE/CAA J. Autom. Sin., vol. 5, no. 1, pp. 352\u2013359, 2018, doi: 10.1109/JAS.2017.7510676.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy, I. N. Kar, and J. Lee, \u201cToward Position-Only Time-Delayed Control for Uncertain Euler-Lagrange Systems: Experiments on Wheeled Mobile Robots,\u201d IEEE Robot. Autom. Lett., vol. 2, no. 4, pp. 1925\u20131932, 2017, doi: 10.1109/LRA.2017.2715884.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cWind Turbine Structural Modeling Consideration for Dynamic Studies of DFIG Based System,\u201d IEEE Trans. Sustain. Energy, vol. 8, no. 4, pp. 1463\u20131472, 2017, doi: 10.1109/TSTE.2017.2690682.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cRobust dynamic event-triggered control for linear uncertain system,\u201d IFAC-PapersOnLine, vol. 49, no. 1, pp. 207\u2013212, 2016, doi: 10.1016/j.ifacol.2016.03.054.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. K. Joshi, S. Sen, and I. N. Kar, \u201cSynchronization of coupled oscillator dynamics,\u201d IFAC-PapersOnLine, vol. 49, no. 1, pp. 320\u2013325, 2016, doi: 10.1016/j.ifacol.2016.03.073.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. Roy and I. N. Kar, \u201cRobust time-delayed control of a class of uncertain nonlinear systems,\u201d IFAC-PapersOnLine, vol. 49, no. 1, pp. 736\u2013741, 2016, doi: 10.1016/j.ifacol.2016.03.144.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cModel Based Robust Control Law for Linear Event-Triggered System,\u201d Asian J. Control, vol. 18, no. 5, pp. 1765\u20131780, 2016, doi: 10.1002/asjc.1276.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "M. Bhadu, N. S. Tripathy, I. N. Kar, and N. Senroy, \u201cEvent-triggered communication in wide-area damping control: A limited output feedbackbased approach,\u201d IET Gener. Transm. Distrib., vol. 10, no. 16, pp. 4094\u20134104, 2016, doi: 10.1049/iet-gtd.2016.0466.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. Roy and I. N. Kar, \u201cAdaptive robust tracking control of a class of nonlinear systems with input delay,\u201d Nonlinear Dyn., vol. 85, no. 2, pp. 1127\u20131139, 2016, doi: 10.1007/s11071-016-2749-6.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. Sarkar and I. N. Kar, \u201cFormation of multiple groups of mobile robots: multi-timescale convergence perspective,\u201d Nonlinear Dyn., vol. 85, no. 4, pp. 2611\u20132627, 2016, doi: 10.1007/s11071-016-2848-4.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "R. K. P. Bhatt, K. Mukherjee and I. N. Kar, \u201cAdaptive gravity compensation and region tracking control of an AUV without velocity measurement,\u201d Int. J. Model. Identif. Control, vol. 25, no. 2, pp. 154\u2013154, 2016.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "K. Mukherjee, I. N. Kar, and R. K. P. Bhatt, \u201cRegion tracking based control of an autonomous underwater vehicle with input delay,\u201d Ocean Eng., vol. 99, pp. 107\u2013114, 2015, doi: 10.1016/j.oceaneng.2015.02.006.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "M. Bhadu, N. Senroy, I. N. Kar, and G. N. Sudha, \u201cRobust linear quadratic Gaussian-based discrete mode wide area power system damping controller,\u201d IET Gener. Transm. Distrib., vol. 10, no. 6, pp. 1470\u20131478, 2016, doi: 10.1049/iet-gtd.2015.1113.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "M. Mohamed and I. N. Kar, \u201cStochastic contraction-based observer and controller design algorithm with application to a flight vehicle,\u201d Int. J. Control, vol. 88, no. 11, pp. 2291\u20132304, 2015, doi: 10.1080/00207179.2015.1041000.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2014,
+        "citation": "P. Mukhija, I. N. Kar, and R. K. P. Bhatt, \u201cRobust absolute stability criteria for uncertain lurie system with interval time-varying delay,\u201d J. Dyn. Syst. Meas. Control. Trans. ASME, vol. 136, no. 4, pp. 1\u20137, 2014, doi: 10.1115/1.4026872.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "M. Majeed and I. N. Kar, \u201cAerodynamic parameter estimation using adaptive unscented Kalman filter,\u201d Aircr. Eng. Aerosp. Technol., vol. 85, no. 4, pp. 267\u2013279, 2013, doi: 10.1108/AEAT-Mar-2011-0038.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "M. Mohamed and I. N. Kar, \u201cDesign and convergence analysis of stochastic frequency estimator using contraction theory,\u201d IET Signal Process., vol. 7, no. 5, pp. 389\u2013399, 2013, doi: 10.1049/iet-spr.2012.0251.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2012,
+        "citation": "P. Mukhija, I. N. Kar, and R. K. P. Bhatt, \u201cDelay-distribution-dependent robust stability analysis of uncertain lurie systems with time-varying delay,\u201d Zidonghua Xuebao/Acta Autom. Sin., vol. 38, no. 7, pp. 1100\u20131106, 2012, doi: 10.3724/SP.J.1004.2012.01100.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2012,
+        "citation": "M. Majeed and I. N. Kar, \u201cIdentification of aerodynamic derivatives of a flexible aircraft using output error method,\u201d Appl. Mech. Mater., vol. 110\u2013116, pp. 5328\u20135335, 2012, doi: 10.4028/www.scientific.net/AMM.110-116.5328.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2012,
+        "citation": "M. Majeed, J. Singh, and I. N. Kar, \u201cIdentification of aerodynamic derivatives of a flexible aircraft,\u201d J. Aircr., vol. 49, no. 2, pp. 654\u2013658, 2012, doi: 10.2514/1.C031318.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2011,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cStabilization and tracking controller for a class of nonlinear discrete-time systems,\u201d Chaos, Solitons and Fractals, vol. 44, no. 10, pp. 902\u2013913, 2011, doi: 10.1016/j.chaos.2011.07.009.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2011,
+        "citation": "D. M. Adhyaru, I. N. Kar, and M. Gopal, \u201cBounded robust control of nonlinear systems using neural network-based HJB solution,\u201d Neural Comput. Appl., vol. 20, no. 1, pp. 91\u2013103, 2011, doi: 10.1007/s00521-010-0441-1.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2011,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cObserver-based synchronization scheme for a class of chaotic systems using contraction theory,\u201d Nonlinear Dyn., vol. 63, no. 3, pp. 429\u2013445, 2011, doi: 10.1007/s11071-010-9813-4.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2011,
+        "citation": "M. Majeed and I. N. Kar, \u201cMulti sensor data fusion based approach for the calibration of airdata systems,\u201d The Aeronautical Journal, vol. 115, no. 1164, pp. 113\u2013122, Feb. 2011, doi: 10.1017/s0001924000005509.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2010,
+        "citation": "M. Majeed and I. Kar, \u201cCalibration of Airdata Systems Using Extended Kalman Filtering Technique,\u201d Int. J. Aerosp. Innov., vol. 2, no. 1\u20132, pp. 133\u2013146, 2010, doi: 10.1260/1757-2258.2.1-2.133.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2010,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cContraction theory-based recursive design of stabilising controller for a class of non-linear systems,\u201d IET Control Theory Appl., vol. 4, no. 6, pp. 1005\u20131018, 2010, doi: 10.1049/iet-cta.2009.0060.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2010,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cDistributed control of a class of interconnected systems in a string,\u201d IET Control Theory Appl., vol. 5, no. 8, pp. 963\u2013975, 2011, doi: 10.1049/iet-cta.2010.0031.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2010,
+        "citation": "M. Kumar and I. N. Kar, \u201cDesign of model-based optimizing control scheme for an air-conditioning system,\u201d HVAC R Res., vol. 16, no. 5, pp. 565\u2013597, 2010, doi: 10.1080/10789669.2010.10390922.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2009,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cContraction theory based adaptive synchronization of chaotic systems,\u201d Chaos, Solitons and Fractals, vol. 41, no. 5, pp. 2437\u20132447, Sep. 2009, doi: 10.1016/j.chaos.2008.09.031.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2009,
+        "citation": "M. Kumar and I. N. Kar, \u201cNon-linear HVAC computations using least square support vector machines,\u201d Energy Convers. Manag., vol. 50, no. 6, pp. 1411\u20131418, 2009, doi: 10.1016/j.enconman.2009.03.009.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2009,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cParametric convergence and control of chaotic system using adaptive feedback linearization,\u201d Chaos, Solitons and Fractals, vol. 40, no. 3, pp. 1475\u20131483, 2009, doi: 10.1016/j.chaos.2007.09.060.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2009,
+        "citation": "D. M. Adhyaru, M. Gopal and I. N. Kar, \u201cRobust control of nonlinear systems using neural network based HJB solution,\u201d Int. J. Autom. Control, vol. 3, no. 2\u20133, pp. 342\u2013350, 2009.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2009,
+        "citation": "S. Gopinath , I. N. Kar and R. K. P. Bhatt., \u201cWavelet series based iterative learning controller design for industrial robot manipulators,\u201d Int. J. Comput. Appl. Technol., vol. 35, no. 1, p., 2009.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "S. Purwar, I. N. Kar, and A. N. Jha, \u201cAdaptive output feedback tracking control of robot manipulators using position measurements only,\u201d Expert Syst. Appl., vol. 34, no. 4, pp. 2789\u20132798, 2008, doi: 10.1016/j.eswa.2007.05.030.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "J. S. Chandok, I. N. Kar, and S. Tuli, \u201cEstimation of furnace exit gas temperature (FEGT) using optimized radial basis and back-propagation neural networks,\u201d Energy Convers. Manag., vol. 49, no. 8, pp. 1989\u20131998, 2008, doi: 10.1016/j.enconman.2008.03.011.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "S. Gopinath, I. N. Kar, and R. K. P. Bhatt, \u201cExperience inclusion in iterative learning controllers: Fuzzy model based approaches,\u201d Eng. Appl. Artif. Intell., vol. 21, no. 4, pp. 578\u2013590, 2008, doi: 10.1016/j.engappai.2007.05.008.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "D. M. Adhyaru, I. N. Kar, and M. Gopal, \u201cFixed final time optimal control approach for bounded robust controller design using Hamilton-Jacobi-Bellman solution,\u201d IET Control Theory Appl., vol. 3, no. 9, pp. 1183\u20131195, 2009, doi: 10.1049/iet-cta.2008.0288.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "B. B. Sharma and I. N. Kar, \u201cDesign of asymptotically convergent frequency estimator using contraction theory,\u201d IEEE Trans. Automat. Contr., vol. 53, no. 8, pp. 1932\u20131937, 2008, doi: 10.1109/TAC.2008.927682.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2008,
+        "citation": "M. Kumar, I. N. Kar, and A. Ray, \u201cState space based modeling and performance evaluation of an Air-Conditioning system,\u201d HVAC R Res., vol. 14, no. 5, pp. 797\u2013816, 2008, doi: 10.1080/10789669.2008.10391040.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2007,
+        "citation": "S. Purwar, I. N. Kar, and A. N. Jha, \u201cNonlinear system identification using neural networks,\u201d IETE J. Res., vol. 53, no. 1, pp. 35\u201342, 2007, doi: 10.1080/03772063.2007.10876119.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2007,
+        "citation": "S. Purwar, I. N. Kar and A.N. Jha, \u201cAdaptive fuzzy logic based control of induction motors,\u201d Control Intell. Syst., vol. 35, no. 2, pp. 126\u2013133, 2007.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2006,
+        "citation": "T.  Das and I. N. Kar, \u201cDesign and implementation of an adaptive fuzzy logic-based controller for wheeled mobile robots,\u201d IEEE Trans. Control Syst. Technol., vol. 14, no. 3, pp. 501\u2013510, 2006, doi: https://doi.org/10.1109/TCST.2006.872536.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2006,
+        "citation": "T. Das, I. N. Kar, and S. Chaudhury, \u201cSimple neuron-based adaptive controller for a nonholonomic mobile robot including actuator dynamics,\u201d Neurocomputing, vol. 69, no. 16\u201318, pp. 2140\u20132151, 2006, doi: 10.1016/j.neucom.2005.09.013.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2005,
+        "citation": "S. Purwar, I. N. Kar, and A. N. Jha, \u201cAdaptive control of robot manipulators using fuzzy logic systems under actuator constraints,\u201d Fuzzy Sets Syst., vol. 152, no. 3, pp. 651\u2013664, 2005, doi: 10.1016/j.fss.2004.11.012.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2005,
+        "citation": "S. Suraneni, I. N. Kar, O. V. Ramana Murthy, and R. K. P. Bhatt, \u201cAdaptive stick-slip friction and backlash compensation using dynamic fuzzy logic system,\u201d Appl. Soft Comput. J., vol. 6, no. 1, pp. 26\u201337, 2005, doi: 10.1016/j.asoc.2004.10.005.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2004,
+        "citation": "S. Gopinath and I. N. Kar, \u201cIterative learning control scheme for manipulators including actuator dynamics,\u201d Mech. Mach. Theory, vol. 39, no. 12 SPEC. ISS., pp. 1367\u20131384, 2004, doi: 10.1016/j.mechmachtheory.2004.05.021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2004,
+        "citation": "S. Purwar, I. N. Kar, and A. N. Jha, \u201cOn-line system identification of complex systems using Chebyshev neural networks,\u201d Appl. Soft Comput. J., vol. 7, no. 1, pp. 364\u2013372, 2007, doi: 10.1016/j.asoc.2005.08.001.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2002,
+        "citation": "I. N. Kar, \u201cQuadratic stabilization of a collection of linear systems,\u201d Int. J. Syst. Sci., vol. 33, no. 2, pp. 153\u2013160, 2002, doi: 10.1080/00207720110091721.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2001,
+        "citation": "S. Gopinath and I. N. Kar, \u201cIterative learning control scheme for manipulators including actuator dynamics,\u201d Mech. Mach. Theory, vol. 39, no. 12 SPEC. ISS., pp. 1367\u20131384, 2004, doi: 10.1016/j.mechmachtheory.2004.05.021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2001,
+        "citation": "S. K. Saha et al., \u201cA Straightening Strategy for the Automobile Industries,\u201d SAE Tech. Pap., vol. 2001-Novem, 2001, doi: 10.4271/2001-28-0052.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2000,
+        "citation": "T. Miyakura, K. Miyamoto, I. N. Kar, and K. Seto, \u201cBending and Torsional Vibration Control of a Flexible Structure Using H infinity Based Robust Control,\u201d Nihon Kikai Gakkai Ronbunshu, C Hen/Transactions Japan Soc. Mech. Eng. Part C, vol. 65, no. 635, pp. 2680\u20132686, 1999, doi: 10.1299/kikaic.65.2680.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2000,
+        "citation": "I. N. Kar, K. Seto, and F. Doi, \u201cMultimode vibration control of a flexible structure using hoo-based robust control,\u201d IEEE/ASME Trans. Mechatronics, vol. 5, no. 1, pp. 23\u201331, 2000, doi: 10.1109/3516.828586.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 1999,
+        "citation": "I. N. Kar, \u201cDesign of static output feedback controller for uncertain systems,\u201d Automatica, vol. 35, no. 1, pp. 169\u2013175, 1999, doi: 10.1016/S0005-1098(98)00170-8.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 1998,
+        "citation": "I. N. Kar and A. Dasgupta, \u201cQuadratic stabilization of a class of linear systems and its application to robot control,\u201d Int. J. Syst. Sci., vol. 29, no. 3, pp. 267\u2013274, 1998, doi: 10.1080/00207729808929520.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 1997,
+        "citation": "I. N. Kar and K. Seto, \"Bending and Torsional Vibration Control of a Flexible Structure Using H-infinity Based Approach,\" JOURNAL OF ROBOTICS AND MECHATRONICS, vol. 9, pp. 387\u2013392, 1997.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 1996,
+        "citation": "I. N. Kar, \u201cA controller design algorithm for a finite number of linear systems,\u201d Int. J. Syst. Sci., vol. 27, no. 9, pp. 887\u2013893, 1996, doi: 10.1080/00207729608929290.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "U. Banerjee, B. S. Dey, I. N. Kar, and S. K. Saha, \u201cRobust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics,\u201d Proc. IEEE Int. Work. Var. Struct. Syst., vol. 2022-Septe, pp. 89\u201394, 2022, doi: 10.1109/VSS57184.2022.9901611.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": " B. S. Dey and I. N. Kar, \u201cSwitching Control for Euler-Lagrange Dynamics: An Incremental Stability Approach,\u201d IFAC-PapersOnLine, vol. 55, no. 1, pp. 555\u2013560, 2022.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "U. Banerjee, S. Kumar, S. K. Saha, I. N. Kar, and S. P. Singh, \u201cTracking Control of a Single Link Flexible Manipulator,\u201d ACM Int. Conf. Proceeding Ser., pp. 1\u20136, 2021, doi: 10.1145/3478586.3478641.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "R. Sarkar, S. M. Amrr, D. Patil, and I. N. Kar, \u201cA hysteresis quantizer based artificial time delayed control strategy for re-entry phase of reusable launch vehicle,\u201d 2021 29th Mediterr. Conf. Control Autom. MED 2021, pp. 747\u2013752, 2021, doi: 10.1109/MED51440.2021.9480343.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "U. Banerjee, S. K. Saha, and I. N. Kar, \u201cNOC based Dynamic Modelling of Multiphysics Systems\u202f: Studies on a DC Motor,\u201d pp. 1\u20132, 2020.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "K. Mundra, R. Modpur, A. Chattopadhyay, and I. N. Kar, \u201cAdversarial image detection in cyber-physical systems,\u201d ACM Int. Conf. Proceeding Ser., 2020, doi: 10.1145/3377283.3377285.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "R. Sarkar, J. Mukherjee, D. Patil, and I. N. Kar, \u201cArtificial time delay based adaptive robust fault tolerant control for RLV during re-entry phase,\u201d 2020 28th Mediterr. Conf. Control Autom. MED 2020, vol. 56, no. 1, pp. 56\u201361, 2020, doi: 10.1109/MED48518.2020.9182892.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "K. Chacko, S. Janardhanan, and I. N. Kar, \u201cKalman Filter Embedded MPC for Stochastic Systems,\u201d 2020 6th Int. Conf. Control. Autom. Robot. ICCAR 2020, pp. 11\u201315, 2020, doi: 10.1109/ICCAR49639.2020.9108027.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "N. S. Tripathy, I. Narayan Kar, M. Chamanbaz, and R. Bouffanais, \u201cRobust Stabilization of a Class of Networked Nonlinear Systems via Parsimonious Communication and Actuation,\u201d IECON Proc. (Industrial Electron. Conf., vol. 2020-Octob, pp. 4919\u20134926, 2020, doi: 10.1109/IECON43393.2020.9255064.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "C. Kishore and I. N. Kar, \u201cTracking control of a single link manipulator with actuator dynamics under output constraints,\u201d ACM Int. Conf. Proceeding Ser., pp. 6\u201311, 2019, doi: 10.1145/3352593.3352677.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "M. Yadav, C. Kishore, I. N. Kar, and S. D. Roy, \u201cAcceleration command based visual servoing with artificial induced time-delay,\u201d ACM Int. Conf. Proceeding Ser., 2019, doi: 10.1145/3352593.3352678.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "N. Sahu, R. Gupta, A. Kumar, R. Bahl, and I. N. Kar, \u201cCentralized Kalman Filter for Fusion of Multiple On-Board Auxiliary Sensors with INS for Underwater Navigation,\u201d 2019 IEEE Int. Underw. Technol. Symp. UT 2019 - Proc., 2019, doi: 10.1109/UT.2019.8734318.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "R. Sarkar, D. U. Patil, and I. Narayan Kar, \u201cComputation of Time-fuel Optimal Control for a Class of LTI System,\u201d 2019 5th Indian Control Conf. ICC 2019 - Proc., no. Icc, pp. 389\u2013394, 2019, doi: 10.1109/INDIANCC.2019.8715575.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "R. K. P. B. Koena Mukherjee, Indra Narayan Kar, \u201cAdaptive gravity compensation and region tracking control of an AUV without velocity measurement,\u201d Int. J. Model. Identif. Control, vol. 25, no. 2, pp. 154\u2013154, 2016, [Online]. Available: https://doi.org/10.1016/j.ifacol.2018.05.006.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "S. Roy, S. Basu Roy, and I. N. Kar, \u201cA New Design Methodology of Adaptive Sliding Mode Control for a Class of Nonlinear Systems with State Dependent Uncertainty Bound,\u201d Proc. IEEE Int. Work. Var. Struct. Syst., vol. 2018-July, no. 3, pp. 414\u2013419, 2018, doi: 10.1109/VSS.2018.8460363.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "N. Choudhary, J. Sivaramakrishnan, and I. N. Kar, \u201cA Robust Sliding Mode Control Approach for Uncertain Delay Systems Using Lambert W Function,\u201d IEEE Reg. 10 Annu. Int. Conf. Proceedings/TENCON, vol. 2018-Octob, no. October, pp. 199\u2013204, 2019, doi: 10.1109/TENCON.2018.8650210.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "K. Chacko, S. Janardhanan, and I. N. Kar, \u201cEfficient Nonlinear Model Predictive Control for Discrete System with Disturbances,\u201d 2018 15th Int. Conf. Control. Autom. Robot. Vision, ICARCV 2018, pp. 2032\u20132037, 2018, doi: 10.1109/ICARCV.2018.8581313.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "V. Gupta, N. Bendapudi, I. N. Kar, and S. K. Saha, \u201cThree-stage computed-torque controller for trajectory tracking in non-holonomic wheeled mobile robot,\u201d Proc. - 2018 IEEE 15th Int. Work. Adv. Motion Control. AMC 2018, pp. 144\u2013149, 2018, doi: 10.1109/AMC.2019.8371077.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "V. Gupta, R. Patel, J. P. Khatait, and I. N. Kar, \u201cModelling of Continuous Contact-Based Skating Technique,\u201d Volume 5B: 42nd Mechanisms and Robotics Conference, Aug. 2018, doi: 10.1115/detc2018-85598.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Basu Roy, S. Bhasin, and I. Narayan Kar, \u201cA UGES Switched MRAC Architecture Using Initial Excitation,\u201d IFAC-PapersOnLine, vol. 50, no. 1, pp. 7044\u20137051, 2017, doi: 10.1016/j.ifacol.2017.08.1350.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. Roy and I. N. Kar, \u201cRobust control of uncertain Euler-Lagrange systems with time-varying input delay,\u201d ACM Int. Conf. Proceeding Ser., vol. Part F1320, pp. 0\u20135, 2017, doi: 10.1145/3132446.3134880.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "J. Mukherjee, I. N. Kar, and S. Mukherjee, \u201cAdaptive sliding mode control for head-angle and velocity tracking of planar snake robot,\u201d 2017 Asian Control Conf. ASCC 2017, vol. 2018-Janua, pp. 537\u2013542, 2018, doi: 10.1109/ASCC.2017.8287227.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cConvergence analysis of high gain disturbance observer based backstepping control: A contraction theory approach,\u201d 2017 Indian Control Conf. ICC 2017 - Proc., no. Icc, pp. 72\u201377, 2017, doi: 10.1109/INDIANCC.2017.7846454.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cIdentification and tuning of dominant controller parameters of DFIG with damping control,\u201d 2017 IEEE Innov. Smart Grid Technol. - Asia Smart Grid Smart Community, ISGT-Asia 2017, pp. 1\u20136, 2018, doi: 10.1109/ISGT-Asia.2017.8378345.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cInvestigation of grid-structure interaction of wind turbine driven DFIG using FAST and Simulink,\u201d 2017 6th Int. Conf. Comput. Appl. Electr. Eng. - Recent Adv. CERA 2017, vol. 2018-Janua, pp. 13\u201318, 2018, doi: 10.1109/CERA.2017.8343293.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cModal analysis of grid connected DFIG with detailed structural modeling of wind turbine,\u201d 2017 IEEE Innov. Smart Grid Technol. - Asia Smart Grid Smart Community, ISGT-Asia 2017, pp. 1\u20136, 2018, doi: 10.1109/ISGT-Asia.2017.8378399.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cModified Control of DFIG-WT for the Smooth Generator Speed Response under Turbulent Wind,\u201d 2017 14th IEEE India Counc. Int. Conf. INDICON 2017, pp. 1\u20135, 2018, doi: 10.1109/INDICON.2017.8487485.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "N. Choudhary, J. Sivaramakrishnan, and I. N. Kar, \u201cOutput feedback optimal control of fractional order delayed systems,\u201d 2017 Asian Control Conf. ASCC 2017, vol. 2018-Janua, no. 1, pp. 1531\u20131536, 2018, doi: 10.1109/ASCC.2017.8287401.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2017,
+        "citation": "S. K. Joshi, S. Sen, and I. N. Kar, \u201cSynchronization of ring coupled four oscillators,\u201d 2017 Indian Control Conf. ICC 2017 - Proc., no. Icc, pp. 327\u2013331, 2017, doi: 10.1109/INDIANCC.2017.7846496.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. Roy and I. N. Kar, \u201cAdaptive-Robust Control of uncertain Euler-Lagrange systems with past data: A time-delayed approach,\u201d Proc. - IEEE Int. Conf. Robot. Autom., vol. 2016-June, pp. 5715\u20135720, 2016, doi: 10.1109/ICRA.2016.7487795.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "M. Bhadu, N. S. Tripathy, I. N. Kar, and N. Senroy, \u201cConceptual analysis and representation of event-triggering mechanism in power system,\u201d 2016 IEEE 6th Int. Conf. Power Syst. ICPS 2016, pp. 6\u20139, 2016, doi: 10.1109/ICPES.2016.7584026.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cEigenvalue sensitivity analysis based optimized control of wind energy conversion systems,\u201d IEEE PES Innov. Smart Grid Technol. Conf. Eur., pp. 647\u2013652, 2016, doi: 10.1109/ISGT-Asia.2016.7796461.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "S. B. Roy, S. Bhasin, and I. N. Kar, \u201cParameter convergence via a novel PI-like composite adaptive controller for uncertain Euler-Lagrange systems,\u201d 2016 IEEE 55th Conf. Decis. Control. CDC 2016, no. Cdc, pp. 1261\u20131266, 2016, doi: 10.1109/CDC.2016.7798439.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2016,
+        "citation": "G. P. Prajapat, N. Senroy, and I. N. Kar, \u201cSmall signal stability improvement of a grid connected DFIG through Quadratic Regulator,\u201d 2016 IEEE 6th Int. Conf. Power Syst. ICPS 2016, 2016, doi: 10.1109/ICPES.2016.7584006.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cFinite-time robust control of robot manipulator: A SDDRE based approach,\u201d ACM Int. Conf. Proceeding Ser., vol. 02-04-July, 2015, doi: 10.1145/2783449.2783505.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "N. Choudhary, I. N. Kar, and J. Sivaramakrishnan, \u201cA direct method for stabilization of time delay systems,\u201d 12th IEEE Int. Conf. Electron. Energy, Environ. Commun. Comput. Control (E3-C3), INDICON 2015, pp. 1\u20136, 2016, doi: 10.1109/INDICON.2015.7443798.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "R. Gupta, A. Kumar, I. N. Kar, and R. Bahl, \u201cBearings-only tracking of non-maneuvering target with missing bearings data,\u201d 2015 IEEE Underw. Technol. UT 2015, no. 0, 2015, doi: 10.1109/UT.2015.7108254.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "M. M. Rayguru and I. N. Kar, \u201cContraction based stabilization of approximate feedback linearizable systems,\u201d 2015 Eur. Control Conf. ECC 2015, pp. 587\u2013592, 2015, doi: 10.1109/ECC.2015.7330607.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "K. Mukherjee, I. N. Kar, and R. K. P. Bhatt, \u201cDisturbance observer based tracking controller for an autonomous underwater vehicle,\u201d 2015 IEEE Underw. Technol. UT 2015, pp. 24\u201329, 2015, doi: 10.1109/UT.2015.7108245.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "S. Sarkar and I. N. Kar, \u201cFormation of multiple groups of mobile robots: multi-timescale convergence perspective,\u201d Nonlinear Dyn., vol. 85, no. 4, pp. 2611\u20132627, 2016, doi: 10.1007/s11071-016-2848-4.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "J. Mukherjee, I. N. Kar, and S. Mukherjee, \u201cKinematic control of Wheeled Mobile Robot: An error based differentially flat system approach,\u201d 12th IEEE Int. Conf. Electron. Energy, Environ. Commun. Comput. Control (E3-C3), INDICON 2015, vol. 3, pp. 2\u20137, 2016, doi: 10.1109/INDICON.2015.7443561.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "S. Sarkar and I. N. Kar, \u201cThree time scale behaviour analysis of the Leader Follower formation of multiple groups of nonholonomic robots,\u201d Proc. Am. Control Conf., vol. 2015-July, pp. 44\u201349, 2015, doi: 10.1109/ACC.2015.7170709.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2014,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cModel Based Robust Control Law for Linear Event-Triggered System,\u201d Asian J. Control, vol. 18, no. 5, pp. 1765\u20131780, 2016, doi: 10.1002/asjc.1276.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2014,
+        "citation": "N. S. Tripathy, I. N. Kar, and K. Paul, \u201cAn event-triggered based robust control of robot manipulator,\u201d 2014 13th Int. Conf. Control Autom. Robot. Vision, ICARCV 2014, vol. 2014, no. December, pp. 425\u2013430, 2014, doi: 10.1109/ICARCV.2014.7064343.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "M. Kumar and I. N. Kar, \u201cFault detection and diagnosis of air-conditioning systems using residuals,\u201d in IFAC Proceedings Volumes (IFAC-PapersOnline), 2013, vol. 10, no. PART 1, pp. 607\u2013612, doi: 10.3182/20131218-3-IN-2045.00113.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "S. Sarkar and I. N. Kar, \u201cFormation control of multiple groups of nonholonomic wheeled mobile robots,\u201d 2013, doi: 10.1145/2506095.2506129.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "S. Sarkar and I. N. Kar, \u201cFormation control of multiple groups of robots,\u201d in Proceedings of the IEEE Conference on Decision and Control, 2013, pp. 1466\u20131471, doi: 10.1109/CDC.2013.6760089.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "P. Mukhija, I. N. Kar, and R. K. P. Bhatt, \u201cNew synchronization criteria for fuzzy complex dynamical network with time-varying delay,\u201d 2013, doi: 10.1109/FUZZ-IEEE.2013.6622551.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "K. Mukherjee, I. N. Kar, and R. K. P. Bhatt, \u201cRegion reaching and obstacle avoidance for autonomous underwater vehicle without velocity measurement,\u201d in IFAC Proceedings Volumes (IFAC-PapersOnline), 2014, vol. 3, no. PART 1, pp. 754\u2013757, doi: 10.3182/20140313-3-IN-3024.00203.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "P. Mukhija, I. N. Kar, and R. K. P. Bhatt, \u201cWirtinger inequality based absolute stability of Lurie singular system with time-delay,\u201d in Proceedings of the IEEE International Conference on Control Applications, 2013, pp. 649\u2013654, doi: 10.1109/CCA.2013.6662823.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "N. S. Tripathy, I. N. Kar and K. Paul, 2022, Event-Triggered Transmission Protocol in Robust Control Systems, CRC Press, 2022).",
+        "type": "Book",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Joyjit Mukherjee, I. N. Kar and S. Mukherjee, 2021, Adaptive Robust Control of Planner Snake Robots, Springer Nature (Studies in Systems, Decision and Control series, Volume 363).",
+        "type": "Book",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Spandan Roy and I. N. Kar, 2019, Adaptive-Robust Control with Limited Knowledge on System Dynamics: An Artificial Input Delay Approach and Beyond. Springer Nature (Studies in Systems, Decision and Control series, Volume 257).",
+        "type": "Book",
+        "doi": null
+    },
+    {
+        "year": 2011,
+        "citation": "Sehgal, S., S. K. Saha, and I. N. Kar, 2011, Active Device Development for Automobiles (A Reference Book), LAP Lambert Academic Publishing, Germany.",
+        "type": "Book",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "I. N. Kar and M. Kumar, A Control apparatus for controlling operation of a heating, ventilating and air-conditioning (HVAC) system and a process therefor, Indian Patent granted. Patent no: 311564, Date of grant: 24.04.2019, date of filling 18/01/2010, Application no:94/DEL/2010. (Technology has been transferred to Indian Railways.) ",
+        "type": "Patent ",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "Mahesh Chowdhary, Arun Kumar, Ghanapriya Singh, Kashif R. J. Meer, Indra Narayan Kar, Rajendar Bahl, Method and apparatus for determining probabilistic context awareness of a mobile device using a single sensor and/or multi-sensor data fusion, US Patent 9870535, Date of Patent Filing: 18th March 2016, Date of Patent Grant: 16th Jan 2018.",
+        "type": "Patent ",
+        "doi": null
+    },
+    {
+        "year": 2018,
+        "citation": "Mahesh Chowdhary, Arun Kumar, Ghanapriya Singh, Kashif R. J. Meer, Indra Narayan Kar, Rajendar Bahl, Method and apparatus for energy efficient probabilistic context awareness of a mobile or wearable device user by switching multiple sensors, US Patent Application No. US 15/299656, Date of Patent Filing: 21st October 2016, Date of Patent Publishing 26th April 2018.",
+        "type": "Patent ",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Joshi, S.K., Sen, S. & Kar, I.N. Synchronization of coupled benchmark oscillators: analysis and experiments. Int. J. Dynam. Control 10, 577\u2013597 (2022).",
+        "type": "Journal",
+        "doi": "https://doi.org/10.1007/s40435-021-00827-y"
+    },
+    {
+        "year": 2020,
+        "citation": "Soumyadip Banerjee, Kushal Shah, Shaunak Sen, On the length scale dependence of DNA conformational change under local perturbation, Biosystems, Volume 198, 2020,",
+        "type": "Journal",
+        "doi": "https://doi.org/10.1016/j.biosystems.2020.104228"
+    },
+    {
+        "year": 2020,
+        "citation": "Patel, Abhilash, and Shaunak Sen. \"Experimental evidence for constraints in amplitude\u2010timescale co\u2010variation of a biomolecular pulse generating circuit design.\" IET Systems Biology 14.5 (2020): 217-222.",
+        "type": "Journal",
+        "doi": " https://doi.org/10.1049/iet-syb.2019.0123"
+    },
+    {
+        "year": 2020,
+        "citation": "Patel, Abhilash, Richard M. Murray, and Shaunak Sen. \"Assessment of Robustness to Temperature in a Negative Feedback Loop and a Feedforward Loop.\" ACS Synthetic Biology 9.7 (2020): 1581-1590.",
+        "type": "Journal",
+        "doi": "https://doi.org/10.1021/acssynbio.0c00023"
+    },
+    {
+        "year": 2020,
+        "citation": "Banerjee, Soumyadip, and Shaunak Sen. \"Robustness of a biomolecular oscillator to pulse perturbations.\" IET Systems Biology 14.3 (2020): 127-132.",
+        "type": "Journal",
+        "doi": " https://doi.org/10.1049/iet-syb.2019.0029"
+    },
+    {
+        "year": 2020,
+        "citation": "Dey, Abhishek, Venkat Bokka, and Shaunak Sen. \"Dependence of bacterial growth rate on dynamic temperature changes.\" IET Systems Biology 14.2 (2020): 68-74.",
+        "type": "Journal",
+        "doi": " https://doi.org/10.1049/iet-syb.2018.5125"
+    },
+    {
+        "year": 2020,
+        "citation": "Patel, Abhilash, and Shaunak Sen. \"Experimental evidence for constraints in amplitude\u2010timescale co\u2010variation of a biomolecular pulse generating circuit design.\" IET Systems Biology 14.5 (2020): 217-222.",
+        "type": "Journal",
+        "doi": " https://doi.org/10.1049/iet-syb.2019.0123"
+    },
+    {
+        "year": 2020,
+        "citation": "Joshi, Shyam Krishan, Shaunak Sen, and Indra Narayan Kar. \"Synchronization of master-slave oscillators: Analysis and experimental results.\" IFAC-PapersOnLine 53.1 (2020): 226-231.",
+        "type": "Journal",
+        "doi": "https://doi.org/10.1016/j.ifacol.2020.06.039"
+    },
+    {
+        "year": 2020,
+        "citation": "Patel, Abhilash, and Shaunak Sen. \"Computational Framework for Design of a Pulse Generating Biomolecular Circuit.\" IFAC-PapersOnLine 53.1 (2020): 220-225.",
+        "type": "Journal",
+        "doi": "https://doi.org/10.1016/j.ifacol.2020.06.038"
+    },
+    {
+        "year": 2022,
+        "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Datta, Subashish. \"Consensus in Multi-Agent Systems: A Transfer Function-Based Controller Design Approach.\" IEEE Transactions on Circuits and Systems II: Express Briefs 69, no. 11 (2022): 4384-4388.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Datta, Subashish. \"Well-Posedness, Internal Stability and Input-Output Stability in Networked Multi-Agent Systems.\" IEEE Control Systems Letters 6 (2021): 1543-1548.",
+        "type": "Journal (LCSS)",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Vaswani, P. D., P. K. Tamboli, Subashish Datta, and Debraj Chakraborty. \"Optimised structured state feedback controller for zone power and bulk power control of PHWRs.\" Annals of Nuclear Energy (2021): 108835.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Datta, Subashish. \"Small signal stability criteria for descriptor form power network model.\" International Journal of Control 93, no. 8 (2020): 1817-1825.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Patil, Deepak U., and Subashish Datta. \"Synchronization of multi-agent systems with distributed reduced norm state feedback control.\" In 2019 Fifth Indian Control Conference (ICC), pp. 95-100. IEEE, 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Saha, Tanay, Swanand Khare, and Subashish Datta. \"Structured real radius of controllability for higher order LTI systems.\" In 2019 27th Mediterranean Conference on Control and Automation (MED), pp. 350-355. IEEE, 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Kumar, Avinash, and Subashish Datta. \"Elimination of Expensive Sensors in Static State Feedback Control with Specified Transient Behaviour.\" In 2019 Fifth Indian Control Conference (ICC), pp. 74-78. IEEE, 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Rajasree Sarkar, Deepak Patil, and Indra Narayan Kar,\u2018\u2018Time-Fuel Efficient Intermittent Feedback Control of LTI Systems\u2019\u2019 accepted for publication in in IEEE Control Systems Letters, 2021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Rajasree Sarkar, Deepak Patil, Ameer K. Mulla, and Indra Narayan Kar, \u2018\u2018Finite-Time Consensus Tracking of Multi- Agent Systems Using Time-Fuel Optimal Pursuit Evasion,\u2019\u2019 in IEEE Control Systems Letters, vol. 6, pp. 962-967, 2022",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Rajasree Sarkar, Joyjit Mukherjee, Deepak Patil, and Indra Narayan Kar, \u2018\u2018Re-entry trajectory tracking of reusable launch vehicle using artificial delay based robust guidance law\u2019\u2019, Advances in Space Research, 2020.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Deepak Patil, Pietro Tesi, and Stephan Trenn, \u2018\u2018Indiscernible Topological Variations in DAE networks\u2019\u2019 Automatica, Volume 101, Pages 280-289, March 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": " M. T. Augustine, Deepak Patil, \u2018\u2018A Computationally Efficient LQR Based Model Predictive Control Algorithm for Discrete-Time Switched Linear Systems\u2019\u2019 to appear in Proceedings IEEE 60th Annual Conference on Decision and Control (CDC), Austin, Texas, USA, December 2021.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "R. Maheshwari, Deepak Patil, Sanjeet Dwivedi, \u2018\u2018Port-Controlled Hamilton Model and Control of Induction Machine with Inverter Output LC Filter\u2019\u2019, in proceedings of 2021 1st International Conference on Power Electronics and Energy (ICPEE), 2-3 January, 2021.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "R. Sarkar, J. Mukherjee, Deepak Patil and I. N. Kar, \u201cArtificial Time Delay based Adaptive Robust Fault Tolerant Control for RLV During Re-entry Phase,\u201d 2020 28th Mediterranean Conference on Control and Automation (MED), Saint-Rapha\u00ebl, France, 2020, pp. 56-61.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "M. T. Augustine and Deepak Patil, \u201cDynamic Programming based Optimal Control of Discrete Time Switched Linear Systems,\u201d 2019 Australian & New Zealand Control Conference (ANZCC), Auckland, New Zealand, 2019, pp. 221-224.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "E. V. K. Dhulipala and Deepak Patil, \u2018\u2018Time Optimal Tour Through a Class of Points for a Double Integrator Traveling Salesman\u2019\u2019, to appear in proceedings of The European Control Conference (ECC) 2019, Naples, Italy, 25-28th June, 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Rajasree Sarkar, Deepak Patil, I. N. Kar, \u2018\u2018Computation of Time-fuel Optimal Control for a Class of LTI Systems\u2019\u2019, to appear in proceedings of 5th Indian Control Conference, New Delhi, India, January 2019.",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Deepak Patil and Ameer Mulla, \u2018\u2018Distributed Computation of Minimum Step Consensus for Discrete Time Multi- Agent Systems\u2019\u2019, to appear in proceedings of 5th Indian Control Conference, New Delhi, India, January 2019",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2019,
+        "citation": "Deepak Patil and Subashish Datta, \u2018\u2018Synchronization of Multi-Agent Systems with Distributed Reduced Norm State Feedback Control\u2019\u2019, to appear in proceedings of 5th Indian Control Conference, New Delhi, India, January 2019",
+        "type": "Conference",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Augustine, Midhun T., and Deepak U. Patil. \"A Practically Stabilizing Model Predictive Control Scheme for Switched Affine Systems.\" IEEE Control Systems Letters 7 (2022): 625-630.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Augustine, Midhun T., and Deepak U. Patil. \"A Stabilizing Model Predictive Control Scheme With Arbitrary Prediction Horizon for Switched Linear Systems.\" IEEE Control Systems Letters 6 (2022): 2461-2466.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Rajasree Sarkar, Deepak Patil, Ameer K. Mulla, and Indra Narayan Kar, \u2018\u2018Finite-Time Consensus Tracking of Multi- Agent Systems Using Time-Fuel Optimal Pursuit Evasion,\u2019\u2019 in IEEE Control Systems Letters, vol. 6, pp. 962-967, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "S. Datta, \u201cWell-Posedness, Internal Stability and Input-Output Stability in Networked Multi-Agent Systems\u201d, IEEE Control Systems Letters, Vol.: 6, pp: 1543-1548, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "P. D. Vaswani, P. K. Tamboli, S. Datta and D. Chakraborty, \u201cOptimised structured state feedback controller for zone power and bulk power control of PHWRs \u201d, Annals of Nuclear Energy, Vol.: 167 (108835), pp: 1-14, 2022.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "Satnesh Singh and S. Janardhanan, \"Discrete Stochastic Sliding Mode with Functional Observation\", in Emerging Trends in Sliding Mode Control - Theory and Application, Eds. Axaykumar Mehta and Bijnan Bandyopadhyay, Ser. Studies in Systems Decision and Control, pp. 119-144, Springer Nature, 2021. DOI: 10.1007/978-981-15-8613-2.",
+        "type": "Book Chapter",
+        "doi": "10.1007/978-981-15-8613-2"
+    },
+    {
+        "year": 2021,
+        "citation": "Nalin Kumar Sharma, Spandan Roy and S. Janardhanan, \"New design methodology for adaptive switching gain based discrete-time sliding mode control\", International Journal of Control, Vol. 94, No. 4, pp. 1081-1088, 2021. (doi: 10.1080/00207179.2019.1632489).",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2021,
+        "citation": "S. Ghosh, D. Das, B. Singh, S. Janardhanan and S. Mishra, \"Frequency Domain Modeling of Dual Active Bridge Converter Based on Harmonic Balance Approach,\" in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, (doi:10.1109/JESTIE.2021.3051591).",
+        "type": "Journal",
+        "doi": "10.1109/JESTIE.2021.3051591"
+    },
+    {
+        "year": 2021,
+        "citation": "Rajasree Sarkar, Deepak Patil, and Indra Narayan Kar,\u2018\u2018Time-Fuel Efficient Intermittent Feedback Control of LTI Systems\u2019\u2019 accepted for publication in in IEEE Control Systems Letters, 2021.",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Niraj Choudhary, S. Janardhanan and Indra Narayan Kar, \"Lambert W Function Approach to Analysis and Stabilization of Time-Delay Systems\", in Control Strategy for Time-Delay Systems Part I: Concepts and Theories, Eds. Mohammad - Hassan Khooban Tomislav Dragicevic, Ser. Emerging Methodologies and Applications in Modelling, Identification and Control, pp. 315-346, Academic Press, 2020. ISBN: 978-0128205990",
+        "type": "Book Chapter",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Satnesh Singh and S. Janardhanan, \"Discrete-Time Stochastic Sliding-Mode Control Using Functional Observation\", Ser. Lecture Notes in Control and Information Sciences, Vol. 483, Springer-Verlag, 2020, Hardcover ISBN. 978-3-030-32799-6, DOI: 10.1007/978-3-030-32800-9.",
+        "type": "Book",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Rajashree Taparia, S. Janardhanan and Rajeev Gupta, \"Inventory Control for Nonperishable and Perishable goods based on Model Predictive Control\", International Journal of Systems Science: Operations & Logistics, Vol. 7, Issue. 4, pp.361-372, 2020 (doi :10.1080/23302674.2019.1600766).",
+        "type": "Journal",
+        "doi": "10.1080/23302674.2019.1600766"
+    },
+    {
+        "year": 2020,
+        "citation": "Niraj Choudhary, S. Janardhanan and I. N. Kar, \"Sliding Mode Control of Uncertain Fractional Order Systems with Delay\", International Journal of Control, Vol. 93, No. 4, pp. 934-943, 2020 (doi: 10.1080/00207179.2018.1562222).",
+        "type": "Journal",
+        "doi": "10.1080/00207179.2018.1562222"
+    },
+    {
+        "year": 2020,
+        "citation": "Rajashree Taparia, S. Janardhanan and Rajeev Gupta, \"Inventory Control for Nonperishable and Perishable goods based on Model Predictive Control\", International Journal of Systems Science: Operations & Logistics, Vol. 7, Issue. 4, pp.361-372, 2020 (doi : 10.1080/23302674.2019.1600766).",
+        "type": "Journal",
+        "doi": "10.1080/23302674.2019.1600766"
+    },
+    {
+        "year": 2020,
+        "citation": "Niraj Choudhary, S. Janardhanan and I. N. Kar, \"Sliding Mode Control of Uncertain Fractional Order Systems with Delay\", International Journal of Control, Vol. 93, No. 4, pp. 934-943, 2020 (doi: 10.1080/00207179.2018.1562222).",
+        "type": "Journal",
+        "doi": "10.1080/00207179.2018.1562222"
+    },
+    {
+        "year": 2018,
+        "citation": "Nalin Kumar Sharma and S. Janardhanan, \"Discrete-TIme Higher Order Sliding Mode - The Concept and the Control\", 96 p., Springer, Sep. 2018. ISBN : 978-3-030-00171-1.",
+        "type": "Book Chapter",
+        "doi": null
+    },
+    {
+        "year": 2015,
+        "citation": "Pyare Mohan Tiwari, S. Janardhanan and Mashuq un Nabi, \"Rigid Spacecraft Fault-Tolerant Control using Adaptive Fast Terminal Sliding Mode\", in Advances and Applications in Sliding Mode Control Systems, Eds. Ahmad Taher and Quan Min Zhu, Studies in Computational Intelligence, Vol. 576, pp. 381-406, Springer, 2015. DOI: 10.1007/978-3-319-11173-5_14.",
+        "type": "Book Chapter",
+        "doi": "10.1007/978-3-319-11173-5_14"
+    },
+    {
+        "year": 2013,
+        "citation": "S. Bhasin, R. Kamalapurkar, M. Johnson, K. G. Vamvoudakis, F. L. Lewis, and W. E. Dixon, \"An actor-critic-identifier architecture for adaptive approximate optimal control,\" in Reinforcement Learning and Approximate Dynamic Programming for Feedback Control, Edited by F.L. Lewis and Derong Liu, Wiley-IEEE Press Computational Intelligence Series, New Jersey, Chapter 12, pp. 258-278, 2013.",
+        "type": "Book Chapter",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "S. Janardhanan and N. Satyanarayana, \"Multirate Functional Observer based Discrete-time Sliding Mode Control\", in Advances in Sliding Mode Control, Eds. B. Bandyopadhyay, S. Janardhanan and S. Spurgeon, Lecture Notes in Control and Information Sciences, Vol. 440, pp. 267-281, Springer-Verlag, Heidelberg, 2013, DOI : 10.1007/978-3-642-36986-5_13.",
+        "type": "Book Chapter",
+        "doi": null
+    },
+    {
+        "year": 2013,
+        "citation": "B. Bandyopadhyay, S. Janardhanan and S. Spurgeon (Eds.), \"Advances in Sliding Mode Control - Concept, Theory and Implementation\", Ser. Lecture Notes in Control and Information Sciences, Vol. 440, p. 380, Springer-Verlag, Heidelberg, 2013, ISBN 978-3-642-36985-8",
+        "type": "Book Chapter",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Rajashree Taparia, S. Janardhanan and Rajeev Gupta, \"Laguerre function-based model predictive control for multiple product inventory systems\", International Journal of Systems Science: Operations and Logistics.2020 (doi: 10.1080/23302674.2020.1846094).",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2022,
+        "citation": "Keerthi Chacko, S. Janardhanan and I N Kar, \"Computationally Efficient Nonlinear MPC for Discrete System with Disturbances\", International Journal of Control, Automation and Systems, 2022. ",
+        "type": "Journal",
+        "doi": null
+    },
+    {
+        "year": 2020,
+        "citation": "Pritesh Patel and S. Janardhanan, \"Near Optimal PID Controller Tuning : Interval Arithmetic Approach\", Proc. 2020 Advances in Control & Optimization of Dynamical Systems, Chennai, Feb. 2020.",
+        "type": "Conference",
+        "doi": "10.1016/j.ifacol.2020.06.042"
+    },
+    {
+        "year": 2020,
+        "citation": "Rajashree Taparia, S. Janardhanan and Rajeev Gupta, \"LQR Control of Multiple Product Inventory Systems for Profit and Warehouse Capacity Maximization\", Proc. 2020 International Conference on Emerging Trends in Communication, Control and Computing (ICONC3), Sikar (Rajasthan), Feb. 2020.",
+        "type": "Conference",
+        "doi": "10.1109/ICONC345789.2020.9117511"
+    },
+    {
+        "year": 2020,
+        "citation": "Keerthi Chacko, S Janardhanan and Indra Narayan Kar, \"Kalman Filter Embedded MPC for Stochastic Systems\", Proc. 2020 6th International Conference on Control, Automation and Robotics (ICCAR), Singapore, Apr. 2020.",
+        "type": "Conference",
+        "doi": "10.1109/ICCAR49639.2020.9108027"
+    },
+    {
+        "year": 2020,
+        "citation": "Gagan Deep Meena and S. Janardhanan, \"Discretization of Linear Time-Varying Systems\", Proc. 2020 International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET), Patna, Jul. 2020",
+        "type": "Conference",
+        "doi": "10.1109/ICEFEET49149.2020.9186982"
+    }
 ]

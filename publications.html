@@ -121,7 +121,7 @@
               <div class="publicationItem">
                 {{journ.citation}}
                 <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
                 </a>
               </div>
             </li>
@@ -138,7 +138,7 @@
               <div class="publicationItem">
                 {{journ.citation}}
                 <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
                 </a>
               </div>
             </li>
@@ -155,7 +155,7 @@
               <div class="publicationItem">
                 {{journ.citation}}
                 <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
                 </a>
               </div>
             </li>
@@ -172,7 +172,7 @@
               <div class="publicationItem">
                 {{journ.citation}}
                 <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">DOI</button>
+                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
                 </a>
               </div>
             </li>
@@ -219,7 +219,16 @@
 
             for(let i=0;i<data.length;i++){
               let pubType = data[i].type;
-              console.log(pubType);
+              if (data[i].doi){
+               console.log(data[i])
+                if(!data[i].doi.includes("doi")){
+                  data[i].doi = "doi.org/"+data[i].doi;
+                }
+                if(!data[i].doi.includes("https:")){
+                  data[i].doi = "https://"+data[i].doi;
+                }
+               console.log(data[i])
+              }
               if(pubType.includes("jour") || pubType.includes("Jour")){
                 this.journals.push(data[i]);
               }
