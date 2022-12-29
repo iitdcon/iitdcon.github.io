@@ -350,9 +350,10 @@
 {
 	"name":"Prof. Rajneesh Sharma", 
 		"thesis":"Markov game based hybrid controllers for nonlinear systems", 
-		"supervisor":"Prof. Indra Narayan Kar and Prof. R.K.P. Bhatt", 
+		"supervisor":"Prof. M Gopal", 
 		"year":"2007", 
 		"current":"Professor, NSUT, Delhi, India", 
+		"website":"http://www.nsit.ac.in/faculty/rjns/", 
 		"avatar" : "assets/img/scholars/rjns.jpg"
 },
 {
