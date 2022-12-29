@@ -403,8 +403,7 @@
 		"current":"Professor, NIT Kurukshetra, India", 
 		"website":"https://nitkkr.ac.in/?author=150", 
 		"avatar" : "assets/img/scholars/aswarup.jpg"
-},
-	
+},	
 {
 	"name":"Prof. Laxmidhar Behera", 
 		"thesis":" ", 
@@ -414,7 +413,15 @@
 		"website":"https://iitmandi.ac.in/institute/director.php", 
 		"avatar" : "assets/img/scholars/ldbehera.jpg"
 },
-	
+{
+	"name":"Prof. Nesar Ahmed", 
+		"thesis":"Real-time Intelligent Distributed Control Systems", 
+		"supervisor":"Prof. S.S. Lamba and Prof. Y.P. Singh", 
+		"year":"1992", 
+		"current":"Professor, AMU Aligarh, India", 
+		"website":"https://www.amu.ac.in/faculty/computer-engineering/nesar-ahmad", 
+		"avatar" : "assets/img/faculty/naser.jpg"
+},	
 {
 	"name":"Prof. Bijnan Bandyopadhyay", 
 		"thesis":"Some new model reduction techniques for multivariable systems ", 
