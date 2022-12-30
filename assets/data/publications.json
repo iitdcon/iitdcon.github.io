@@ -21,19 +21,7 @@
         "year": 2022,
         "citation": "M. M. Rayguru, B. S. Dey, and I. N. Kar, \u201cOutput feedback for contraction of nonlinear singularly perturbed systems,\u201d Int. J. Control, vol. 95, no. 8, pp. 2199\u20132210, 2022.",
         "type": "Journal",
-        "doi": null
-    },
-    {
-        "year": 2022,
-        "citation": "M. M. Rayguru, B. S. Dey, and I. N. Kar, \u201cOutput feedback for contraction of nonlinear singularly perturbed systems,\u201d Int. J. Control, vol. 95, no. 8, pp. 2199\u20132210, 2022, doi: 10.1080/00207179.2021.1902567.",
-        "type": "Journal",
-        "doi": null
-    },
-    {
-        "year": 2022,
-        "citation": "S. K. Joshi, S. Sen, and I. N. Kar, \u201cSynchronization of coupled benchmark oscillators: analysis and experiments,\u201d Int. J. Dyn. Control, vol. 10, no. 2, pp. 577\u2013597, 2022.",
-        "type": "Journal",
-        "doi": null
+        "doi": "10.1080/00207179.2021.1902567"
     },
     {
         "year": 2021,
@@ -979,12 +967,6 @@
     },
     {
         "year": 2020,
-        "citation": "Patel, Abhilash, and Shaunak Sen. \"Experimental evidence for constraints in amplitude\u2010timescale co\u2010variation of a biomolecular pulse generating circuit design.\" IET Systems Biology 14.5 (2020): 217-222.",
-        "type": "Journal",
-        "doi": " https://doi.org/10.1049/iet-syb.2019.0123"
-    },
-    {
-        "year": 2020,
         "citation": "Joshi, Shyam Krishan, Shaunak Sen, and Indra Narayan Kar. \"Synchronization of master-slave oscillators: Analysis and experimental results.\" IFAC-PapersOnLine 53.1 (2020): 226-231.",
         "type": "Journal",
         "doi": "https://doi.org/10.1016/j.ifacol.2020.06.039"
@@ -1041,12 +1023,6 @@
         "year": 2019,
         "citation": "Kumar, Avinash, and Subashish Datta. \"Elimination of Expensive Sensors in Static State Feedback Control with Specified Transient Behaviour.\" In 2019 Fifth Indian Control Conference (ICC), pp. 74-78. IEEE, 2019.",
         "type": "Conference",
-        "doi": null
-    },
-    {
-        "year": 2022,
-        "citation": "Datta, Subashish, and Harsha Mathur. \"Feedback control for structured descriptor systems with minimum free-entry pattern gain vectors.\" Automatica 147 (2023): 110702.",
-        "type": "Journal",
         "doi": null
     },
     {
@@ -1170,12 +1146,6 @@
         "doi": "10.1109/JESTIE.2021.3051591"
     },
     {
-        "year": 2021,
-        "citation": "Rajasree Sarkar, Deepak Patil, and Indra Narayan Kar,\u2018\u2018Time-Fuel Efficient Intermittent Feedback Control of LTI Systems\u2019\u2019 accepted for publication in in IEEE Control Systems Letters, 2021.",
-        "type": "Journal",
-        "doi": null
-    },
-    {
         "year": 2020,
         "citation": "Niraj Choudhary, S. Janardhanan and Indra Narayan Kar, \"Lambert W Function Approach to Analysis and Stabilization of Time-Delay Systems\", in Control Strategy for Time-Delay Systems Part I: Concepts and Theories, Eds. Mohammad - Hassan Khooban Tomislav Dragicevic, Ser. Emerging Methodologies and Applications in Modelling, Identification and Control, pp. 315-346, Academic Press, 2020. ISBN: 978-0128205990",
         "type": "Book Chapter",
@@ -1204,12 +1174,6 @@
         "citation": "Rajashree Taparia, S. Janardhanan and Rajeev Gupta, \"Inventory Control for Nonperishable and Perishable goods based on Model Predictive Control\", International Journal of Systems Science: Operations & Logistics, Vol. 7, Issue. 4, pp.361-372, 2020 (doi : 10.1080/23302674.2019.1600766).",
         "type": "Journal",
         "doi": "10.1080/23302674.2019.1600766"
-    },
-    {
-        "year": 2020,
-        "citation": "Niraj Choudhary, S. Janardhanan and I. N. Kar, \"Sliding Mode Control of Uncertain Fractional Order Systems with Delay\", International Journal of Control, Vol. 93, No. 4, pp. 934-943, 2020 (doi: 10.1080/00207179.2018.1562222).",
-        "type": "Journal",
-        "doi": "10.1080/00207179.2018.1562222"
     },
     {
         "year": 2018,
