@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-		<title>Publications | Control and Automation Group
+		<title>Contact Us | Control and Automation Group
     </title>
 		<meta name="twitter:description" content="">
 		<meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
@@ -108,78 +108,37 @@
 				</div>
 			</div>
 		</nav>
-
 		<section class="portfolio-block cv" id="app">
-			<div class="container" >
-        <h2 class="text-center" style="margin: 11;">Publications</h2>
-        <hr style="margin: 16px 0px;">
-        <div class="publicationType">
-          <h3 class="text-center" style="color:#6e2525">
-            <b>Journals</b>
-          </h3>
-          <ol>
-            <li v-for="journ in journals">
-              <div class="publicationItem">
-                {{journ.citation}}
-                <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
-                </a>
-              </div>
-            </li>
-          </ol>
-          <hr>
+      <div class="container">
+				<div class="intro" style="padding: 5px;">
+					<h2 class="text-center" style="margin: 11;">Contact Us</h2>
+					<hr style="margin: 16px 0px;">
+				</div>
+        <div class="row text-center">
+          <h3 style="color:#6e2525;margin-bottom:50px"><strong>Ph.D. Coordinator</strong></h3>
+          <div class="card text-center" style="display:flex;flex-direction:column;align-items:center">
+            <img class="rounded-circle" alt="" src="/assets/img/faculty/ink.jpg" width="200" height="200" style="margin-bottom:30px"/>
+            <h6>
+            <strong>Prof. Indra Narayan Kar</strong>
+            </h6>
+								<div class="d-flex">
+                  <i class="fa fa-telephone" style="padding: 2px;padding-right: 10px;">
+                  </i>
+									<h6>+91
+                  </h6>
+								</div>
+								<div class="d-flex">
+                  <i class="fa fa-envelope" style="padding: 2px;padding-right: 10px;">
+                  </i>
+									<h6>{{fac.email}}
+                  </h6>
+								</div>
+          </div>
+
+
         </div>
-			<div class="container" >
-        <div class="publicationType">
-          <h3 class="text-center" style="color:#6e2525">
-            <b>Conferences</b>
-          </h3>
-          <ol>
-            <li v-for="journ in conferences">
-              <div class="publicationItem">
-                {{journ.citation}}
-                <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
-                </a>
-              </div>
-            </li>
-          </ol>
-          <hr>
-        </div>
-			<div class="container" >
-        <div class="publicationType">
-          <h3 class="text-center" style="color:#6e2525">
-            <b>Book Chapters</b>
-          </h3>
-          <ol>
-            <li v-for="journ in books">
-              <div class="publicationItem">
-                {{journ.citation}}
-                <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
-                </a>
-              </div>
-            </li>
-          </ol>
-          <hr>
-        </div>
-			<div class="container" >
-        <div class="publicationType">
-          <h3 class="text-center" style="color:#6e2525">
-            <b>Patents</b>
-          </h3>
-          <ol>
-            <li v-for="journ in patents">
-              <div class="publicationItem">
-                {{journ.citation}}
-                <a v-if="journ.doi" v-bind:href="journ.doi">
-                  <button type="button" class="btn doi  btn-outline-primary">Link</button>
-                </a>
-              </div>
-            </li>
-          </ol>
-          <hr>
-        </div>
+
+      </div>
 		</section>
 		<footer class="footer-basic">
 			<p class="copyright">Control and Automation Group © 2022
@@ -195,60 +154,6 @@
     </script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js">
     </script>
-		<script charset="utf-8">
-			new Vue({
-			el: '#app',
-			data: {
-				journals: [],
-				conferences: [],
-				books: [],
-				patents: [],
-			},
-			created() {
-				axios
-					.get('/assets/data/publications.json')
-					.then(response => {
-						rawdata = response.data;
-            data = rawdata.sort(function(a,b){
-                          a = new Date(a.year);
-                          b = new Date(b.year);
-                          var results = a > b ? -1 : a
-                                        < b ? 1 : 0;
-                          return results;
-
-                        });
-
-            for(let i=0;i<data.length;i++){
-              let pubType = data[i].type;
-              if (data[i].doi){
-                if(!data[i].doi.includes("doi")){
-                  data[i].doi = "doi.org/"+data[i].doi;
-                }
-                if(!data[i].doi.includes("https:")){
-                  data[i].doi = "https://"+data[i].doi;
-                }
-              }
-              if(pubType.includes("jour") || pubType.includes("Jour")){
-                this.journals.push(data[i]);
-              }
-              if(pubType.includes("conf") || pubType.includes("Conf")){
-                this.conferences.push(data[i]);
-              }
-              if(pubType.includes("boo") || pubType.includes("Boo")){
-                this.books.push(data[i]);
-              }
-              if(pubType.includes("pat") || pubType.includes("Pat")){
-                this.patents.push(data[i]);
-              }
-            }
-					})
-					.catch((e) => {
-						console.error(e)
-
-					})
-			}
-		});
-		</script>
 	</body>
 
 </html>
