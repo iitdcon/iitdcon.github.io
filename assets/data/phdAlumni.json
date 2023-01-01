@@ -207,7 +207,7 @@
 		"supervisor":"Prof. Indra Narayan Kar and Prof. Kolin Paul (CSE, IIT Delhi)", 
 		"year":"2017", 
 		"current":"Assistant Professor, IIT Jodhpur, India", 
-		"website":"iitj.ac.in/department/facultyprofile.php?str=niladri@iitj.ac.in&dept=ee", 
+		"website":"http://home.iitj.ac.in/~niladri/", 
 		"avatar" : "assets/img/scholars/niladri.jpg"
 },
 
@@ -391,7 +391,7 @@
 		"thesis":" Design and Tuning of Fuzzy Logic Control Systems", 
 		"supervisor":"Prof. R.K.P Bhatt and Prof. Nesar Ahmad", 
 		"year":"1999", 
-		"current":"Department of Engineering, Shahid Chamran University of Ahvaz, Iran", 
+		"current":"Professor, Shahid Chamran University of Ahvaz, Iran", 
 		"website":"https://www.researchgate.net/profile/S-Mortazavi", 
 		"avatar" : "assets/img/scholars/ssm.jpg"
 },
@@ -427,7 +427,7 @@
 		"thesis":"Some new model reduction techniques for multivariable systems ", 
 		"supervisor":"Prof. S. S. Lamba", 
 		"year":"1985", 
-		"current":"Former Professor, Systems and Control Engineering, IIT Bombay", 
+		"current":"Visiting Professor, IIT Jodhpur", 
 		"website":"https://www.sc.iitb.ac.in/~bijnan/", 
 		"avatar" : "assets/img/scholars/bijnan.jpg"
 }	
