@@ -365,6 +365,15 @@
 		"website":"http://www.mnnit.ac.in/profile/shubhi", 
 		"avatar" : "assets/img/scholars/sbp.jpg"
 },
+{
+	"name":"Dr. Rajen Balavantbhai Bhatt", 
+		"thesis":"Fuzzy-rough approach to pattern classification:hybrid algorithms and optimization", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"2005", 
+		"current":"Director of Engineering, HP Inc., USA", 
+		"website":"https://www.linkedin.com/in/dr-rajen-bhatt-03a8636b/", 
+		"avatar" : "assets/img/scholars/rajenbhatt.jpg"
+},
 
 {
 	"name":"Dr. A. Ramakalyan", 
