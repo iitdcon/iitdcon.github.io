@@ -337,7 +337,14 @@
 		"website":"https://technology.nirmauni.ac.in/author/dipak/", 
 		"avatar" : "assets/img/scholars/dpk.jpg"
 },
-
+{
+	"name":"Dr. Arun Kumar M N", 
+		"thesis":"Fast and knowledge based SVM algorithms with applications", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"2009", 
+		"current":"Professor, Federal Institute of Science & Technology, Kerela, India", 
+		"avatar" : "assets/img/scholars/gopinath_s.jpg"
+},
 {
 	"name":"Dr. Gopinath Selvaraj", 
 		"thesis":"Iterative Learning Control of Nonlinear Systems", 
@@ -350,7 +357,7 @@
 {
 	"name":"Prof. Rajneesh Sharma", 
 		"thesis":"Markov game based hybrid controllers for nonlinear systems", 
-		"supervisor":"Prof. M Gopal", 
+		"supervisor":"Prof. M. Gopal", 
 		"year":"2007", 
 		"current":"Professor, NSUT, Delhi, India", 
 		"website":"http://www.nsit.ac.in/faculty/rjns/", 
