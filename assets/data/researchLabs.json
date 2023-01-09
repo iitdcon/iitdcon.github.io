@@ -1,7 +1,10 @@
 [
    {
     "name": "Advanced Systems Lab",
-    "avatar": "/assets/img/labimg/06.jpg",
+    "avatar": [
+       "/assets/img/labimg/06.jpg",
+       "/assets/img/labimg/06.jpg"
+     ],
     "room": "Block 2, 209",
     "incharge":"Prof. Deepak Patil",
     "contact":"",
