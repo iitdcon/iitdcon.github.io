@@ -412,6 +412,15 @@
 		"avatar" : "assets/img/scholars/ssm.jpg"
 },
 {
+	"name":"Prof. Laxmidhar Behera", 
+		"thesis":"Neural Controllers For Robot Manipulators", 
+		"supervisor":"Prof. M. Gopal", 
+		"year":"1996", 
+		"current":"Director, IIT Mandi & Professor, IIT Kanpur", 
+		"website":"https://iitmandi.ac.in/institute/director.php", 
+		"avatar" : "assets/img/scholars/ldbehera.jpg"
+},
+{
 	"name":"Prof. Akhilesh Swarup", 
 		"thesis":"Linear Control Strategies for Robot Tracking Applications", 
 		"supervisor":"Prof. M. Gopal", 
@@ -420,15 +429,7 @@
 		"website":"https://nitkkr.ac.in/?author=150", 
 		"avatar" : "assets/img/scholars/aswarup.jpg"
 },	
-{
-	"name":"Prof. Laxmidhar Behera", 
-		"thesis":" ", 
-		"supervisor":"Prof. M. Gopal and Prof. S. Chaudhury", 
-		"year":"1997", 
-		"current":"Director, IIT Mandi", 
-		"website":"https://iitmandi.ac.in/institute/director.php", 
-		"avatar" : "assets/img/scholars/ldbehera.jpg"
-},
+
 {
 	"name":"Prof. Nesar Ahmed", 
 		"thesis":"Real-time Intelligent Distributed Control Systems", 
