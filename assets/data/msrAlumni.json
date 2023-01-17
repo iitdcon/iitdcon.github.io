@@ -1,5 +1,13 @@
 [
   {
+    "name": "Mr. Sumanta Ghosh",
+    "thesis": "Gaussian Processes for Online Learing Based MOdel Predective Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "year": "2022",
+    "current": "Researcher, TCS Research, India",
+    "avatar": "assets/img/scholars/default.jpeg"
+  },
+  {
     "name": "Mr. Sourodip Chowdhury",
     "thesis": "Ground Contact Sensors Calibration for an IoT Enabled Soil Moisture Measurement Platform",
     "supervisor": "Prof. Shaunak Sen and Prof. S. Janardhanan",
