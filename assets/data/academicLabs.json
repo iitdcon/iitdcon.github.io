@@ -1,7 +1,7 @@
 [
   {
     "name": "Analog Control Lab",
-    "avatar": "/assets/img/labimg/06.jpg",
+    "avatar": "/assets/img/labimg/Digitallab.jpg",
     "room": "TODO",
     "incharge":"TODO",
     "contact":"TODO",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Digital Control Lab",
-    "avatar": "/assets/img/labimg/03.jpg",
+    "avatar": "/assets/img/labimg/Analoglab.jpg",
     "room": "TODO"
   }
 ]
