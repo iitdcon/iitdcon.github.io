@@ -18,15 +18,6 @@
     "avatar": "assets/img/scholars/keerthi.jpg"
   },
   {
-    "name": "Ms. Rajasree Sarkar",
-    "area": "Optimal Control of Resource-Constrained System",
-    "supervisor": "Prof. Deepak Patil and Prof. Indra Narayan Kar",
-    "joining": "January, 2017",
-    "room": "Block 2, 214",
-    "email": "eez168485 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/rajasree.jpg"
-  },
-  {
     "name": "Mr. Sujeet Kumar",
     "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
     "supervisor": "Prof. Indra Narayan Kar",
@@ -34,16 +25,6 @@
     "room": "Block 2, 209",
     "email": "eez168486 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/sujeet1.jpg"
-  },
-  {
-    "name": "Mr. Midhun T Augustine",
-    "area": "Switched Systems and Optimal Control",
-    "supervisor": "Prof. Deepak Patil",
-    "joining": "July, 2017",
-    "room": "Block 2, 214",
-    "email": "eez178175 [at] ee.iitd.ac.in",
-    "website": "https://sites.google.com/view/midhuntaugustine",
-    "avatar": "assets/img/scholars/midhun.jpg"
   },
   {
     "name": "Mr. Apurba Das",
