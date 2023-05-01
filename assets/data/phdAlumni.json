@@ -1,5 +1,23 @@
 [
 {
+	"name":"Dr. Midhun T Augustine", 
+		"thesis":"On Model Predictive Control of Switched Linear & Switched Affine systems", 
+		"supervisor":"Prof. Deepak Patil", 
+		"year":"2023", 
+		"current":"Research Associate, IIT Bombay", 
+		"website": "https://sites.google.com/view/midhuntaugustine",
+		"avatar" : "assets/img/scholars/midhun.jpg"
+},
+{
+	"name":"Dr. Rajasree Sarkar", 
+		"thesis":"Optimal Control of Resource-Constrained System", 
+		"supervisor":"Prof. Deepak Patil and Prof. Indra Narayan Kar", 
+		"year":"2023", 
+		"current":" ", 
+		"avatar" : "assets/img/scholars/rajasree.jpg"
+},
+
+{
 	"name" : "Dr. Ananya Roy",
 		"thesis" : "Modeling and Design of MEMS Devices", 
 		"supervisor" : "Prof. M. Nabi", 
