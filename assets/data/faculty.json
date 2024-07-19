@@ -2,7 +2,7 @@
   {
     "name": "Indra Narayan Kar",
     "avatar": "/assets/img/faculty/ink.jpg",
-    "position": "Professor and Head of the Department",
+    "position": "Professor",
     "education": "Ph.D. and M.Tech. IIT Kanpur, B.E. Bengal Engineering College",
     "research": [
       "Robotics",
@@ -82,7 +82,7 @@
   {
     "name": "Subashish Datta",
     "avatar": "/assets/img/faculty/sdatta.jpg",
-    "position": "Assistant Professor",
+    "position": "Associate Professor",
     "education": "Ph.D. IIT Bombay, B.Tech. Utkal University, Odisha.",
     "research": [
       "Linear Control Theory",
@@ -94,5 +94,21 @@
     "room": "Room No. 246, Block 2",
     "email": "subashish[at]ee.iitd.ac.in",
     "homepage": "https://web.iitd.ac.in/~subashish/"
+  },
+  {
+    "name": "Priyank Srivastava",
+    "avatar": "/assets/img/faculty/priyank.jpg",
+    "position": "Assistant Professor",
+    "education": "Ph.D. University of California San Diego, M.Tech. IIT Delhi, B.Tech. NIT Kurukshetra",
+    "research": [
+    "Dynamical systems and control",
+    "Constrained network optimization",
+    "Distributed algorithms",
+    "Coordination of distributed energy resources",
+    "Resilience of cyberphysical systems"
+    ],
+    "room": "Room No. 3B-8, Block 3",
+    "email": "psrivast[at]ee.iitd.ac.in",
+    "homepage": "http://web.iitd.ac.in/~psrivast/"
   }
 ]
