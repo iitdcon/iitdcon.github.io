@@ -9,15 +9,6 @@
     "avatar": "assets/img/scholars/phd_eswar.jpg"
   },
   {
-    "name": "Mr. Keerthi Chacko",
-    "area": "Nonlinear Model Predictive Control",
-    "supervisor": "Prof. S. Janardhanan and Prof. Indra Narayan Kar",
-    "joining": "January, 2017",
-    "room": "Block 2, 209",
-    "email": "keerthi.chacko [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/keerthi.jpg"
-  },
-  {
     "name": "Mr. Sujeet Kumar",
     "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
     "supervisor": "Prof. Indra Narayan Kar",
@@ -135,6 +126,7 @@
     "joining": "September, 2020",
     "room": "Block 3, 337",
     "email": "anchita.dey [at] ee.iitd.ac.in",
+    "website":"https://sites.google.com/view/anchitadey/home",
     "avatar": "assets/img/scholars/anchita_dey.jpg"
   },
   {
@@ -190,7 +182,7 @@
     "joining": "September, 2020",
     "room": "Block 3, 337",
     "email": "poulomee.ghosh [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/poulomee.jpg"
+    "avatar": "assets/img/scholars/poulomee_new.jpg"
   },
   {
     "name": "Mr. Puneet Panchal",

@@ -8,6 +8,13 @@
 		"website": "https://sites.google.com/view/midhuntaugustine",
 		"avatar" : "assets/img/scholars/midhun.jpg"
 },
+  {
+    "name": "Dr. Keerthi Chacko",
+    "area": "Nonlinear Model Predictive Control",
+    "supervisor": "Prof. S. Janardhanan and Prof. Indra Narayan Kar",
+    "year": "2023",
+    "avatar": "assets/img/scholars/keerthi.jpg"
+  },
 {
 	"name":"Dr. Rajasree Sarkar", 
 		"thesis":"On Time-L1 Optimal Control of Linear Systems", 
@@ -16,7 +23,6 @@
 		"current":" ", 
 		"avatar" : "assets/img/scholars/rajasree.jpg"
 },
-
 {
 	"name" : "Dr. Ananya Roy",
 		"thesis" : "Modeling and Design of MEMS Devices", 
