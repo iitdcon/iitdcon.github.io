@@ -256,5 +256,14 @@
     "room": "Block 2, 214",
     "email": "eez228208 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/riddhi.jpeg"
+  },
+  {
+    "name": "Mr. Suman Singha Roy",
+    "area": "Resilient Feedback Control for Network Dynamical Systems",
+    "supervisor": "Prof. Subashish Datta",
+    "joining": "July, 2023",
+    "room": "Block 2, 339B",
+    "email": "sumansingharoy1998 [at] gmail [dot] com",
+    "avatar": "assets/img/scholars/sumansingharoy.jpg"
   }
 ]
