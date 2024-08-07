@@ -274,6 +274,29 @@
             </div>
         </div>
     </section>
+    <section class="projects-horizontal" style="background: #e0e1e1;" id="app2">
+        <div class="container" style="display:flex;flex-direction:column;align-items:center">
+            <div class="intro">
+              <h2 class="text-center">News and Announcements
+              </h2>
+              <p class="text-center">The Control and Automation Group of IIT Delhi consists of the following members -&nbsp;
+              </p>
+            </div>
+            <div class="news-container">
+                <ul>
+                    <li class="news-item">News item 1: Lorem ipsum dolor sit amet.</li>
+                    <li class="news-item">News item 2: Consectetur adipiscing elit.</li>
+                    <li class="news-item">News item 3: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                    <li class="news-item">News item 4: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</li>
+                    <li class="news-item">News item 5: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</li>
+                    <!-- Add more news items as needed -->
+                </ul>
+            </div>
+            {{sortedNews}}
+
+
+        </div>
+    </section>
     <footer class="footer-basic">
       <p class="copyright">Control and Automation Group © 2024
       </p>
@@ -287,6 +310,34 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js">
     </script>
     <script src="assets/js/theme.js">
+    </script>
+    <script charset="utf-8">
+        new Vue({
+        el: '#app2',
+        data: {
+          news:null,
+          sortedNews:null,
+        },
+        created() {
+            axios
+                .get('/assets/data/news.json')
+                .then(response => {
+                    this.news = response.data;
+                  console.log(this.news);
+                    this.sortedNews = this.news.sort(function(a,b){
+                      a = new Date(a.date);
+                      b = new Date(b.date);
+                      var results = a > b ? -1 : a
+                                    < b ? 1 : 0;
+                      return results;
+                    });
+                })
+                .catch((e) => {
+                    console.error(e)
+
+                })
+        }
+    });
     </script>
     <script charset="utf-8">
         new Vue({

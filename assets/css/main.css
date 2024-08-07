@@ -50,3 +50,31 @@ button.doi{
   margin-top: 5px;
 
 }
+        /* Container styles */
+        .news-container {
+            width: 500px; /* Adjust width as needed */
+            height: 200px; /* Fixed height for the scroll */
+            overflow: hidden; /* Hide overflowing content */
+            /* border: 1px solid #ccc; */
+            /* border-radius: 5px; */
+            /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+        }
+
+        /* Scroll animation */
+        .news-container ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            animation: scroll 20s linear infinite; /* Adjust animation duration as needed */
+        }
+
+        @keyframes scroll {
+            0% { transform: translateY(100%); }
+            100% { transform: translateY(-100%); }
+        }
+
+        /* Individual news item styles */
+        .news-item {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }

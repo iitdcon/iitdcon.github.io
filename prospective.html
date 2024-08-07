@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-		<title>Research Labs | Control and Automation Group
+		<title>Contact Us | Control and Automation Group
     </title>
 		<meta name="twitter:description" content="">
 		<meta name="twitter:title" content="Control and Automation Group | IIT Delhi">
@@ -109,69 +109,10 @@
 			</div>
 		</nav>
 		<section class="portfolio-block cv" id="app">
-			<div class="container" style="padding-right: 10px;">
-				<div class="intro" style="padding: 5px;">
-					<h2 class="text-center" style="margin: 11;">Research Laboratories</h2>
-					<hr style="margin: 16px 0px;">
-				</div>
-				<div class="work-experience group">
-					<div class="item" v-for="fac in faculty" :key="fac.name">
-						<div class="row">
-							<div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
-								<img
-									v-if="fac.avatar" v-bind:src="fac.avatar" width="300" height="250">
-								<div
-									v-else style="width:250px;height:250px"></div>
-							</div>
-							<div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
-                <h3 style="color:#6e2525;">{{fac.name}}
-                </h3>
-								<h5>{{fac.position}}
-                </h5>
-								<hr>
-                <div v-if="fac.description">
-                  <h6>
-                    <strong> About
-                    </strong> -&nbsp;
-                    <br>
-                  </h6>
-                  <h6 style="text-align:justify">{{fac.description}}
-                  </h6>
-                </div>
-								<h6>
-                  <strong> Faculty Incharge
-                  </strong> -&nbsp;
-                  <br>
-                </h6>
-								<h6>{{fac.incharge}}
-                </h6>
-								<h6>
-                  <strong>Primary Research Areas -&nbsp;
-                  </strong>
-                  <br>
-                </h6>
-								<div class="flex-row justify-content-lg-start align-items-lg-start">
-									<h4 class="organization" v-for="item in
-											       fac.research" :key="item">{{item}}
-                  </h4>
-								</div>
-								<h6>
-                  <strong>Location -&nbsp;
-                  </strong>
-                  <br>
-                </h6>
-								<div class="d-flex">
-                  <i class="fa fa-location-arrow" style="padding: 2px;padding-right: 36px;padding-left: 30px;">
-                  </i>
-									<h6>{{fac.room}}
-                  </h6>
-								</div>
-							</div>
-						</div>
-					</div>
+      <div class="container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d642.3788711591453!2d77.19175021732815!3d28.54548654429087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1df688fbe8a7%3A0xf28c5555acd81bbf!2sBlock%20II%2C%20IIT%20Delhi%20Main%20Rd%2C%20Indian%20Institute%20of%20Technology%20Delhi%2C%20Hauz%20Khas%2C%20New%20Delhi%2C%20Delhi%20110016!5e0!3m2!1sen!2sin!4v1722410709812!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
 
-				</div>
-			</div>
 		</section>
 		<footer class="footer-basic">
 			<p class="copyright">Control and Automation Group © 2024
@@ -187,26 +128,6 @@
     </script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js">
     </script>
-		<script charset="utf-8">
-			new Vue({
-			el: '#app',
-			data: {
-				faculty: null,
-				pastFac: null,
-			},
-			created() {
-				axios
-					.get('/assets/data/researchLabs.json')
-					.then(response => {
-						this.faculty = response.data;
-					})
-					.catch((e) => {
-						console.error(e)
-
-					})
-			}
-		});
-		</script>
 	</body>
 
 </html>
