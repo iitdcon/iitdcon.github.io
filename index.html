@@ -130,28 +130,28 @@
                         <img class="w-100 d-block" src="assets/img/labimg/IMG_2955.JPG" alt="Slide Image">
                       </div>
                     </div>
-                    <div>
-                      <a class="carousel-control-prev" href="#carousel-1" role="button" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon">
-                        </span>
-                        <span class="visually-hidden">Previous
-                        </span>
-                      </a>
-                      <a class="carousel-control-next" href="#carousel-1" role="button" data-bs-slide="next">
-                        <span class="carousel-control-next-icon">
-                        </span>
-                        <span class="visually-hidden">Next
-                        </span>
-                      </a>
-                    </div>
-                    <ol class="carousel-indicators">
-                      <li data-bs-target="#carousel-1" data-bs-slide-to="0" class="active">
-                      </li>
-                      <li data-bs-target="#carousel-1" data-bs-slide-to="1">
-                      </li>
-                      <li data-bs-target="#carousel-1" data-bs-slide-to="2">
-                      </li>
-                    </ol>
+                    <!-- <div>
+                         <a class="carousel-control-prev" href="#carousel-1" role="button" data-bs-slide="prev">
+                         <span class="carousel-control-prev-icon">
+                         </span>
+                         <span class="visually-hidden">Previous
+                         </span>
+                         </a>
+                         <a class="carousel-control-next" href="#carousel-1" role="button" data-bs-slide="next">
+                         <span class="carousel-control-next-icon">
+                         </span>
+                         <span class="visually-hidden">Next
+                         </span>
+                         </a>
+                         </div> -->
+                    <!-- <ol class="carousel-indicators">
+                         <li data-bs-target="#carousel-1" data-bs-slide-to="0" class="active">
+                         </li>
+                         <li data-bs-target="#carousel-1" data-bs-slide-to="1">
+                         </li>
+                         <li data-bs-target="#carousel-1" data-bs-slide-to="2">
+                         </li>
+                         </ol> -->
                 </div>
             </div>
         </div>
@@ -279,20 +279,33 @@
             <div class="intro">
               <h2 class="text-center">News and Announcements
               </h2>
-              <p class="text-center">The Control and Automation Group of IIT Delhi consists of the following members -&nbsp;
-              </p>
+              <!-- <p class="text-center">Here are a few of the recent </p> -->
             </div>
-            <div class="news-container">
-                <ul>
-                    <li class="news-item">News item 1: Lorem ipsum dolor sit amet.</li>
-                    <li class="news-item">News item 2: Consectetur adipiscing elit.</li>
-                    <li class="news-item">News item 3: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-                    <li class="news-item">News item 4: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</li>
-                    <li class="news-item">News item 5: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</li>
-                    <!-- Add more news items as needed -->
+            <div class="news-container" style="margin-bottom:5em;display:flex; flex-direction:column;align-items:center">
+              <div class="news-box">
+                <ul v-for="info in sortedNews" :key="info.headline">
+                    <li class="news-item">
+                      <div class="newsdate">
+                <i class="fa fa-calendar icon" style="color: var(--bs-red);">
+                </i>
+                <strong>{{info.date}}</strong>
+                      </div>
+                      <h5 style="color: var(--bs-red);">{{info.headline}}</h5>
+                      <div v-if="info.description" style="text-align:center;">{{info.description}}</div>
+                    </li>
                 </ul>
+              </div>
             </div>
-            {{sortedNews}}
+
+
+        </div>
+    </section>
+    <section class="projects-horizontal" style="background: var(--bs-gray-200);" >
+        <div class="container" style="display:flex;flex-direction:column;align-items:center">
+            <div class="intro">
+              <h2 class="text-center">For Prospective Students</h2>
+              <!-- <p class="text-center">Here are a few of the recent </p> -->
+            </div>
 
 
         </div>

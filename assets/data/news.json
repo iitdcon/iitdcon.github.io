@@ -1,24 +1,18 @@
 [
     {
-        "date":"Apr 30 2014",
-        "headline":"Test ",
-        "description":""
-    },
-    {
-        "date":"Apr 30 1990",
-        "headline":"Very Old news",
-        "description":""
+        "date":"Jul 31 2024",
+        "headline":"Invited Talk by Prof. Jingang Yi",
+        "description":"Research activities at Rutgers University RAM Laboratory"
     },
     {
         "date":"Jul 25 2024",
         "headline":"Ph.D. defense of Mr. Chinmmula Kishore Reddy",
-        "description":"The title of the talk is"
+      "description":"The title of the thesis is 'Vision-based control for robotic systems: constraint satisfaction and related problems'"
 
     },
     {
         "date":"July 30 2024",
         "headline":"Ph.D. defense of Mr. Atul Katiyar",
         "description":""
-
     }
 ]
