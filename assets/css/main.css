@@ -134,3 +134,31 @@ button.doi{
         .img-container:hover figcaption {
             opacity: 1;
         }
+
+  .dark-background {
+    color: white;
+    position: relative;
+    width: 100%;
+    height: 200px; /* Adjust height as needed */
+    background: url('/assets/img/hero.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.dark-background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95); /* Adjust opacity for desired darkness */
+    pointer-events: none; /* Allows clicks through the overlay */
+}
+
+.dark-background p {
+    position: relative;
+    color: white;
+    text-align: center;
+    line-height: 500px; /* Match this with the div height for vertical centering */
+    font-size: 24px;
+}

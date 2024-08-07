@@ -110,6 +110,10 @@
 		</nav>
 		<section class="portfolio-block cv" id="app">
       <div class="container">
+            <div class="intro">
+              <h2 class="text-center">Image Gallery</h2>
+              <!-- <p class="text-center">Here are a few of the recent </p> -->
+            </div>
         <div class="gallery">
           <figure v-for="i in imgs" :key="i.src">
             <div class="img-container">
@@ -125,10 +129,18 @@
       </div>
 
 		</section>
-		<footer class="footer-basic">
-			<p class="copyright">Control and Automation Group © 2024
-      </p>
-		</footer>
+
+<footer class="footer dark-background">
+  <div class="container">
+   <div class="row">
+     <div >
+       <i class="fa fa-linkedin icon" style="color: var(--bs-white);" ></i>
+     </div>
+     <p>Hello</p>
+   </div>
+  </div>
+ </footer>
+
 		<script src="assets/bootstrap/js/bootstrap.min.js">
     </script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.6.1/pikaday.min.js">
