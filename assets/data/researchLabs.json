@@ -34,7 +34,10 @@
     "incharge":"Prof. Shubhendu Bhasin",
     "research":[
         "Safe Reinforcement Learning",
-        "Safe Adaptive Control"
+        "Safe Adaptive Control",
+        "Model Predictive Control",
+        "Switched Adaptive control",
+        "Swarm optimization"
     ]
   }
 ]

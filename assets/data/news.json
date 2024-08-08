@@ -1,10 +1,5 @@
 [
     {
-        "date":"Jul 31 1990",
-        "headline":"Very Old News",
-        "description":"This should be in the archive not in index"
-    },
-    {
         "date":"Jul 31 2024",
         "headline":"Invited Talk by Prof. Jingang Yi",
         "description":"Research activities at Rutgers University RAM Laboratory"

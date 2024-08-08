@@ -1,4 +1,4 @@
-.carousel slide{
+.carousel .slide{
     max-height: 500px;
     overflow: hidden;
 }
@@ -202,7 +202,7 @@ button.doi{
             transition: all 0.3s ease;
         }
         .sm-icons a:hover {
-            background-color: #333;
+            background-color: var(--bs-red);
             color: white;
         }
 
@@ -227,7 +227,7 @@ button.doi{
             /* margin-bottom: 5px; */
 }
 .sitemap a:hover {
-            color: red;
+            color: var(--bs-red);
             text-decoration: none;
             /* margin-bottom: 5px; */
 }
@@ -258,4 +258,9 @@ button.doi{
 
 .organization{
     margin:3px;
+}
+
+.address-icon{
+    margin-top:10px;
+    margin-right: 10px;
 }
