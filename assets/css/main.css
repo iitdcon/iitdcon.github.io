@@ -56,15 +56,15 @@ button.doi{
   margin-top: 5px;
 
 }
-        /* Container styles */
-        .news-container {
-            width: 600px; /* Adjust width as needed */
-            height: 200px; /* Fixed height for the scroll */
-            overflow: hidden; /* Hide overflowing content */
-            /* border: 1px solid #ccc; */
-            /* border-radius: 5px; */
-            /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
-        }
+/* Container styles */
+.news-container {
+    max-width: 600px; /* Adjust width as needed */
+    height: 200px; /* Fixed height for the scroll */
+    overflow: hidden; /* Hide overflowing content */
+    /* border: 1px solid #ccc; */
+    /* border-radius: 5px; */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
 
         /* Scroll animation */
         .news-container ul {
