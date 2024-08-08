@@ -255,3 +255,7 @@ button.doi{
 /*     line-height: 500px; /\* Match this with the div height for vertical centering *\/ */
 /*     font-size: 24px; */
 /* } */
+
+.organization{
+    margin:3px;
+}

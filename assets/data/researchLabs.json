@@ -3,9 +3,7 @@
     "name": "Advanced Systems Lab",
     "avatar": "/assets/img/labimg/IMG_2959.JPG",
     "room": "Block 2, 209",
-    "incharge":"Prof. Indra Narayan Kar",
-    "contact":"",
-    "description": "This is the description for the control lab "
+    "incharge":"Prof. Indra Narayan Kar"
   },
    
   {
@@ -13,16 +11,19 @@
     "avatar": "/assets/img/labimg/IMG_2948.JPG",
     "room": "Block 2, 339B",
     "incharge":"Prof. S Janardhanan",
-    "contact":""
+    "research":[
+        "Data-driven control",
+        "Distributed parameter system",
+        "Traffic Control",
+        "Cyber-resilient control"
+    ]
   },
    
   {
      "name": "Dynamics & Control of Biomolecular Systems (DyCobs) Lab",
-    "avatar": "/assets/img/labimg/06.jpg",
+    "avatar": "/assets/img/labimg/IMG_2944.JPG",
     "room": "Block 2, 242",
-    "incharge":"Prof. Shaunak Sen",
-    "contact":"",
-    "description": "This is the description for the control lab "
+    "incharge":"Prof. Shaunak Sen"
   },
    
   {
@@ -30,8 +31,6 @@
     "avatar": "/assets/img/labimg/IMG_2950.JPG",
     "room": "Block 3, 337",
     "incharge":"Prof. Shubhendu Bhasin",
-    "contact":"",
-    "description": "",
     "research":[
         "Safe Reinforcement Learning",
         "Safe Adaptive Control"
