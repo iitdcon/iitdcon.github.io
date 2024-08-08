@@ -1,3 +1,7 @@
+.carousel slide{
+    max-height: 500px;
+    overflow: hidden;
+}
 .mainUpperLink {
   color: inherit;
   text-decoration: inherit;

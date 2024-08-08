@@ -217,8 +217,34 @@
         </div>
       </div>
     </section>
+    <section class="projects-horizontal" style="background: var(--bs-gray-200);" id="app2">
+      <div class="container" style="display:flex;flex-direction:column;align-items:center">
+        <div class="intro projects">
+          <h2 class="text-center">News and Announcements
+          </h2>
+          <!-- <p class="text-center">Here are a few of the recent </p> -->
+        </div>
+        <div class="news-container" style="margin-bottom:5em;display:flex; flex-direction:column;align-items:center">
+          <div class="news-box">
+            <ul v-for="info in sortedNews" :key="info.headline">
+              <li class="news-item">
+                <div class="newsdate">
+                  <i class="fa fa-calendar icon" style="color: var(--bs-red);">
+                  </i>
+                  <strong>{{info.date}}</strong>
+                </div>
+                <h5 style="color: var(--bs-red);">{{info.headline}}</h5>
+                <div v-if="info.description" style="text-align:center;">{{info.description}}</div>
+              </li>
+            </ul>
+          </div>
+        </div>
 
-    <section class="projects-horizontal" style="background: var(--bs-gray-200);" id="app">
+
+      </div>
+    </section>
+
+    <section class="projects-horizontal"  id="app">
       <div class="container">
         <div class="intro">
           <h2 class="text-center">People
@@ -318,32 +344,6 @@
             </div>
           </div>
         </div>
-      </div>
-    </section>
-    <section class="projects-horizontal" id="app2">
-      <div class="container" style="display:flex;flex-direction:column;align-items:center">
-        <div class="intro projects">
-          <h2 class="text-center">News and Announcements
-          </h2>
-          <!-- <p class="text-center">Here are a few of the recent </p> -->
-        </div>
-        <div class="news-container" style="margin-bottom:5em;display:flex; flex-direction:column;align-items:center">
-          <div class="news-box">
-            <ul v-for="info in sortedNews" :key="info.headline">
-              <li class="news-item">
-                <div class="newsdate">
-                  <i class="fa fa-calendar icon" style="color: var(--bs-red);">
-                  </i>
-                  <strong>{{info.date}}</strong>
-                </div>
-                <h5 style="color: var(--bs-red);">{{info.headline}}</h5>
-                <div v-if="info.description" style="text-align:center;">{{info.description}}</div>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-
       </div>
     </section>
     <section class="projects-horizontal" style="background: var(--bs-gray-200);" >
