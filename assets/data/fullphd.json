@@ -185,15 +185,6 @@
     "avatar": "assets/img/scholars/poulomee_new.jpg"
   },
   {
-    "name": "Mr. Puneet Panchal",
-    "area": "Development of advanced model-based control tools for peer-to-peer trading management in low voltage distribution networks",
-    "supervisor": "Prof. Subashish Datta, Prof. Rahul Sharma (UQ, Australia) and Wayes Tushar (UQ, Australia)",
-    "joining": "September, 2020",
-    "room": "Block 2, 339B",
-    "email": "qiz208583 [at] uqidar.iitd.ac.in",
-    "avatar": "assets/img/scholars/puneet.jpeg"
-  },
-  {
     "name": "Mr. Soutrik Bandyopadhyay",
     "area": "Safe Reinforcement Learning-based Control",
     "supervisor": "Prof. Shubhendu Bhasin",
@@ -237,7 +228,8 @@
     "joining": "August, 2021",
     "room": "Block 2, 339B",
     "email": "rudra.sen [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/rudra_s.jpg"
+    "avatar": "assets/img/scholars/rudra_s.jpg",
+    "website": "https://sites.google.com/view/rudrasen/home"
   },
   {
     "name": "Mr. Sidhanta Mohanty",
@@ -246,7 +238,8 @@
     "joining": "August, 2021",
     "room": "Block 2, 339B",
     "email": "sidhanta.mohanty [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/sidhanta.jpg"
+    "avatar": "assets/img/scholars/sidhanta.jpg",
+    "website": "https://sites.google.com/view/sidhantamohanty/home"
   },
   {
     "name": "Mr. Riddhi Mohan Bora",
