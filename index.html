@@ -216,7 +216,7 @@
         </div>
         <div class="news-container" style="margin-bottom:5em;display:flex; flex-direction:column;align-items:center">
           <div class="news-box">
-            <ul v-for="info in sortedNews" :key="info.headline">
+            <ul v-for="info in recentNews" :key="info.headline">
               <li class="news-item">
                 <div class="newsdate">
                   <i class="fa fa-calendar icon" style="color: var(--bs-red);">
@@ -400,6 +400,7 @@
        data: {
          news:null,
          sortedNews:null,
+         recentNews:null,
        },
        created() {
          axios
@@ -413,6 +414,16 @@
                < b ? 1 : 0;
                return results;
              });
+             this.recentNews = this.sortedNews.filter(
+               function(a){
+                 date1 = new Date();
+                 date2 = new Date(a.date);
+                 const diffTime = Math.abs(date2 - date1);
+                 const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+                 return diffDays<=365
+               }
+             )
            })
            .catch((e) => {
              console.error(e)

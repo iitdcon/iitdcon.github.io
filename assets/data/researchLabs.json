@@ -14,7 +14,8 @@
     "research":[
         "Data-driven control",
         "Distributed parameter system",
-        "Traffic Control",
+        "Traffic control",
+        "Sliding mode control",
         "Cyber-resilient control"
     ]
   },

@@ -8,22 +8,6 @@
     "avatar": "assets/img/scholars/samarth.jpg"
   },
   {
-    "name": " Mr. Chetan Sharma",
-    "area": " Linear System Identification of Autonomous Nonlinear Control Affine Systems using Koopman Operator",
-    "supervisor": " Prof. Indra Narayan Kar",
-    "joining": " January, 2021",
-    "email": " eey207614@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/chetan.jpg"
-  },
-  {
-    "name": " Mr. Sayar Das",
-    "area": " Data driven methods for disturbance decoupling",
-    "supervisor": " Prof. Deepak Patil",
-    "joining": " January, 2021",
-    "email": " eey207622@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/sayar.jpg"
-  },
-  {
     "name": " Mr. Sunil Kumar",
     "area": " Trajectory Tracking of Robotic Manipulators",
     "supervisor": "Prof. S. Janardhanan and Prof. Shubhendu Bhasin",
