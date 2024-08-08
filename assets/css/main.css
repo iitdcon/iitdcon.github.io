@@ -180,7 +180,7 @@ button.doi{
     display: flex;
     justify-content: space-evenly;
 }
-.footer-content .row div{
+.footer-content .row>div{
     margin-top: 20px;
 }
 .sm-icons a {
@@ -201,6 +201,48 @@ button.doi{
             background-color: #333;
             color: white;
         }
+
+.sitemap{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    max-width: 600px;
+    /* margin: 0 auto; */
+}
+.sitemap-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sitemap-container>strong{
+    margin-bottom: 20px;
+}
+.sitemap a {
+            color: white;
+            text-decoration: none;
+            /* margin-bottom: 5px; */
+}
+.sitemap a:hover {
+            color: red;
+            text-decoration: none;
+            /* margin-bottom: 5px; */
+}
+
+@media (max-width: 576px) {
+.sitemap{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* gap: 5px; */
+    max-width: 600px;
+    /* margin: 0 auto; */
+}
+.sitemap>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
 
 /* .dark-background p { */
 /*     position: relative; */
