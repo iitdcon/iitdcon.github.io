@@ -1,9 +1,11 @@
 [
   {
     "name": "Dr. Krishanu Nath",
-    "area": "",
+    "area": "Event-triggered control, Sliding mode control, Neural Network-based controller design, Adaptive and Nonlinear control",
     "advisor": " Prof. Indra Narayan Kar and Prof. S. Janardhanan",
     "joining": "2023",
-    "avatar": "assets/img/scholars/default.jpg"
+    "avatar": "assets/img/scholars/krishanuNath.jpg",
+    "website": "https://sites.google.com/view/cs-krishanu-nath/home",
+    "email": "nathkrishanu@iitd.ac.in"
   }
 ]
