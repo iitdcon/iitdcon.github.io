@@ -258,6 +258,11 @@ button.doi{
 
 .organization{
     margin:3px;
+    background-color: #df3d3d !important;
+}
+
+.work-experience a{
+   color: #df3d3d !important;
 }
 
 .address-icon{
