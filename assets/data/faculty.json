@@ -25,7 +25,10 @@
     "research": [
       "Discrete-time Systems",
       "Sliding mode control",
-      "Robust Control"
+      "Robust Control",
+      "Multi-rate sampling",
+      "Robotics",
+        "Model-free control"
     ],
     "room": "Room No. 335, Block 2",
     "email": "janas[at]ee.iitd.ac.in",

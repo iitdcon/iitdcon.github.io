@@ -3,7 +3,13 @@
     "name": "Advanced Systems Lab",
     "avatar": "/assets/img/labimg/IMG_2959.JPG",
     "room": "Block 2, 209",
-    "incharge":"Prof. Indra Narayan Kar"
+    "incharge":"Prof. Indra Narayan Kar",
+    "research":[
+        "Optimal control theory",
+        "Incremental stability and contraction analysis",
+        "Human-robot interaction",
+        "Robust control"
+    ]
   },
    
   {
@@ -24,7 +30,13 @@
      "name": "Dynamics & Control of Biomolecular Systems (DyCobs) Lab",
     "avatar": "/assets/img/labimg/IMG_2944.JPG",
     "room": "Block 2, 242",
-    "incharge":"Prof. Shaunak Sen"
+    "incharge":"Prof. Shaunak Sen",
+    "research":[
+        "Biomolecular feedback systems",
+        "Design of Biomolecular Circuits",
+        "Systems and Synthetic biology",
+        "Control theory approach to modelling"
+    ]
   },
    
   {
