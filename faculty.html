@@ -165,27 +165,27 @@
 
 				</div>
 			</div>
-			<!-- <hr style="margin: 16px 0px;">
-			     <div class="container" style="padding-right: 10px;">
-				   <div class="intro" style="padding: 5px;">
-					 <h2 class="text-center" style="margin: 11;">Former Faculty
-           </h2>
-					 <hr style="margin: 16px 0px;">
-				   </div>
-				   <div class="work-experience group">
-					 <div class="row">
-					 <div class="col-md-4" style="padding:10px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center" v-for="fac in pastFac" :key="fac.name">
-					 <img v-if="fac.avatar" class="rounded-circle" v-bind:src="fac.avatar" width="200" height="200" >
-					 <img v-else class="rounded-circle" src="assets/img/scholars/default.jpg" width="200" height="200" >
-					 <h3 style="padding-top:20px">
-					 Prof. {{fac.name}}
-					 </h3>
-					 <div v-if="fac.current">
-					 {{fac.current}}
-					 </div>
-					 </div>
-					 </div>
-				   </div> -->
+			<hr style="margin: 16px 0px;">
+			<div class="container" style="padding-right: 10px;">
+				<div class="intro" style="padding: 5px;">
+					<h2 class="text-center" style="margin: 11;">Former Faculty
+          </h2>
+					<hr style="margin: 16px 0px;">
+				</div>
+				<div class="work-experience group">
+					<div class="row">
+					  <div class="col-md-4" style="padding:10px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center" v-for="fac in pastFac" :key="fac.name">
+					    <img v-if="fac.avatar" class="rounded-circle" v-bind:src="fac.avatar" width="200" height="200" >
+					    <img v-else class="rounded-circle" src="assets/img/scholars/default.jpg" width="200" height="200" >
+					    <h3 style="padding-top:20px">
+					      Prof. {{fac.name}}
+					    </h3>
+					    <div v-if="fac.current">
+					      {{fac.current}}
+					    </div>
+					  </div>
+					</div>
+				</div>
 
 				</div>
 			</div>
