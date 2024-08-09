@@ -153,7 +153,7 @@
     "supervisor": "Prof. Indra Narayan Kar",
     "joining": "September, 2020",
     "room": "Block 2, 209",
-    "email": " [at] ee.iitd.ac.in",
+    "email": "eez207528 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/chayan1.jpeg"
   },
   {
@@ -182,7 +182,8 @@
     "joining": "September, 2020",
     "room": "Block 3, 337",
     "email": "poulomee.ghosh [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/poulomee_new.jpg"
+    "avatar": "assets/img/scholars/poulomee_new.jpg",
+      "website": "https://poulomeeghosh.in"
   },
   {
     "name": "Mr. Soutrik Bandyopadhyay",
@@ -243,12 +244,13 @@
   },
   {
     "name": "Mr. Riddhi Mohan Bora",
-    "area": "Analysis of Nonlinear Dynamical System in Contraction Framework and its Application",
+    "area": "Analysis of Nonlinear Dynamical Systems in Higher-Order Contraction Framework with Application to Networked Systems",
     "supervisor": "Prof. Indra Narayan Kar",
     "joining": "July, 2022",
     "room": "Block 2, 214",
     "email": "eez228208 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/riddhi.jpeg"
+    "avatar": "assets/img/scholars/riddhi.jpeg",
+    "website":"https://www.linkedin.com/in/riddhi-mohan-bora-b87804129/"
   },
   {
     "name": "Mr. Suman Singha Roy",
