@@ -2,14 +2,11 @@
   {
     "name": "Digital Control Lab",
     "avatar": "/assets/img/labimg/Digitallab.jpg",
-    "room": "TODO",
-    "incharge":"TODO",
-    "contact":"TODO",
-    "description": "This is the description for the control lab "
+    "room": "Block II"
   },
   {
     "name": "Analog Control Lab",
     "avatar": "/assets/img/labimg/Analoglab.jpg",
-    "room": "TODO"
+    "room": "Block II"
   }
 ]
