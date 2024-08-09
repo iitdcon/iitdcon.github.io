@@ -1,64 +1,65 @@
-[{
-    "name": " Mr. Ashwin K M",
-    "joining": "July 2022 ",
-    "email": " eea222010@ee.iitd.ac.in",
-    "website": "https://www.linkedin.com/in/ashwin-kunnath-muraleedharan-4b2ba2162/",
-    "avatar": "assets/img/scholars/aswin.jpeg"
-  },
-  {
-    "name": " Mr. Gaurav Sharma",
-    "joining": "July 2022 ",
-    "email": " eea222006@ee.iitd.ac.in",
-    "website": "https://linkedin.com/in/gaurav-sharma-952143147",
-    "avatar": "assets/img/scholars/gauravmtech.jpeg"
-  },
- {
-    "name": " Mr. Kunal Pandey",
-    "joining": "July 2022 ",
-    "email": " eea222004@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/kpandey.jpeg"
-  },
-   {
-    "name": " Mr. Nitish Bishnoi",
-    "joining": "July 2022 ",
-    "email": " eea222005@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/nitish_mtech.jpeg"
-  },
-  {
-    "name": " Mr. Rudresh Singh",
-    "joining": "July 2022 ",
-    "email": " eea222007@ee.iitd.ac.in",
-    "website": "https://linkedin.com/in/rudresh-singh-0541011b7",
-    "avatar": "assets/img/scholars/rudreshmtech.jpeg"
-  },
-  {
-    "name": " Mr. Saurabh Nagpure",
-    "joining": "July 2022 ",
-    "email": " eea222009@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/saurabhmtech.jpeg"
-  },
-    {
-    "name": " Mr. Sabyasachi Kundu",
-    "joining": "July 2022 ",
-    "email": " eea222698@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/skundu.jpeg"
-  },
-      {
-    "name": " Mr. Vaibhav Kumar",
-    "joining": "July 2022 ",
-    "email": " eea222003@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/Vaibhav_Mtech.jpg"
-  },
-{
-    "name": " Mr. Khushall Gourav",
-    "joining": "July 2023 ",
-    "email": " eea232002@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/khushal.jpg"
-  },
-{
-    "name": " Mr. Shuvam Routray",
-    "joining": "July 2023 ",
-    "email": " eea232001@ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/shuvam.jpg"
-  }
+[
+	{
+		"name": " Mr. Ashwin K M",
+		"joining": "July 2022 ",
+		"email": " eea222010@ee.iitd.ac.in",
+		"website": "https://www.linkedin.com/in/ashwin-kunnath-muraleedharan-4b2ba2162/",
+		"avatar": "assets/img/scholars/aswin.jpeg"
+	},
+	{
+		"name": " Mr. Gaurav Sharma",
+		"joining": "July 2022 ",
+		"email": " eea222006@ee.iitd.ac.in",
+		"website": "https://linkedin.com/in/gaurav-sharma-952143147",
+		"avatar": "assets/img/scholars/gauravmtech.jpeg"
+	},
+	{
+		"name": " Mr. Kunal Pandey",
+		"joining": "July 2022 ",
+		"email": " eea222004@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/kpandey.jpeg"
+	},
+	{
+		"name": " Mr. Nitish Bishnoi",
+		"joining": "July 2022 ",
+		"email": " eea222005@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/nitish_mtech.jpeg"
+	},
+	{
+		"name": " Mr. Rudresh Singh",
+		"joining": "July 2022 ",
+		"email": " eea222007@ee.iitd.ac.in",
+		"website": "https://linkedin.com/in/rudresh-singh-0541011b7",
+		"avatar": "assets/img/scholars/rudreshmtech.jpeg"
+	},
+	{
+		"name": " Mr. Saurabh Nagpure",
+		"joining": "July 2022 ",
+		"email": " eea222009@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/saurabhmtech.jpeg"
+	},
+	{
+		"name": " Mr. Sabyasachi Kundu",
+		"joining": "July 2022 ",
+		"email": " eea222698@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/skundu.jpeg"
+	},
+	{
+		"name": " Mr. Vaibhav Kumar",
+		"joining": "July 2022 ",
+		"email": " eea222003@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/Vaibhav_Mtech.jpg"
+	},
+	{
+		"name": " Mr. Khushall Gourav",
+		"joining": "July 2023 ",
+		"email": " eea232002@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/khushal.jpg"
+	},
+	{
+		"name": " Mr. Shuvam Routray",
+		"joining": "July 2023 ",
+		"email": " eea232001@ee.iitd.ac.in",
+		"avatar": "assets/img/scholars/shuvam.jpg"
+	}
 ]
