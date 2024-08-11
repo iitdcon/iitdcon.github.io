@@ -16,6 +16,18 @@
         "link": "https://www.imsc.res.in/"
     },
     {
+        "img":"/assets/img/logos/samsung.jpg",
+        "link": "https://www.samsung.com/"
+    },
+    {
+        "img":"/assets/img/logos/udgnaples.png",
+        "link": "https://www.international.unina.it/"
+    },
+    {
+        "img":"/assets/img/logos/fev.jpg",
+        "link": "https://www.fev.com/en/location-india/"
+    },
+    {
         "img":"/assets/img/logos/rakuten.png",
         "link": "https://corp.mobile.rakuten.co.jp/english/"
     },
@@ -26,5 +38,9 @@
     {
         "img":"/assets/img/logos/iitb.png",
         "link":"https://www.iitb.ac.in/"
+    },
+    {
+        "img":"/assets/img/logos/iitbhu.jpg",
+        "link": "https://iitbhu.ac.in"
     }
 ]
