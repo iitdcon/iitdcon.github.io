@@ -224,7 +224,7 @@
                   <strong>{{info.date}}</strong>
                 </div>
                 <h5 style="color: var(--bs-red);">{{info.headline}}</h5>
-                <div v-if="info.description" style="text-align:center;">{{info.description}}</div>
+                <div v-if="info.description" style="text-align:center;"><p v-html="info.description"></p></div>
               </li>
             </ul>
           </div>
