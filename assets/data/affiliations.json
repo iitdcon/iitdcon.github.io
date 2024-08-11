@@ -44,6 +44,10 @@
         "link": "https://www.samsung.com/"
     },
     {
+        "img":"/assets/img/logos/GE.png",
+        "link": "https://www.ge.com"
+    },
+    {
         "img":"/assets/img/logos/udgnaples.png",
         "link": "https://www.international.unina.it/"
     },
@@ -68,11 +72,27 @@
         "link":"https://www.iitb.ac.in/"
     },
     {
+        "img":"/assets/img/logos/IIITH.jpg",
+        "link": "https://www.iiit.ac.in/"
+    },
+    {
+        "img":"/assets/img/logos/IIITD.png",
+        "link": "https://iiitd.ac.in"
+    },
+    {
+        "img":"/assets/img/logos/CSIR.png",
+        "link": "https://www.csir.res.in"
+    },
+    {
         "img":"/assets/img/logos/bitspilani.png",
         "link":"https://www.bits-pilani.ac.in"
     },
     {
         "img":"/assets/img/logos/iitbhu.jpg",
         "link": "https://iitbhu.ac.in"
+    },
+    {
+        "img":"/assets/img/logos/IIT Jammu.png",
+        "link": "https://www.iitjammu.ac.in"
     }
 ]
