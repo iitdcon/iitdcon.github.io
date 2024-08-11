@@ -514,7 +514,7 @@
 
 		 created() {
 			 axios
-				 .get('/assets/data/affiliations.json')
+				 .get('https://iitdcon.github.io/assets/data/affiliations.json')
 				 .then(response => {
 					 this.associations = response.data;
 				 })
