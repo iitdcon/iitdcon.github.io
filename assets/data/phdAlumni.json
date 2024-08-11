@@ -90,13 +90,12 @@
 		"avatar" : "assets/img/scholars/sudipta.jpg"
 },
 
-
 {
 	"name":"Dr. Shifali Kalra", 
 		"thesis":"Improved Model Order Reduction Strategies for a Class of Nonlinear Circuits", 
 		"supervisor":"Prof. M. Nabi", 
 		"year":"2020",
-		"current":"Postdoctoral Researcher, IIT(BHU), Varanasi",
+		"current":"IT Analyst, TCS Research",
 		"avatar" : "assets/img/scholars/shifali.png"
 },
 

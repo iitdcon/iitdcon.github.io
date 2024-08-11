@@ -1,5 +1,13 @@
 [
     {
+        "img":"/assets/img/logos/MIT.png",
+        "link": "https://web.mit.edu"
+    },
+    {
+        "img":"/assets/img/logos/IC_london.png",
+        "link": "https://www.imperial.ac.uk"
+    },
+    {
         "img":"/assets/img/logos/linkoping.png",
         "link": "https://liu.se/"
     },
@@ -12,8 +20,12 @@
         "link": "https://www.tu-ilmenau.de/en"
     },
     {
-        "img":"/assets/img/logos/university-of-minnesota.jpg",
+        "img":"/assets/img/logos/University_minnesota.png",
         "link": "https://twin-cities.umn.edu"
+    },
+    {
+        "img":"/assets/img/logos/IISC.png",
+        "link": "https://iisc.ac.in"
     },
     {
         "img":"/assets/img/logos/kfahd.jpg",
@@ -42,6 +54,10 @@
     {
         "img":"/assets/img/logos/rakuten.png",
         "link": "https://corp.mobile.rakuten.co.jp/english/"
+    },
+    {
+        "img":"/assets/img/logos/tcsresearch.jpg",
+        "link": "https://www.tcs.com/what-we-do/research"
     },
     {
         "img":"/assets/img/logos/iitk.jpg",
