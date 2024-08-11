@@ -1,23 +1,18 @@
 [
     {
-        "date":"Jul 31 1990",
-        "headline":"Very Old News",
-        "description":"This should be in the archive not in index"
-    },
-    {
         "date":"Jul 31 2024",
         "headline":"Invited Talk by Prof. Jingang Yi",
-        "description":"Research activities at <a href='https://www.rutgers.edu'>Rutgers University</a> RAM Laboratory"
+        "description":"Research activities at <a href='https://rutgers.edu'>Rutgers University</a> RAM Laboratory."
     },
     {
         "date":"Jul 25 2024",
         "headline":"Ph.D. defense of Mr. Chinmmula Kishore Reddy",
-      "description":"The title of the thesis is 'Vision-based control for robotic systems: constraint satisfaction and related problems'"
+      "description":"The title of the thesis is 'Vision-based control for robotic systems: constraint satisfaction and related problems'."
 
     },
     {
         "date":"July 30 2024",
         "headline":"Ph.D. defense of Mr. Atul Katiyar",
-      "description":"The title of the thesis is 'Initial excitation based adaptive observer for uncertain systems'"
+      "description":"The title of the thesis is 'Initial excitation based adaptive observer for uncertain systems'."
     }
 ]

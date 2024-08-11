@@ -269,3 +269,7 @@ button.doi{
     margin-top:10px;
     margin-right: 10px;
 }
+
+.news-item a{
+   color: #df3d3d !important;
+}
