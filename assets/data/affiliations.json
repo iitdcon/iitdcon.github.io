@@ -40,6 +40,10 @@
         "link":"https://www.iitb.ac.in/"
     },
     {
+        "img":"/assets/img/logos/bitspilani.png",
+        "link":"https://www.bits-pilani.ac.in"
+    },
+    {
         "img":"/assets/img/logos/iitbhu.jpg",
         "link": "https://iitbhu.ac.in"
     }
