@@ -1,9 +1,10 @@
 [
   {
     "name": "Dr. Ranjan Dasgupta",
-    "thesis": "Multi-Body Dynamics and Nonlinear Control of a N-DOF Floating Base Manipulator",
+    "thesis": "Nonlinear hierarchical control of quadrotor and quadrotor manipulation system",
     "supervisor": "Prof. Shubhendu Bhasin",
     "year": "2024",
+    "current":"Principal Scientist, TCS Innovation Laboratory",
     "email": "eez158420[at]ee.iitd.ac.in",
     "avatar": "assets/img/scholars/ran_das.jpg"
   },
@@ -12,6 +13,7 @@
     "thesis": "Vision-based Control for Robotic Systems: Constraint satisfaction and related problems",
     "supervisor": "Prof. Indra Narayan Kar",
     "year": "2024",
+    "current":"Technical Lead - MR, Novus Hi-tech Robotics, Gurugram",
     "email": "chimmulakishore [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/kishore01.jpg"
   },
@@ -20,6 +22,7 @@
     "thesis": "Initial excitation based adaptive observer for uncertain systems",
     "supervisor": "Prof. Shubhendu Bhasin",
     "year": "July, 2024",
+    "current": "Assistant Professor, MJP Rohilkhand",
     "email": "eez178416 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/atul_katiyar.jpg"
   },
