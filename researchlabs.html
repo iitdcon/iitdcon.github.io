@@ -133,14 +133,14 @@
                   <h6 style="text-align:justify">{{fac.description}}
                   </h6>
                 </div>
-								<h6>
-                  <strong> Faculty Incharge
+								<h6 v-if="fac.incharge">
+                  <strong> Faculty Contact
                   </strong> -&nbsp;
                   <br>
                 </h6>
 								<h6>{{fac.incharge}}
                 </h6>
-								<h6>
+								<h6 v-if="fac.research">
                   <strong>Primary Research Areas -&nbsp;
                   </strong>
                   <br>
@@ -150,7 +150,7 @@
 											       fac.research" :key="item">{{item}}
                   </h4>
 								</div>
-								<h6>
+								<h6 v-if="fac.room">
                   <strong>Location -&nbsp;
                   </strong>
                   <br>
