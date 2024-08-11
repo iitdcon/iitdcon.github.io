@@ -232,7 +232,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/postdoc.json')
+					.get('https://iitdcon.github.io/assets/data/postdoc.json')
 					.then(response => {
 						this.faculty = response.data;
 					})

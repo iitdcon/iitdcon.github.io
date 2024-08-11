@@ -358,7 +358,7 @@
         },
         created() {
             axios
-                .get('/assets/data/news.json')
+                .get('https://iitdcon.github.io/assets/data/news.json')
                 .then(response => {
                     this.news = response.data;
                   console.log(this.news);
@@ -394,7 +394,7 @@
         },
         created() {
             axios
-                .get('/assets/data/faculty.json')
+                .get('https://iitdcon.github.io/assets/data/faculty.json')
                 .then(response => {
                     this.faculty = response.data.length;
                 })
@@ -403,7 +403,7 @@
 
                 })
             axios
-                .get('/assets/data/postDocAlumni.json')
+                .get('https://iitdcon.github.io/assets/data/postDocAlumni.json')
                 .then(response => {
                     this.postDocAlumni = response.data.length;
                 })
@@ -412,7 +412,7 @@
 
                 })
             axios
-                .get('/assets/data/phdAlumni.json')
+                .get('https://iitdcon.github.io/assets/data/phdAlumni.json')
                 .then(response => {
                     this.phdAlumni = response.data.length;
                 })
@@ -421,7 +421,7 @@
 
                 })
             axios
-                .get('/assets/data/msrAlumni.json')
+                .get('https://iitdcon.github.io/assets/data/msrAlumni.json')
                 .then(response => {
                     this.msrAlumni = response.data.length;
                 })
@@ -430,7 +430,7 @@
 
                 })
             axios
-                .get('/assets/data/postdoc.json')
+                .get('https://iitdcon.github.io/assets/data/postdoc.json')
                 .then(response => {
                     this.postdoc = response.data.length;
                 })
@@ -439,7 +439,7 @@
 
                 })
             axios
-                .get('/assets/data/msr.json')
+                .get('https://iitdcon.github.io/assets/data/msr.json')
                 .then(response => {
                     this.msr = response.data.length;
                 })
@@ -448,7 +448,7 @@
 
                 })
             axios
-                .get('/assets/data/staff.json')
+                .get('https://iitdcon.github.io/assets/data/staff.json')
                 .then(response => {
                     this.staff = response.data.length;
                 })
@@ -457,7 +457,7 @@
 
                 })
             axios
-                .get('/assets/data/partphd.json')
+                .get('https://iitdcon.github.io/assets/data/partphd.json')
                 .then(response => {
                     this.partphd = response.data.length;
                 })
@@ -466,7 +466,7 @@
 
                 })
             axios
-                .get('/assets/data/fullphd.json')
+                .get('https://iitdcon.github.io/assets/data/fullphd.json')
                 .then(response => {
                     this.fullphd = response.data.length;
                 })

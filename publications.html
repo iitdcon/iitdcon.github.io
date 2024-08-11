@@ -228,7 +228,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/publications.json')
+					.get('https://iitdcon.github.io/assets/data/publications.json')
 					.then(response => {
 						rawdata = response.data;
             data = rawdata.sort(function(a,b){

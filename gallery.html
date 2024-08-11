@@ -178,7 +178,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/gallery.json')
+					.get('https://iitdcon.github.io/assets/data/gallery.json')
 					.then(response => {
 						this.imgs = response.data;
 					})

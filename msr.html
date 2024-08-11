@@ -260,7 +260,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/mtech.json')
+					.get('https://iitdcon.github.io/assets/data/mtech.json')
 					.then(response => {
 						this.mtech = response.data;
 					})
@@ -269,7 +269,7 @@
 
 					})
 				axios
-					.get('/assets/data/msr.json')
+					.get('https://iitdcon.github.io/assets/data/msr.json')
 					.then(response => {
 						this.faculty = response.data;
 					})

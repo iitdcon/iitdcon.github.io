@@ -196,7 +196,7 @@
          },
          created() {
              axios
-                 .get('/assets/data/news.json')
+                 .get('https://iitdcon.github.io/assets/data/news.json')
                  .then(response => {
                      this.news = response.data;
                      this.sortedNews = this.news.sort(function(a,b){

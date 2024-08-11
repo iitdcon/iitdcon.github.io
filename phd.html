@@ -306,7 +306,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/fullphd.json')
+					.get('https://iitdcon.github.io/assets/data/fullphd.json')
 					.then(response => {
 						this.fullphd = response.data;
 					})
@@ -315,7 +315,7 @@
 
 					})
 				axios
-					.get('/assets/data/partphd.json')
+					.get('https://iitdcon.github.io/assets/data/partphd.json')
 					.then(response => {
 						this.partphd = response.data;
 					})

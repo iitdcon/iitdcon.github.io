@@ -201,7 +201,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/academicLabs.json')
+					.get('https://iitdcon.github.io/assets/data/academicLabs.json')
 					.then(response => {
 						this.faculty = response.data;
 					})

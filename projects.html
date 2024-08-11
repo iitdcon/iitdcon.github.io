@@ -209,7 +209,7 @@
 			},
 			created() {
 				axios
-					.get('/assets/data/projects.json')
+					.get('https://iitdcon.github.io/assets/data/projects.json')
 					.then(response => {
 						this.faculty = response.data;
 					})
