@@ -51,5 +51,15 @@
         "Switched Adaptive control",
         "Swarm optimization"
     ]
+  },
+  {
+    "name": "Digital Control Lab",
+    "avatar": "/assets/img/labimg/Digitallab.jpg",
+    "room": "Block II"
+  },
+  {
+    "name": "Analog Control Lab",
+    "avatar": "/assets/img/labimg/Analoglab.jpg",
+    "room": "Block II"
   }
 ]
