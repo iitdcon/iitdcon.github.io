@@ -109,7 +109,7 @@
 				<div class="intro" style="padding: 5px;">
 					<h2 class="text-center" style="margin: 11;">Post-Graduate Courses
           </h2>
-					<hr style="margin: 16px 0px;">
+					<!-- <hr style="margin: 16px 0px;"> -->
 				</div>
 				<h3 class="text-center" style="color:#6e2525">
           <b>Program Core Courses
@@ -130,22 +130,28 @@
                 </h3>
 								<h3>{{fac.name}}
                 </h3>
-								<h3>{{fac.credit}}
-                </h3>
-								<hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
-								<h6>
-                  <strong>Course Contents
-                  </strong> -&nbsp;
-                  <br>
-                </h6>
-								<h6 style="text-align:justify">{{fac.description}}
-                </h6>
+                <div v-if="fac.link">
+                  <a v-bind:href="fac.link">
+                    <button class="btn btn-outline-primary">Course Link</button>
+                  </a>
+                </div>
+
+								<!-- <h3>{{fac.credit}}
+                     </h3> -->
+								<!-- <hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
+								     <h6>
+                     <strong>Course Contents
+                     </strong> -&nbsp;
+                     <br>
+                     </h6>
+								     <h6 style="text-align:justify">{{fac.description}}
+                     </h6> -->
 							</div>
 						</div>
 					</div>
 
 				</div>
-				<hr>
+				<!-- <hr> -->
 				<div class="row" style="padding-top:10px">
           <h3 class="text-center" style="color:#6e2525">
             <b>Program Elective Courses
@@ -167,16 +173,21 @@
                 </h3>
 								<h3>{{fac.name}}
                 </h3>
-								<h3>{{fac.credit}}
-                </h3>
-								<hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
-								<h6>
-                  <strong>Course Contents
-                  </strong> -&nbsp;
-                  <br>
-                </h6>
-								<h6 style="text-align:justify">{{fac.description}}
-                </h6>
+                <div v-if="fac.link">
+                  <a v-bind:href="fac.link">
+                    <button class="btn btn-outline-primary">Course Link</button>
+                  </a>
+                </div>
+								<!-- <h3>{{fac.credit}}
+                     </h3>
+								     <hr style="color:#6e2525;background-color:#6e2525;border-width:5px;opacity:0.8">
+								     <h6>
+                     <strong>Course Contents
+                     </strong> -&nbsp;
+                     <br>
+                     </h6>
+								     <h6 style="text-align:justify">{{fac.description}}
+                     </h6> -->
 							</div>
 						</div>
 					</div>
