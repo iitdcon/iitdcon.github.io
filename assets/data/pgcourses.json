@@ -18,7 +18,8 @@
     "name": "Nonlinear Systems ",
     "credit": "(3-0-0)",
     "description": "Introduction to nonlinear systems: Examples of phenomena, models & derivation of system equations. Fundamental properties: Existence & uniqueness, Dependence on initial conditions & parameters. Phase plane analysis. Limit cycles & oscillations. Describing function method and applications. Circle criterion. Lyapunov stability of autonomous systems. Perturbation theory & Averaging. Singular perturbation model and stability analysis. Basic results on Lie algebra. Controllability and Observability of nonlinear systems. Bifurcations. Chaos. Synchronization.",
-    "core": "yes"
+    "core": "yes",
+    "link": "https://web.iitd.ac.in/~psrivast/teaching/ell702/24-25_1/index.html"
   },
   {
     "id": "ELL703",
