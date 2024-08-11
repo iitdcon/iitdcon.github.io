@@ -448,7 +448,7 @@
 
 			 created() {
 				 axios
-					 .get('assets/data/phdAlumni.json')
+					 .get('https://iitdcon.github.io/assets/data/phdAlumni.json')
 					 .then(response => {
 						 this.faculty = response.data;
 						 this.sortedPhdAlumni = this.faculty.sort(function(a,b){
@@ -465,7 +465,7 @@
 
 					 })
 				 axios
-					 .get('assets/data/postDocAlumni.json')
+					 .get('https://iitdcon.github.io/assets/data/postDocAlumni.json')
 					 .then(response => {
 						 this.postdoc = response.data;
 					 })
@@ -474,7 +474,7 @@
 
 					 })
 				 axios
-					 .get('assets/data/msrAlumni.json')
+					 .get('https://iitdcon.github.io/assets/data/msrAlumni.json')
 					 .then(response => {
 						 this.ms = response.data;
 						 this.sortedMSAlumni = this.ms.sort(function(a,b){

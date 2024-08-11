@@ -213,25 +213,6 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js">
         </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
-		<script charset="utf-8">
-			new Vue({
-			el: '#app',
-			data: {
-				faculty: null,
-			},
-			created() {
-				axios
-					.get('https://iitdcon.github.io/assets/data/faculty.json')
-					.then(response => {
-						this.faculty = response.data;
-					})
-					.catch((e) => {
-						console.error(e)
-
-					})
-			}
-		});
-		</script>
 	</body>
 
 </html>

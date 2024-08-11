@@ -108,7 +108,7 @@
 				<div class="intro" style="padding: 5px;">
 					<h2 class="text-center" style="margin: 11;">Post Doctoral Research Fellows
           </h2>
-					<hr style="margin: 16px 0px;">
+					<!-- <hr style="margin: 16px 0px;"> -->
 				</div>
 				<div class="work-experience group">
 					<div class="item" v-for="fac in faculty" :key="fac.name">
@@ -179,6 +179,62 @@
 
 				</div>
 			</div>
+      <div class="container" style="padding-right: 10px;">
+				<div class="intro" style="padding: 5px;">
+					<h2 class="text-center" style="margin: 50px;">Previous Postdoctoral Associations
+          </h2>
+				</div>
+				<div class="work-experience group">
+					<div class="work-experience group">
+					 <div class="item" v-for="fac in postdocAlumni" :key="fac.name">
+					 <div class="row">
+					 <div class="col-md-6 col-lg-4 text-center text-sm-end text-md-end text-lg-end text-xl-end text-xxl-end d-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-lg-end align-items-lg-center">
+					 <img class="rounded-circle rounded-circle"
+					 v-bind:src="fac.avatar" width="250" height="250">
+					 </div>
+					 <div class="col-md-6 col-lg-8 text-center text-sm-start text-md-start text-lg-start text-xl-start text-xxl-start" style="padding-top: 10px;">
+					   <div v-if="fac.website">
+                         <a v-bind:href="fac.website">
+                           <h3>{{fac.name}}
+                           </h3>
+                         </a>
+                       </div>
+					   <div v-if="!fac.website">
+                         <h3>{{fac.name}}
+                         </h3>
+                       </div>
+					 <hr>
+					 <h6 v-if="fac.supervisor && fac.supervisor.includes(' and ')">
+                       <strong>Supervisors -&nbsp;
+                       </strong>
+                       <br>
+                     </h6>
+					 <h6 v-else>
+                       <strong>Supervisor -&nbsp;
+                       </strong>
+                       <br>
+                     </h6>
+					 <h6>{{fac.supervisor}}
+                     </h6>
+					 <h6 v-if="fac.year">
+                       <strong>Duration -&nbsp;
+                       </strong>
+                       <br>{{fac.year}}
+                     </h6>
+					 <h6 v-if="fac.current">
+                       <strong>Current Affiliation -&nbsp;
+                       </strong>
+                       <br>{{fac.current}}
+                     </h6>
+
+					 </div>
+					 </div>
+					 </div>
+
+					 </div>
+
+				</div>
+			</div>
 		</section>
 		<footer class="footer dark-background">
       <div class="footer-content container">
@@ -229,6 +285,7 @@
 			el: '#app',
 			data: {
 				faculty: null,
+        postdocAlumni:null,
 			},
 			created() {
 				axios
@@ -240,6 +297,14 @@
 						console.error(e)
 
 					})
+				 axios
+					 .get('https://iitdcon.github.io/assets/data/postDocAlumni.json')
+					 .then(response => {
+						 this.postdocAlumni = response.data;
+					 })
+					 .catch((e) => {
+						 console.error(e)
+					 })
 			}
 		});
 		</script>
