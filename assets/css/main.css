@@ -272,4 +272,26 @@ button.doi{
 
 .news-item a{
    color: #df3d3d !important;
+
+}
+
+
+.logo-wall {
+    padding: 30px 0;
+}
+.logo-wall img {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease-in-out;
+}
+.logo-wall img:hover {
+    filter: none;
+}
+
+.logo-value{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

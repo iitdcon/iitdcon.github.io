@@ -1,0 +1,30 @@
+[
+    {
+        "img":"/assets/img/logos/linkoping.png",
+        "link": "https://liu.se/"
+    },
+    {
+        "img":"/assets/img/logos/polimi.png",
+        "link": "https://www.polimi.it/en/"
+    },
+    {
+        "img":"/assets/img/logos/ualberta.png",
+        "link": "https://www.ualberta.ca/en/index.html"
+    },
+    {
+        "img":"/assets/img/logos/imsc.png",
+        "link": "https://www.imsc.res.in/"
+    },
+    {
+        "img":"/assets/img/logos/rakuten.png",
+        "link": "https://corp.mobile.rakuten.co.jp/english/"
+    },
+    {
+        "img":"/assets/img/logos/iitk.jpg",
+        "link": "https://www.iitk.ac.in/"
+    },
+    {
+        "img":"/assets/img/logos/iitb.png",
+        "link":"https://www.iitb.ac.in/"
+    }
+]
