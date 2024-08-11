@@ -285,8 +285,10 @@ button.doi{
     margin-bottom: 20px;
     filter: grayscale(100%);
     transition: filter 0.3s ease-in-out;
+    transition: transform 0.4s ease-in-out;
 }
 .logo-wall img:hover {
+    transform: scale(1.1);
     filter: none;
 }
 
