@@ -1,5 +1,29 @@
 [
   {
+    "name": "Dr. Eswara Venkata Kumar",
+    "area": "Multi-Agent Systems",
+    "supervisor": "Prof. Deepak Patil",
+    "year": "2025",
+    "current": "Advanced Software Engineer at Aptiv",
+    "avatar": "assets/img/scholars/phd_eswar.jpg"
+  },
+  {
+    "name": "Dr. Sujeet Kumar",
+    "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "year": "2024",
+    "current": "Project Manager at IIT Kanpur",
+    "avatar": "assets/img/scholars/sujeet1.jpg"
+  },
+  {
+    "name": "Dr. Meera Patel",
+    "thesis": "Distributed control of descriptor multi-agent system",
+    "supervisor": "Prof. Subhasish Dutta",
+    "year": "2024",
+    "current": "Postdoctoral Researcher at IIT Bombay",
+    "avatar": "assets/img/scholars/meeraNew.jpg"
+  },
+  {
     "name": "Dr. Bhabani Shankar Dey",
     "thesis": "Incremental Stability based Design and Analysis of Nonlinear System",
     "supervisor": "Prof. Indra Narayan Kar",
@@ -17,7 +41,7 @@
     "website": "https://www.linkedin.com/in/pritesh-patel-299b7a54"
   },
   {
-    "name": "Dr. Ranjan Dasgupta",
+    "name": "Dr. Ranjan Dasgupta"
     "thesis": "Nonlinear hierarchical control of quadrotor and quadrotor manipulation system",
     "supervisor": "Prof. Shubhendu Bhasin",
     "year": "2024",

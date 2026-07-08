@@ -1,23 +1,5 @@
 [
   {
-    "name": "Mr. Eswara Venkata Kumar",
-    "area": "Multi-Agent Systems",
-    "supervisor": "Prof. Deepak Patil",
-    "joining": "January, 2017",
-    "room": "Block 2, 214",
-    "email": "eez168497 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/phd_eswar.jpg"
-  },
-  {
-    "name": "Mr. Sujeet Kumar",
-    "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "joining": "January, 2017",
-    "room": "Block 2, 209",
-    "email": "eez168486 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/sujeet1.jpg"
-  },
-  {
     "name": "Mr. Apurba Das",
     "area": "Data-driven Control using Koopman Operator",
     "supervisor": "Prof. Shubhendu Bhasin and Prof. Deepak Patil",
@@ -35,15 +17,6 @@
     "room": "Block 2, 209",
     "email": "eez188132 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/pranjali.jpg"
-  },
-  {
-    "name": "Ms. Meera Patel",
-    "area": "Distributed control of descriptor multi-agent system",
-    "supervisor": "Prof. Subhasish Dutta",
-    "joining": "January, 2019",
-    "room": "Block 2, 214",
-    "email": "meera.patel [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/meeraNew.jpg"
   },
   {
     "name": "Mr. Krishan Kumar Gola",
