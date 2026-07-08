@@ -1,24 +1,5 @@
 [
   {
-    "name": "Mr. Sanjeev Kumar Pandey",
-    "area": "Synchronization of nonlinear oscillators",
-    "supervisor": "Prof. Shaunak Sen and Prof. Indra Narayan Kar",
-    "joining": "July, 2019",
-    "room": "Block 2, 214",
-    "email": "sanjeev [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/sanjeev.jpg",
-    "website": "https://www.linkedin.com/in/sanjeev-kumar-pandey-a1399531/"
-  },
-  {
-    "name": "Mr. Shivanagouda Biradar",
-    "area": "Network Topology Reconstruction",
-    "supervisor": "Prof. Deepak Patil",
-    "joining": "July, 2019",
-    "room": "Block 2, 214",
-    "email": "eez198372 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/shivan.jpg"
-  },
-  {
     "name": "Ms. Apra Gupta",
     "area": "Multispectral Imaging and Sensing",
     "supervisor": "Prof. S. Janardhanan and Prof. Shaunak Sen",

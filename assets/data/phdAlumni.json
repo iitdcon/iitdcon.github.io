@@ -1,7 +1,23 @@
 [
   {
+    "name": "Dr. Atul Sharma",
+    "thesis": "Sliding Mode in Distributed Parameter Systems",
+    "supervisor": "Prof. S. Janardhanan",
+    "year": "2025",
+    "current": "Engineer at ideaForge",
+    "website": "https://sites.google.com/view/sharmaatul",
+    "avatar": "assets/img/scholars/atul_sharma.jpg"
+  },
+  {
+    "name": "Dr. Apra Gupta",
+    "supervisor": "Prof. S. Janardhanan and Prof. Shaunak Sen",
+    "year": "2025",
+    "current": "Faculty at Higher Colleges of Technology, UAE",
+    "website": "https://www.linkedin.com/in/dr-apra-gupta-86469a17/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSd7GaImSSqqNSiWQzdsuXA%3D%3D",
+    "avatar": "assets/img/scholars/apra.jpeg"
+  },
+  {
     "name": "Dr. Shivanagouda Biradar",
-    "area": "Network Topology Reconstruction",
     "supervisor": "Prof. Deepak Patil",
     "year": "2025",
     "website": "https://shivanb.github.io/Shivan-Biradar/",
