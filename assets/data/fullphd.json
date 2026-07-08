@@ -1,24 +1,5 @@
 [
   {
-    "name": "Ms. Apra Gupta",
-    "area": "Multispectral Imaging and Sensing",
-    "supervisor": "Prof. S. Janardhanan and Prof. Shaunak Sen",
-    "joining": "January 2020",
-    "room": "Block 2, 214",
-    "email": "apra.gupta [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/apra.jpeg"
-  },
-  {
-    "name": "Mr. Atul Sharma",
-    "area": "Sliding Mode in Distributed Parameter Systems",
-    "supervisor": "Prof. S. Janardhanan",
-    "joining": "January, 2020",
-    "room": "Block 2, 339B",
-    "email": "atul.sharma [at] ee.iitd.ac.in",
-    "website": "https://sites.google.com/view/sharmaatul",
-    "avatar": "assets/img/scholars/atul_sharma.jpg"
-  },
-  {
     "name": "Mr. Surendhar. S",
     "area": "Adaptive coverage control for mobile sensor networks",
     "supervisor": "Prof. Shubhendu Bhasin and Prof. Sayan Basu Roy (IIIT Delhi)",
