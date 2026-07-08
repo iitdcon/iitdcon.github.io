@@ -1,7 +1,29 @@
 [
+  {
+    "name": "Dr. Sanjeev Kumar Pandey",
+    "thesis": "Synchronization of nonlinear oscillators",
+    "supervisor": "Prof. Shaunak Sen and Prof. Indra Narayan Kar",
+    "year": "2025",
+    "current": "Postdoctoral Fellow at IIT Kanpur",
+    "avatar": "assets/img/scholars/sanjeev.jpg",
+    "website": "https://sites.google.com/view/sanjeev-kumar-pandey/home?pli=1"
+  },
+  {
+    "name": "Dr. Krishan Kumar Gola",
+    "area": "Estimation in Biomolecular Systems",
+    "supervisor": "Prof. Shaunak Sen",
+    "year": "2025",
+    "avatar": "assets/img/scholars/gola.jpg"
+  },
+  {
+    "name": "Dr. Pranjali Shukla",
+    "area": "Model free adaptive control",
+    "supervisor": "Prof. S. Janardhanan",
+    "year": "2024",
+    "avatar": "assets/img/scholars/pranjali.jpg"
+  },
 {
   "name": "Dr. Eswara Venkata Kumar",
-  "area": "Multi-Agent Systems",
   "supervisor": "Prof. Deepak Patil",
   "year": "2025",
   "current": "Advanced Software Engineer at Aptiv",
@@ -9,7 +31,6 @@
 },
 {
   "name": "Dr. Sujeet Kumar",
-  "area": "Secure Control of Cyber-Physical Systems, Cooperative Control",
   "supervisor": "Prof. Indra Narayan Kar",
   "year": "2024",
   "current": "Project Manager at IIT Kanpur",

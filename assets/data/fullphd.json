@@ -1,33 +1,5 @@
 [
   {
-    "name": "Mr. Apurba Das",
-    "area": "Data-driven Control using Koopman Operator",
-    "supervisor": "Prof. Shubhendu Bhasin and Prof. Deepak Patil",
-    "joining": "January, 2018",
-    "room": "Block 2, 339B",
-    "email": "apurba.das [at] ee.iitd.ac.in",
-    "website": "https://sites.google.com/view/das-apurba",
-    "avatar": "assets/img/scholars/apurba_das.jpg"
-  },
-  {
-    "name": "Ms. Pranjali Shukla",
-    "area": "Model free adaptive control",
-    "supervisor": "Prof. S. Janardhanan",
-    "joining": "July, 2018",
-    "room": "Block 2, 209",
-    "email": "eez188132 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/pranjali.jpg"
-  },
-  {
-    "name": "Mr. Krishan Kumar Gola",
-    "area": "Estimation in Biomolecular Systems",
-    "supervisor": "Prof. Shaunak Sen",
-    "joining": "July, 2019",
-    "room": "Block 2, 242",
-    "email": "eez198354 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/gola.jpg"
-  },
-  {
     "name": "Mr. Sanjeev Kumar Pandey",
     "area": "Synchronization of nonlinear oscillators",
     "supervisor": "Prof. Shaunak Sen and Prof. Indra Narayan Kar",
@@ -187,6 +159,16 @@
     "email": "rudra.sen [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/rudra_s.jpg",
     "website": "https://sites.google.com/view/rudrasen/home"
+  },
+  {
+    "name": "Mr. Apurba Das",
+    "area": "Data-driven Control using Koopman Operator",
+    "supervisor": "Prof. Shubhendu Bhasin and Prof. Deepak Patil",
+    "joining": "January, 2018",
+    "room": "Block 2, 339B",
+    "email": "apurba.das [at] ee.iitd.ac.in",
+    "website": "https://sites.google.com/view/das-apurba",
+    "avatar": "assets/img/scholars/apurba_das.jpg"
   },
   {
     "name": "Mr. Sidhanta Mohanty",
