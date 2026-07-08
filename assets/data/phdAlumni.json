@@ -1,5 +1,13 @@
 [
   {
+    "name": "Dr. Shivanagouda Biradar",
+    "area": "Network Topology Reconstruction",
+    "supervisor": "Prof. Deepak Patil",
+    "year": "2025",
+    "website": "https://shivanb.github.io/Shivan-Biradar/",
+    "avatar": "assets/img/scholars/shivan.jpg"
+  },
+  {
     "name": "Dr. Sanjeev Kumar Pandey",
     "thesis": "Synchronization of nonlinear oscillators",
     "supervisor": "Prof. Shaunak Sen and Prof. Indra Narayan Kar",
