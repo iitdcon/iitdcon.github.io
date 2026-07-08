@@ -1,5 +1,14 @@
 [
   {
+    "name": "Dr. Pritesh Patel",
+    "thesis": "Identification and Control of Uncertain Switched and Hybrid Systems",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "year": "2025", 
+    "current": "Postdoctoral Researcher at University of Southampton",
+    "avatar": "assets/img/scholars/pritesh.jpg",
+    "website": "https://www.linkedin.com/in/pritesh-patel-299b7a54"
+  },
+  {
     "name": "Dr. Ranjan Dasgupta",
     "thesis": "Nonlinear hierarchical control of quadrotor and quadrotor manipulation system",
     "supervisor": "Prof. Shubhendu Bhasin",
