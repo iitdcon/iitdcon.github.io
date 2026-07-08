@@ -1,5 +1,13 @@
 [
   {
+    "name": "Dr. Bhabani Shankar Dey",
+    "thesis": "Incremental Stability based Design and Analysis of Nonlinear System",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "year":"2025",
+    "current":"Postdoctoral Researcher at Indian Institute of Science",
+    "avatar": "assets/img/scholars/bbn.jpg"
+  },
+  {
     "name": "Dr. Pritesh Patel",
     "thesis": "Identification and Control of Uncertain Switched and Hybrid Systems",
     "supervisor": "Prof. Shubhendu Bhasin",
