@@ -34,6 +34,25 @@
         "date":"July 22 2026",
         "headline":"Ph.D. defense of Mr. Soutrik Bandyopadhyay",
       "description":"The title of the thesis is 'Lagrangian Methods for Learning-Based Constrained Optimal Control'."
+    },
+    {
+        "date":"July 22 2026",
+        "headline":"Ph.D. defense of Mr. Chayan Kumar Paul",
+      "description":"The title of the thesis is 'Safe and Compilant Adaptive Control Strategies for Human-Robot Interaction'."
+    },
+    {
+        "date":"July 22 2026",
+        "headline":"Ph.D. defense of Mrs. Pranjali Shukla",
+      "description":"The title of the thesis is 'Multirate Dynamic Linearization for Data-Driven Control'."
+    },
+    {
+        "date":"July 23 2026",
+        "headline":"Ph.D. defense of Mr. Vinod Kumar",
+      "description":"The title of the thesis is 'On the Design of Positive Feedback and Combinatorial Sensor in a Biomolecular System'."
+    },
+    {
+        "date":"July 28 2026",
+        "headline":"Invited Talk by Prof. Ashwin Dani",
+        "description":"Title of the talk is 'Perception and Manipulation of Flexible Objects'."
     }
-
 ]
