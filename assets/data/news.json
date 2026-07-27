@@ -51,8 +51,14 @@
       "description":"The title of the thesis is 'On the Design of Positive Feedback and Combinatorial Sensor in a Biomolecular System'."
     },
     {
+        "date":"July 27 2026",
+        "headline":"Ph.D. defense of Ms. Gunjan Chorasiya",
+      "description":"The title of the thesis is 'On Robustness to Multi-Parametric Perturbations in Biomolecular Systems'."
+    },
+    {
         "date":"July 28 2026",
         "headline":"Invited Talk by Prof. Ashwin Dani",
         "description":"The talk is on 'Perception and Manipulation of Flexible Objects'."
     }
+
 ]
