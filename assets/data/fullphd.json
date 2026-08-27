@@ -9,25 +9,6 @@
     "avatar": "assets/img/scholars/surendhar.jpg"
   },
   {
-    "name": "Ms. Anchita Dey",
-    "area": "Safe Data-Driven Adaptive Model Predictive Control",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "joining": "September, 2020",
-    "room": "Block 3, 337",
-    "email": "anchita.dey [at] ee.iitd.ac.in",
-    "website":"https://sites.google.com/view/anchitadey/home",
-    "avatar": "assets/img/scholars/anchita_dey.jpg"
-  },
-  {
-    "name": "Ms. Akansha Rautela",
-    "area": "Multi-agent systems",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. Deepak Patil",
-    "joining": "September, 2020",
-    "room": "Block 2, 209",
-    "email": "eez208414 [at] iitd.ac.in",
-    "avatar": "assets/img/scholars/akansha.jpg"
-  },
-  {
     "name": "Ms. Bhargavi Chaudhary",
     "area": "Control of positive systems and applications.",
     "supervisor": "Prof. Indra Narayan Kar and Prof. Subhasish Dutta",
@@ -35,64 +16,6 @@
     "room": "Block 2, 214",
     "email": "eez208419 [at] ee.iitd.ac.in",
     "avatar": "assets/img/scholars/bhargaviNew.jpg"
-  },
-  {
-    "name": "Mr. Chayan Kumar Paul",
-    "area": " Safe Human-Robot Collaboration using Admittance Control ",
-    "supervisor": "Prof. Indra Narayan Kar",
-    "joining": "September, 2020",
-    "room": "Block 2, 209",
-    "email": "eez207528 [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/chayan1.jpeg"
-  },
-  {
-    "name": "Ms. Gunjan Chorasiya",
-    "area": "Robustness to Temperature in Biomolecular Circuits",
-    "supervisor": "Prof. Shaunak Sen",
-    "joining": "September, 2020",
-    "room": "Block 2, 242",
-    "email": "gunjan.chorasiya [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/gunjan.jpg"
-  },
-  {
-    "name": "Mr. Neetish Patel",
-    "area": "Nonlinear control of robotic systems and applications.",
-    "supervisor": "Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee (ME, IIT Delhi)",
-    "joining": "September 2020",
-    "room": "Block 2, 209",
-    "email": "neetish.patel [at] ee.iitd.ac.in",
-    "website": "https://sites.google.com/view/neetishpatel",
-    "avatar": "assets/img/scholars/neetish2.jpg"
-  },
-  {
-    "name": "Ms. Poulomee Ghosh",
-    "area": "Data-driven Adaptive Control",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "joining": "September, 2020",
-    "room": "Block 3, 337",
-    "email": "poulomee.ghosh [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/poulomee_new.jpg",
-      "website": "https://poulomeeghosh.in"
-  },
-  {
-    "name": "Mr. Soutrik Bandyopadhyay",
-    "area": "Safe Reinforcement Learning-based Control",
-    "supervisor": "Prof. Shubhendu Bhasin",
-    "joining": "September, 2020",
-    "room": "Block 3, 337",
-    "email": "soutrik.bandyopadhyay [at] ee.iitd.ac.in",
-    "website": "https://soutrikband.in",
-    "avatar": "assets/img/scholars/soutrik.jpg"
-  },
-  {
-    "name": "Mr. Vinod Kumar",
-    "area": "Designing Sensitivity to Temperature in Biomolecular circuits",
-    "supervisor": "Prof. Shaunak Sen",
-    "joining": "September, 2020",
-    "room": "Block 2, 242",
-    "email": "vinod.kumar [at] ee.iitd.ac.in",
-    "avatar": "assets/img/scholars/vinod.jpeg",
-    "website": "https://sites.google.com/view/er2016vinodkumar/home"
   },
   {
     "name": "Ms. Chaithra Radhakrishnan",

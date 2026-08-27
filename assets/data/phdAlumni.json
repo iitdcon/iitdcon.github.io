@@ -1,5 +1,74 @@
 [
   {
+    "name": "Dr. Soutrik Bandyopadhyay",
+    "thesis": "Lagrangian Methods for Learning-Based Constrained Optimal Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "year": "2026",
+    "current": "Postdoctoral Fellow at UNC, Charlotte, USA",
+    "website": "https://soutrikband.in",
+    "avatar": "assets/img/scholars/soutrik.jpg"
+  },
+  {
+    "name": "Dr. Anchita Dey",
+    "thesis": "Adaptive Output Feedback Model Predictive Control",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "year": "2026",
+    "current": "Postdoctoral Fellow at KAIST, South Korea",
+    "website":"https://sites.google.com/view/anchitadey/home",
+    "avatar": "assets/img/scholars/anchita_dey.jpg"
+  },
+  {
+    "name": "Dr. Poulomee Ghosh",
+    "thesis": "Constrained Adaptive Control of Uncertain Systems",
+    "supervisor": "Prof. Shubhendu Bhasin",
+    "year": "2026",
+    "current": "Postdoctoral Fellow at IISc, Bangalore, India",
+	"website": "https://poulomeeghosh.in",
+    "avatar": "assets/img/scholars/poulomee_new.jpg"    
+  },
+  {
+    "name": "Dr. Gunjan Chorasiya",
+    "thesis": "On Robustness to Multi-Parametric Perturbations in Biomolecular Systems",
+    "supervisor": "Prof. Shaunak Sen",
+    "year": "2026",
+    "current": "Project Associate at IIT Kanpur, India",
+    "avatar": "assets/img/scholars/gunjan.jpg" 
+  },
+  {
+    "name": "Dr. Vinod Kumar",
+    "thesis": "On the Design of Positive Feedback and Combinatorial Sensor in a Biomolecular System",
+    "supervisor": "Prof. Shaunak Sen",
+    "year": "2026",
+    "current": "Project Associate at IIT Kanpur, India",
+    "avatar": "assets/img/scholars/vinod.jpeg",
+    "website": "https://sites.google.com/view/er2016vinodkumar/home"
+  },
+  {
+    "name": "Dr. Akansha Rautela",
+    "thesis": "Computation of Optimal Consensus in Multi-Agent Systems Using Gröbner Basis",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Deepak Patil",
+    "year": "2026",
+	"current": "Research Assistant at IIT Delhi, India",
+    "avatar": "assets/img/scholars/akansha.jpg"
+  },  
+  {
+    "name": "Dr. Chayan Kumar Paul",
+    "thesis": "Safe and Compilant Adaptive Control Strategies for Human-Robot Interaction",
+    "supervisor": "Prof. Indra Narayan Kar",
+    "year": "2026",
+    "current": "Research Associate at IISc, Bangalore, India",
+    "avatar": "assets/img/scholars/chayan1.jpeg"
+  },
+  {
+    "name": "Dr. Neetish Patel",
+    "thesis": "Robust Fixed-time Control for Euler-Lagrange Systems",
+    "supervisor": "Prof. Indra Narayan Kar and Prof. Sudipto Mukherjee",
+    "year": "2026",
+    "current": "Senior Project Engineer at IIT Kanpur, India",
+    "website": "https://sites.google.com/view/neetishpatel",
+    "avatar": "assets/img/scholars/neetish2.jpg"
+  },
+  {
     "name": "Dr. Atul Sharma",
     "thesis": "Sliding Mode in Distributed Parameter Systems",
     "supervisor": "Prof. S. Janardhanan",
